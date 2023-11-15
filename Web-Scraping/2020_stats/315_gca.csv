@@ -1,0 +1,36 @@
+,Date,Day,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,SCA,PassLive,PassDead,TO,Sh,Fld,Def,GCA,PassLive,PassDead,TO,Sh,Fld,Def,Match Report
+0,2020-09-19,Sat,Matchweek 2,Home,L 1–3,Manchester Utd,Crystal Palace,N,"RW,AM",45,1,0,1,0,0,0,0,0,0,0,0,0,0,0,Match Report
+1,2020-09-26,Sat,Matchweek 3,Away,W 3–2,Manchester Utd,Brighton,Y,RW,82,1,1,0,0,0,0,0,0,0,0,0,0,0,0,Match Report
+2,2020-10-04,Sun,Matchweek 4,Home,L 1–6,Manchester Utd,Tottenham,Y,RW,67,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Match Report
+4,2020-10-24,Sat,Matchweek 6,Home,D 0–0,Manchester Utd,Chelsea,N,DM,8,1,1,0,0,0,0,0,0,0,0,0,0,0,0,Match Report
+5,2020-11-01,Sun,Matchweek 7,Home,L 0–1,Manchester Utd,Arsenal,Y,FW,74,1,1,0,0,0,0,0,0,0,0,0,0,0,0,Match Report
+7,2020-11-29,Sun,Matchweek 10,Away,W 3–2,Manchester Utd,Southampton,Y,FW,45,1,0,0,0,1,0,0,0,0,0,0,0,0,0,Match Report
+8,2020-12-05,Sat,Matchweek 11,Away,W 3–1,Manchester Utd,West Ham,Y,"RW,FW",90,3,3,0,0,0,0,0,0,0,0,0,0,0,0,Match Report
+9,2020-12-12,Sat,Matchweek 12,Home,D 0–0,Manchester Utd,Manchester City,Y,RW,73,1,1,0,0,0,0,0,0,0,0,0,0,0,0,Match Report
+10,2020-12-17,Thu,Matchweek 13,Away,W 3–2,Manchester Utd,Sheffield Utd,Y,RW,73,1,0,0,0,0,1,0,0,0,0,0,0,0,0,Match Report
+11,2020-12-20,Sun,Matchweek 14,Home,W 6–2,Manchester Utd,Leeds United,N,"On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play",Match Report
+12,2020-12-26,Sat,Matchweek 15,Away,D 2–2,Manchester Utd,Leicester City,N,"On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play",Match Report
+13,2020-12-29,Tue,Matchweek 16,Home,W 1–0,Manchester Utd,Wolves,Y,RW,63,2,2,0,0,0,0,0,0,0,0,0,0,0,0,Match Report
+14,2021-01-01,Fri,Matchweek 17,Home,W 2–1,Manchester Utd,Aston Villa,N,"On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play",Match Report
+15,2021-01-12,Tue,Matchweek 1,Away,W 1–0,Manchester Utd,Burnley,N,RW,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Match Report
+16,2021-01-17,Sun,Matchweek 19,Away,D 0–0,Manchester Utd,Liverpool,N,"RW,AM",2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Match Report
+17,2021-01-20,Wed,Matchweek 18,Away,W 2–1,Manchester Utd,Fulham,Y,RW,84,2,1,0,1,0,0,0,0,0,0,0,0,0,0,Match Report
+18,2021-01-27,Wed,Matchweek 20,Home,L 1–2,Manchester Utd,Sheffield Utd,Y,RW,65,1,1,0,0,0,0,0,0,0,0,0,0,0,0,Match Report
+19,2021-01-30,Sat,Matchweek 21,Away,D 0–0,Manchester Utd,Arsenal,N,RW,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Match Report
+20,2021-02-02,Tue,Matchweek 22,Home,W 9–0,Manchester Utd,Southampton,Y,RW,90,5,4,0,0,1,0,0,3,2,0,0,1,0,0,Match Report
+21,2021-02-06,Sat,Matchweek 23,Home,D 3–3,Manchester Utd,Everton,Y,RW,89,2,0,0,2,0,0,0,0,0,0,0,0,0,0,Match Report
+22,2021-02-14,Sun,Matchweek 24,Away,D 1–1,Manchester Utd,West Brom,N,RW,25,3,1,0,1,1,0,0,0,0,0,0,0,0,0,Match Report
+23,2021-02-21,Sun,Matchweek 25,Home,W 3–1,Manchester Utd,Newcastle Utd,N,FW,21,1,1,0,0,0,0,0,0,0,0,0,0,0,0,Match Report
+24,2021-02-28,Sun,Matchweek 26,Away,D 0–0,Manchester Utd,Chelsea,Y,FW,78,3,2,0,0,0,1,0,0,0,0,0,0,0,0,Match Report
+25,2021-03-03,Wed,Matchweek 29,Away,D 0–0,Manchester Utd,Crystal Palace,Y,"RW,FW",90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Match Report
+26,2021-03-07,Sun,Matchweek 27,Away,W 2–0,Manchester Utd,Manchester City,N,"RW,FW",18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Match Report
+27,2021-03-14,Sun,Matchweek 28,Home,W 1–0,Manchester Utd,West Ham,Y,FW,90,4,3,0,0,1,0,0,0,0,0,0,0,0,0,Match Report
+28,2021-04-04,Sun,Matchweek 30,Home,W 2–1,Manchester Utd,Brighton,Y,RW,90,2,1,0,0,0,1,0,0,0,0,0,0,0,0,Match Report
+29,2021-04-11,Sun,Matchweek 31,Away,W 3–1,Manchester Utd,Tottenham,N,RW,19,1,1,0,0,0,0,0,1,1,0,0,0,0,0,Match Report
+30,2021-04-18,Sun,Matchweek 32,Home,W 3–1,Manchester Utd,Burnley,Y,RW,90,3,2,0,0,1,0,0,0,0,0,0,0,0,0,Match Report
+31,2021-04-25,Sun,Matchweek 33,Away,D 0–0,Manchester Utd,Leeds United,Y,"FW,RW",90,4,2,0,1,0,1,0,0,0,0,0,0,0,0,Match Report
+32,2021-05-09,Sun,Matchweek 35,Away,W 3–1,Manchester Utd,Aston Villa,Y,RW,64,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Match Report
+33,2021-05-11,Tue,Matchweek 36,Home,L 1–2,Manchester Utd,Leicester City,Y,FW,65,2,0,0,1,0,1,0,1,0,0,1,0,0,0,Match Report
+34,2021-05-13,Thu,Matchweek 34,Home,L 2–4,Manchester Utd,Liverpool,N,RW,28,3,1,0,0,2,0,0,0,0,0,0,0,0,0,Match Report
+35,2021-05-18,Tue,Matchweek 37,Home,D 1–1,Manchester Utd,Fulham,Y,RW,82,2,1,0,0,1,0,0,0,0,0,0,0,0,0,Match Report
+36,2021-05-23,Sun,Matchweek 38,Away,W 2–1,Manchester Utd,Wolves,N,"On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play",Match Report

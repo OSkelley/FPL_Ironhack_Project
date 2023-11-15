@@ -1,0 +1,33 @@
+,Date,Day,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,SCA,PassLive,PassDead,TO,Sh,Fld,Def,GCA,PassLive,PassDead,TO,Sh,Fld,Def,Match Report
+0,2018-08-11,Sat,Matchweek 1,Home,W 2–0,Watford,Brighton,Y,AM,80.0,3.0,1.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Match Report
+1,2018-08-19,Sun,Matchweek 2,Away,W 3–1,Watford,Burnley,Y,"AM,RW",82.0,2.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Match Report
+2,2018-08-26,Sun,Matchweek 3,Home,W 2–1,Watford,Crystal Palace,Y,AM,90.0,2.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Match Report
+3,2018-09-02,Sun,Matchweek 4,Home,W 2–1,Watford,Tottenham,Y,AM,85.0,3.0,2.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,Match Report
+4,2018-09-15,Sat,Matchweek 5,Home,L 1–2,Watford,Manchester Utd,Y,"AM,RM",90.0,3.0,0.0,1.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Match Report
+5,2018-09-22,Sat,Matchweek 6,Away,D 1–1,Watford,Fulham,Y,AM,69.0,3.0,2.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,Match Report
+6,2018-09-29,Sat,Matchweek 7,Away,L 0–2,Watford,Arsenal,Y,AM,90.0,2.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Match Report
+7,2018-10-06,Sat,Matchweek 8,Home,L 0–4,Watford,Bournemouth,Y,"AM,RM",54.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Match Report
+8,2018-10-20,Sat,Matchweek 9,Away,W 2–0,Watford,Wolves,Y,AM,90.0,2.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Match Report
+9,2018-10-27,Sat,Matchweek 10,Home,W 3–0,Watford,Huddersfield,Y,"AM,RW",90.0,3.0,2.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Match Report
+10,2018-11-03,Sat,Matchweek 11,Away,L 0–1,Watford,Newcastle Utd,Y,AM,76.0,2.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Match Report
+11,2018-11-10,Sat,Matchweek 12,Away,D 1–1,Watford,Southampton,Y,AM,39.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Match Report
+12,2018-11-24,Sat,Matchweek 13,Home,L 0–3,Watford,Liverpool,Y,AM,74.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Match Report
+13,2018-12-01,Sat,Matchweek 14,Away,L 0–2,Watford,Leicester City,Y,AM,75.0,2.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Match Report
+14,2018-12-04,Tue,Matchweek 15,Home,L 1–2,Watford,Manchester City,Y,CM,51.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Match Report
+16,2018-12-29,Sat,Matchweek 20,Home,D 1–1,Watford,Newcastle Utd,Y,AM,53.0,3.0,2.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Match Report
+17,2019-01-02,Wed,Matchweek 21,Away,D 3–3,Watford,Bournemouth,N,AM,20.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Match Report
+18,2019-01-12,Sat,Matchweek 22,Away,W 2–1,Watford,Crystal Palace,Y,AM,18.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Match Report
+20,2019-01-30,Wed,Matchweek 24,Away,L 1–2,Watford,Tottenham,Y,AM,90.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Match Report
+21,2019-02-02,Sat,Matchweek 25,Away,D 0–0,Watford,Brighton,Y,AM,90.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Match Report
+22,2019-02-09,Sat,Matchweek 26,Home,W 1–0,Watford,Everton,Y,AM,89.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,Match Report
+23,2019-02-22,Fri,Matchweek 27,Away,W 5–1,Watford,Cardiff City,Y,AM,90.0,6.0,5.0,0.0,0.0,0.0,0.0,1.0,2.0,2.0,0.0,0.0,0.0,0.0,0.0,Match Report
+24,2019-02-27,Wed,Matchweek 28,Away,L 0–5,Watford,Liverpool,Y,"AM,RW",90.0,2.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Match Report
+25,2019-03-03,Sun,Matchweek 29,Home,W 2–1,Watford,Leicester City,Y,AM,89.0,2.0,0.0,0.0,0.0,0.0,2.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,Match Report
+27,2019-03-30,Sat,Matchweek 32,Away,L 1–2,Watford,Manchester Utd,Y,AM,80.0,3.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Match Report
+28,2019-04-02,Tue,Matchweek 33,Home,W 4–1,Watford,Fulham,Y,"CM,AM",90.0,5.0,5.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,Match Report
+29,2019-04-15,Mon,Matchweek 34,Home,L 0–1,Watford,Arsenal,Y,"LM,CM",90.0,5.0,4.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Match Report
+30,2019-04-20,Sat,Matchweek 35,Away,W 2–1,Watford,Huddersfield,Y,"AM,RW",89.0,3.0,2.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Match Report
+31,2019-04-23,Tue,Matchweek 31,Home,D 1–1,Watford,Southampton,Y,"AM,CM",76.0,3.0,2.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Match Report
+32,2019-04-27,Sat,Matchweek 36,Home,L 1–2,Watford,Wolves,Y,AM,73.0,2.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Match Report
+33,2019-05-05,Sun,Matchweek 37,Away,L 0–3,Watford,Chelsea,Y,AM,90.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Match Report
+34,2019-05-12,Sun,Matchweek 38,Home,L 1–4,Watford,West Ham,Y,"AM,RM",66.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Match Report

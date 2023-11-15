@@ -1,0 +1,23 @@
+,Date,Day,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Cmp,Att,Cmp%,TotDist,PrgDist,Cmp,Att,Cmp%,Cmp,Att,Cmp%,Cmp,Att,Cmp%,Ast,xAG,xA,KP,1/3,PPA,CrsPA,PrgP,Match Report
+0,2021-09-13,Mon,Matchweek 4,Home,W 3–1,Everton,Burnley,Y,CB,60,15,21,71.4,240,66,6,7,85.7,8,10,80.0,1,3,33.3,0,0.0,0.0,0,0,0,0,1,Match Report
+1,2021-09-18,Sat,Matchweek 5,Away,L 0–3,Everton,Aston Villa,Y,RB,79,19,33,57.6,357,228,9,11,81.8,7,15,46.7,2,4,50.0,0,0.1,0.1,1,3,1,1,6,Match Report
+2,2021-09-25,Sat,Matchweek 6,Home,W 2–0,Everton,Norwich City,Y,RB,90,38,52,73.1,560,259,23,26,88.5,12,19,63.2,2,4,50.0,0,0.0,0.0,1,6,1,0,4,Match Report
+3,2021-10-02,Sat,Matchweek 7,Away,D 1–1,Everton,Manchester Utd,Y,RB,90,20,31,64.5,314,169,9,12,75.0,10,14,71.4,0,3,0.0,0,0.0,0.0,1,1,2,0,4,Match Report
+4,2021-10-17,Sun,Matchweek 8,Home,L 0–1,Everton,West Ham,Y,CB,90,23,35,65.7,497,246,8,8,100.0,10,18,55.6,4,8,50.0,0,0.0,0.0,0,3,0,0,3,Match Report
+5,2021-10-23,Sat,Matchweek 9,Home,L 2–5,Everton,Watford,Y,CB,90,28,37,75.7,597,100,5,6,83.3,20,24,83.3,3,7,42.9,0,0.0,0.0,0,2,0,0,0,Match Report
+6,2021-11-01,Mon,Matchweek 10,Away,L 1–2,Everton,Wolves,Y,LB,90,25,34,73.5,394,193,12,14,85.7,11,16,68.8,2,3,66.7,0,0.0,0.0,1,2,1,0,4,Match Report
+7,2021-11-07,Sun,Matchweek 11,Home,D 0–0,Everton,Tottenham,Y,CB,90,43,49,87.8,742,187,19,21,90.5,20,21,95.2,3,6,50.0,0,0.0,0.0,1,1,0,0,2,Match Report
+8,2021-11-21,Sun,Matchweek 12,Away,L 0–3,Everton,Manchester City,Y,CB,90,10,17,58.8,198,49,4,4,100.0,4,5,80.0,2,5,40.0,0,0.0,0.0,0,2,0,0,1,Match Report
+9,2021-11-28,Sun,Matchweek 13,Away,L 0–1,Everton,Brentford,Y,CB,90,37,47,78.7,565,217,21,24,87.5,15,20,75.0,1,2,50.0,0,0.0,0.0,0,4,0,0,3,Match Report
+10,2021-12-01,Wed,Matchweek 14,Home,L 1–4,Everton,Liverpool,Y,CB,90,8,14,57.1,137,51,3,6,50.0,5,5,100.0,0,3,0.0,0,0.0,0.0,0,3,0,0,2,Match Report
+12,2021-12-12,Sun,Matchweek 16,Away,L 1–3,Everton,Crystal Palace,Y,LB,90,28,39,71.8,431,181,17,19,89.5,10,14,71.4,1,3,33.3,0,0.1,0.1,1,2,1,1,5,Match Report
+13,2021-12-16,Thu,Matchweek 17,Away,D 1–1,Everton,Chelsea,Y,LB,90,13,18,72.2,146,86,10,13,76.9,3,4,75.0,0,1,0.0,0,0.0,0.0,1,2,1,0,3,Match Report
+14,2022-01-02,Sun,Matchweek 21,Home,L 2–3,Everton,Brighton,Y,"CB,LB",90,45,51,88.2,642,324,24,25,96.0,17,19,89.5,1,2,50.0,0,0.2,0.1,2,4,3,1,4,Match Report
+15,2022-01-15,Sat,Matchweek 22,Away,L 1–2,Everton,Norwich City,Y,"CB,RB",90,47,59,79.7,853,267,20,26,76.9,24,28,85.7,3,4,75.0,0,0.2,0.1,2,2,1,0,6,Match Report
+18,2022-03-13,Sun,Matchweek 29,Home,L 0–1,Everton,Wolves,Y,CB,90,37,43,86.0,634,158,16,18,88.9,19,19,100.0,1,2,50.0,0,0.0,0.0,0,1,0,0,1,Match Report
+19,2022-03-17,Thu,Matchweek 20,Home,W 1–0,Everton,Newcastle Utd,Y,LB,90,32,41,78.0,526,234,16,18,88.9,12,15,80.0,2,4,50.0,0,0.0,0.0,0,4,0,0,6,Match Report
+20,2022-04-03,Sun,Matchweek 31,Away,L 1–2,Everton,West Ham,Y,CB,90,43,49,87.8,845,179,15,18,83.3,22,23,95.7,6,8,75.0,0,0.0,0.0,0,1,0,0,3,Match Report
+21,2022-04-06,Wed,Matchweek 19,Away,L 2–3,Everton,Burnley,Y,CB,90,13,24,54.2,219,48,4,10,40.0,9,11,81.8,0,3,0.0,0,0.1,0.0,1,0,1,0,1,Match Report
+22,2022-04-09,Sat,Matchweek 32,Home,W 1–0,Everton,Manchester Utd,Y,CB,90,17,22,77.3,306,86,6,7,85.7,11,13,84.6,0,2,0.0,0,0.0,0.0,0,0,0,0,2,Match Report
+23,2022-04-20,Wed,Matchweek 18,Home,D 1–1,Everton,Leicester City,Y,CB,90,28,33,84.8,568,117,7,10,70.0,19,20,95.0,2,2,100.0,0,0.0,0.0,0,3,0,0,2,Match Report
+25,2022-05-19,Thu,Matchweek 33,Home,W 3–2,Everton,Crystal Palace,N,"On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play",Match Report

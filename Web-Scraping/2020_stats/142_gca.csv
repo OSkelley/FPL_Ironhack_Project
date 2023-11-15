@@ -1,0 +1,28 @@
+,Date,Day,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,SCA,PassLive,PassDead,TO,Sh,Fld,Def,GCA,PassLive,PassDead,TO,Sh,Fld,Def,Match Report
+0,2020-09-12,Sat,Matchweek 1,Home,W 1–0,Crystal Palace,Southampton,Y,LM,80.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Match Report
+1,2020-09-19,Sat,Matchweek 2,Away,W 3–1,Crystal Palace,Manchester Utd,Y,LM,74.0,4.0,4.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,Match Report
+3,2020-10-18,Sun,Matchweek 5,Home,D 1–1,Crystal Palace,Brighton,Y,LM,87.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Match Report
+4,2020-10-24,Sat,Matchweek 6,Away,W 2–1,Crystal Palace,Fulham,Y,LM,75.0,2.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Match Report
+5,2020-10-30,Fri,Matchweek 7,Away,L 0–2,Crystal Palace,Wolves,Y,LM,64.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Match Report
+6,2020-11-07,Sat,Matchweek 8,Home,W 4–1,Crystal Palace,Leeds United,N,RM,20.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Match Report
+7,2020-11-23,Mon,Matchweek 9,Away,L 0–1,Crystal Palace,Burnley,N,CM,24.0,2.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Match Report
+8,2020-11-27,Fri,Matchweek 10,Home,L 0–2,Crystal Palace,Newcastle Utd,Y,"FW,CM",90.0,3.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Match Report
+9,2020-12-06,Sun,Matchweek 11,Away,W 5–1,Crystal Palace,West Brom,Y,RM,73.0,5.0,3.0,0.0,0.0,2.0,0.0,0.0,2.0,1.0,0.0,0.0,1.0,0.0,0.0,Match Report
+10,2020-12-13,Sun,Matchweek 12,Home,D 1–1,Crystal Palace,Tottenham,Y,RM,90.0,3.0,2.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Match Report
+11,2020-12-16,Wed,Matchweek 13,Away,D 1–1,Crystal Palace,West Ham,N,RM,6.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Match Report
+12,2020-12-19,Sat,Matchweek 14,Home,L 0–7,Crystal Palace,Liverpool,Y,RM,90.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Match Report
+13,2020-12-26,Sat,Matchweek 15,Away,L 0–3,Crystal Palace,Aston Villa,Y,RM,81.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Match Report
+14,2020-12-28,Mon,Matchweek 16,Home,D 1–1,Crystal Palace,Leicester City,Y,LM,83.0,2.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Match Report
+15,2021-01-02,Sat,Matchweek 17,Home,W 2–0,Crystal Palace,Sheffield Utd,Y,LM,39.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Match Report
+17,2021-03-03,Wed,Matchweek 29,Home,D 0–0,Crystal Palace,Manchester Utd,N,LM,7.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Match Report
+18,2021-03-07,Sun,Matchweek 27,Away,L 1–4,Crystal Palace,Tottenham,N,RM,26.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Match Report
+19,2021-03-13,Sat,Matchweek 28,Home,W 1–0,Crystal Palace,West Brom,N,LM,17.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Match Report
+20,2021-04-05,Mon,Matchweek 30,Away,D 1–1,Crystal Palace,Everton,N,"CM,RM",23.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,Match Report
+21,2021-04-10,Sat,Matchweek 31,Home,L 1–4,Crystal Palace,Chelsea,N,LM,32.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,Match Report
+22,2021-04-26,Mon,Matchweek 33,Away,L 1–2,Crystal Palace,Leicester City,N,RM,6.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Match Report
+23,2021-05-01,Sat,Matchweek 34,Home,L 0–2,Crystal Palace,Manchester City,N,RM,32.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Match Report
+24,2021-05-08,Sat,Matchweek 35,Away,W 2–0,Crystal Palace,Sheffield Utd,Y,LM,70.0,3.0,2.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Match Report
+25,2021-05-11,Tue,Matchweek 32,Away,L 1–3,Crystal Palace,Southampton,N,"CM,LM",26.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Match Report
+26,2021-05-16,Sun,Matchweek 36,Home,W 3–2,Crystal Palace,Aston Villa,Y,LM,90.0,2.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Match Report
+27,2021-05-19,Wed,Matchweek 37,Home,L 1–3,Crystal Palace,Arsenal,Y,LM,90.0,2.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Match Report
+28,2021-05-23,Sun,Matchweek 38,Away,L 0–2,Crystal Palace,Liverpool,N,"RM,CM",33.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Match Report

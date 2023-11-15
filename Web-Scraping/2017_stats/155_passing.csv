@@ -1,0 +1,33 @@
+,Date,Day,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Cmp,Att,Cmp%,TotDist,PrgDist,Cmp,Att,Cmp%,Cmp,Att,Cmp%,Cmp,Att,Cmp%,Ast,xAG,xA,KP,1/3,PPA,CrsPA,PrgP,Match Report
+0,2017-08-12,Sat,Matchweek 1,Home,W 1–0,Everton,Stoke City,Y,"CM,RM",90,59,70,84.3,925,291,29,30,96.7,26,31,83.9,2,6,33.3,0,0.0,0.0,0,8,0,0,8,Match Report
+1,2017-08-21,Mon,Matchweek 2,Away,D 1–1,Everton,Manchester City,Y,"RM,CM",90,33,36,91.7,565,191,16,17,94.1,13,13,100.0,3,4,75.0,0,0.0,0.0,0,4,0,0,2,Match Report
+2,2017-08-27,Sun,Matchweek 3,Away,L 0–2,Everton,Chelsea,Y,"CM,DM",90,40,46,87.0,649,153,21,22,95.5,16,20,80.0,2,3,66.7,0,0.0,0.0,0,2,0,0,3,Match Report
+3,2017-09-09,Sat,Matchweek 4,Home,L 0–3,Everton,Tottenham,Y,"DM,RM",79,36,38,94.7,708,193,14,16,87.5,16,16,100.0,6,6,100.0,0,0.0,0.0,0,3,0,0,4,Match Report
+4,2017-09-17,Sun,Matchweek 5,Away,L 0–4,Everton,Manchester Utd,Y,CM,75,56,62,90.3,828,269,34,37,91.9,20,20,100.0,2,3,66.7,0,0.0,0.0,0,4,0,0,4,Match Report
+5,2017-09-23,Sat,Matchweek 6,Home,W 2–1,Everton,Bournemouth,Y,"RM,CM",90,68,78,87.2,1054,291,35,38,92.1,26,29,89.7,5,7,71.4,0,0.0,0.1,0,9,1,0,6,Match Report
+6,2017-10-01,Sun,Matchweek 7,Home,L 0–1,Everton,Burnley,Y,DM,90,66,77,85.7,1210,358,27,31,87.1,33,36,91.7,6,8,75.0,0,0.0,0.1,1,13,1,1,12,Match Report
+7,2017-10-15,Sun,Matchweek 8,Away,D 1–1,Everton,Brighton,Y,DM,68,43,54,79.6,611,191,25,29,86.2,15,20,75.0,1,1,100.0,0,0.1,0.0,1,2,1,0,6,Match Report
+8,2017-10-22,Sun,Matchweek 9,Home,L 2–5,Everton,Arsenal,Y,CM,67,15,19,78.9,145,52,11,13,84.6,2,3,66.7,0,1,0.0,0,0.0,0.0,0,3,0,0,0,Match Report
+9,2017-10-29,Sun,Matchweek 10,Away,L 0–2,Everton,Leicester City,Y,"CM,LM",90,58,64,90.6,751,180,31,32,96.9,18,21,85.7,1,2,50.0,0,0.1,0.0,2,10,1,0,4,Match Report
+10,2017-11-05,Sun,Matchweek 11,Home,W 3–2,Everton,Watford,Y,"RM,CM",90,30,42,71.4,442,169,18,22,81.8,9,11,81.8,2,3,66.7,0,0.0,0.0,0,5,0,0,1,Match Report
+11,2017-11-18,Sat,Matchweek 12,Away,D 2–2,Everton,Crystal Palace,Y,"CM,RM",90,24,30,80.0,362,76,11,13,84.6,11,13,84.6,1,2,50.0,0,0.0,0.0,1,2,0,0,1,Match Report
+12,2017-11-26,Sun,Matchweek 13,Away,L 1–4,Everton,Southampton,Y,CM,90,39,44,88.6,650,191,22,23,95.7,14,14,100.0,3,4,75.0,0,0.0,0.0,1,7,1,0,5,Match Report
+13,2017-11-29,Wed,Matchweek 14,Home,W 4–0,Everton,West Ham,Y,DM,90,43,46,93.5,722,143,23,25,92.0,16,17,94.1,4,4,100.0,0,0.1,0.0,1,2,0,0,0,Match Report
+14,2017-12-02,Sat,Matchweek 15,Home,W 2–0,Everton,Huddersfield,Y,"DM,CM",90,37,43,86.0,587,89,17,19,89.5,10,11,90.9,5,5,100.0,0,0.0,0.0,0,5,0,0,2,Match Report
+16,2017-12-13,Wed,Matchweek 17,Away,W 1–0,Everton,Newcastle Utd,Y,"DM,CM",90,61,69,88.4,972,182,30,34,88.2,25,28,89.3,3,4,75.0,0,0.0,0.0,1,3,0,0,3,Match Report
+17,2017-12-18,Mon,Matchweek 18,Home,W 3–1,Everton,Swansea City,Y,DM,90,60,71,84.5,921,216,36,39,92.3,20,25,80.0,3,4,75.0,0,0.0,0.0,0,5,0,0,2,Match Report
+18,2017-12-23,Sat,Matchweek 19,Home,D 0–0,Everton,Chelsea,Y,CM,50,13,18,72.2,193,16,7,8,87.5,6,6,100.0,0,3,0.0,0,0.0,0.0,0,0,0,0,0,Match Report
+20,2017-12-30,Sat,Matchweek 21,Away,L 1–2,Everton,Bournemouth,Y,"LM,DM",70,43,53,81.1,639,75,27,34,79.4,14,15,93.3,1,2,50.0,0,0.0,0.0,0,0,0,0,2,Match Report
+22,2018-01-13,Sat,Matchweek 23,Away,L 0–4,Everton,Tottenham,Y,DM,90,46,57,80.7,597,211,25,29,86.2,15,18,83.3,1,2,50.0,0,0.0,0.0,0,3,0,0,5,Match Report
+23,2018-01-20,Sat,Matchweek 24,Home,D 1–1,Everton,West Brom,N,"On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play",Match Report
+24,2018-01-31,Wed,Matchweek 25,Home,W 2–1,Everton,Leicester City,Y,DM,90,35,48,72.9,589,167,20,25,80.0,12,18,66.7,3,4,75.0,0,0.0,0.0,0,6,0,0,5,Match Report
+25,2018-02-03,Sat,Matchweek 26,Away,L 1–5,Everton,Arsenal,Y,"DM,CM",90,34,43,79.1,574,161,16,21,76.2,12,14,85.7,4,6,66.7,0,0.0,0.0,0,5,0,0,7,Match Report
+26,2018-02-10,Sat,Matchweek 27,Home,W 3–1,Everton,Crystal Palace,Y,"CM,DM",79,37,46,80.4,641,175,20,24,83.3,11,12,91.7,4,6,66.7,0,0.0,0.1,0,5,1,0,6,Match Report
+27,2018-02-24,Sat,Matchweek 28,Away,L 0–1,Everton,Watford,Y,CM,90,40,52,76.9,665,272,18,22,81.8,16,18,88.9,4,8,50.0,0,0.2,0.2,1,4,1,1,1,Match Report
+28,2018-03-03,Sat,Matchweek 29,Away,L 1–2,Everton,Burnley,Y,"CM,CB",90,28,35,80.0,542,213,11,13,84.6,9,11,81.8,6,8,75.0,0,0.0,0.0,0,4,0,0,2,Match Report
+30,2018-03-17,Sat,Matchweek 31,Away,W 2–1,Everton,Stoke City,Y,DM,90,54,62,87.1,826,196,28,32,87.5,20,22,90.9,3,4,75.0,0,0.1,0.0,2,3,1,0,8,Match Report
+33,2018-04-14,Sat,Matchweek 34,Away,D 1–1,Everton,Swansea City,Y,DM,68,32,36,88.9,432,78,22,23,95.7,8,10,80.0,1,1,100.0,0,0.0,0.0,0,3,0,0,1,Match Report
+34,2018-04-23,Mon,Matchweek 35,Home,W 1–0,Everton,Newcastle Utd,Y,"RM,CM",90,38,49,77.6,564,164,23,26,88.5,10,15,66.7,4,5,80.0,0,0.0,0.0,0,6,1,0,6,Match Report
+35,2018-04-28,Sat,Matchweek 36,Away,W 2–0,Everton,Huddersfield,Y,"DM,CM",90,46,54,85.2,635,219,23,23,100.0,14,18,77.8,2,2,100.0,0,0.0,0.0,0,5,0,0,7,Match Report
+36,2018-05-05,Sat,Matchweek 37,Home,D 1–1,Everton,Southampton,Y,"CM,LM",90,45,54,83.3,803,152,22,25,88.0,15,19,78.9,6,7,85.7,1,0.1,0.1,2,6,1,1,6,Match Report
+37,2018-05-13,Sun,Matchweek 38,Away,L 1–3,Everton,West Ham,Y,"CM,RM,DM",90,49,57,86.0,855,287,24,25,96.0,20,24,83.3,5,7,71.4,0,0.0,0.0,1,10,1,0,4,Match Report

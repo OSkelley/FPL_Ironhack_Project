@@ -1,0 +1,7 @@
+,Date,Day,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att.1,Succ,PassLive,PassDead,TO,Fld,Def,PassLive.1,PassDead.1,TO.1,Sh.1,Fld.1,Def.1,TotDist,PrgDist,Cmp.1,Cmp%.1,Cmp.2,Att.2,Cmp%.2,Cmp.3,Att.3,Cmp%.3,xA,KP,1/3,PPA,CrsPA
+0,2019-02-22,Fri,Matchweek 27,Home,L 1–5,Cardiff City,Watford,Y,"RM,CM",90,0,0,0,0,2,0,0,0,40,1,4,0,0.1,0.1,0.0,1,0,20,29,69.0,2,10,3,1,1,1,0,0,0,0,0,0,0,0,0,0,418,208,8,88.9,7,11,63.6,4,8,50.0,0.0,0,3,1,0
+1,2019-02-26,Tue,Matchweek 28,Home,L 0–3,Cardiff City,Everton,Y,CM,90,0,0,0,0,0,0,1,0,40,3,1,0,0.0,0.0,0.0,1,0,20,34,58.8,2,9,2,2,2,1,0,0,0,0,0,0,0,0,0,0,456,158,11,84.6,5,8,62.5,4,7,57.1,0.1,0,1,1,1
+5,2019-04-16,Tue,Matchweek 31,Away,W 2–0,Cardiff City,Brighton,N,DM,36,0,0,0,0,0,0,0,0,27,2,2,0,0.0,0.0,0.0,0,0,8,16,50.0,1,7,1,0,0,0,0,0,0,0,0,0,0,0,0,0,106,47,5,55.6,3,6,50.0,0,1,0.0,0.0,0,1,0,0
+6,2019-04-27,Sat,Matchweek 36,Away,L 0–1,Cardiff City,Fulham,Y,"DM,CM",90,0,0,0,0,0,0,0,0,35,3,1,1,0.0,0.0,0.0,2,0,19,26,73.1,4,10,3,1,1,2,0,0,0,0,0,0,0,0,0,0,270,102,12,85.7,5,5,100.0,1,4,25.0,0.0,0,4,0,0
+7,2019-05-04,Sat,Matchweek 37,Home,L 2–3,Cardiff City,Crystal Palace,N,CM,80,0,0,0,0,0,0,0,0,29,1,1,1,0.0,0.0,0.0,0,0,12,18,66.7,2,12,1,2,0,0,0,0,0,0,0,0,0,0,0,0,141,24,10,76.9,1,2,50.0,1,2,50.0,0.0,0,1,0,0
+8,2019-05-12,Sun,Matchweek 38,Away,W 2–0,Cardiff City,Manchester Utd,Y,CM,90,0,0,0,0,2,0,1,0,29,2,2,2,0.0,0.0,0.1,3,0,14,18,77.8,3,11,1,0,0,1,1,0,0,0,0,0,0,0,0,0,270,114,5,83.3,6,7,85.7,2,3,66.7,0.0,1,3,0,0

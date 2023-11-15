@@ -1,0 +1,30 @@
+,Date,Day,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,SCA,PassLive,PassDead,TO,Sh,Fld,Def,GCA,PassLive,PassDead,TO,Sh,Fld,Def,Match Report
+0,2021-08-22,Sun,Matchweek 2,Away,W 2–0,Chelsea,Arsenal,Y,FW,90,6,4,0,0,1,1,0,0,0,0,0,0,0,0,Match Report
+1,2021-08-28,Sat,Matchweek 3,Away,D 1–1,Chelsea,Liverpool,Y,FW,90,2,2,0,0,0,0,0,0,0,0,0,0,0,0,Match Report
+2,2021-09-11,Sat,Matchweek 4,Home,W 3–0,Chelsea,Aston Villa,Y,FW,90,2,1,0,1,0,0,0,1,0,0,1,0,0,0,Match Report
+3,2021-09-19,Sun,Matchweek 5,Away,W 3–0,Chelsea,Tottenham,Y,FW,90,4,3,0,1,0,0,0,0,0,0,0,0,0,0,Match Report
+4,2021-09-25,Sat,Matchweek 6,Home,L 0–1,Chelsea,Manchester City,Y,FW,90,2,1,0,0,0,1,0,0,0,0,0,0,0,0,Match Report
+5,2021-10-02,Sat,Matchweek 7,Home,W 3–1,Chelsea,Southampton,Y,FW,90,4,2,0,1,1,0,0,0,0,0,0,0,0,0,Match Report
+6,2021-10-16,Sat,Matchweek 8,Away,W 1–0,Chelsea,Brentford,Y,FW,75,1,1,0,0,0,0,0,0,0,0,0,0,0,0,Match Report
+8,2021-11-28,Sun,Matchweek 13,Home,D 1–1,Chelsea,Manchester Utd,N,FW,9,1,1,0,0,0,0,0,0,0,0,0,0,0,0,Match Report
+9,2021-12-01,Wed,Matchweek 14,Away,W 2–1,Chelsea,Watford,N,FW,22,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Match Report
+10,2021-12-04,Sat,Matchweek 15,Away,L 2–3,Chelsea,West Ham,N,FW,45,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Match Report
+11,2021-12-11,Sat,Matchweek 16,Home,W 3–2,Chelsea,Leeds United,N,FW,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Match Report
+13,2021-12-26,Sun,Matchweek 19,Away,W 3–1,Chelsea,Aston Villa,N,FW,45,5,2,0,1,0,2,0,2,0,0,1,0,1,0,Match Report
+14,2021-12-29,Wed,Matchweek 20,Home,D 1–1,Chelsea,Brighton,Y,FW,90,4,4,0,0,0,0,0,0,0,0,0,0,0,0,Match Report
+16,2022-01-15,Sat,Matchweek 22,Away,L 0–1,Chelsea,Manchester City,Y,FW,90,1,0,0,0,1,0,0,0,0,0,0,0,0,0,Match Report
+17,2022-01-18,Tue,Matchweek 24,Away,D 1–1,Chelsea,Brighton,Y,FW,79,2,2,0,0,0,0,0,0,0,0,0,0,0,0,Match Report
+18,2022-01-23,Sun,Matchweek 23,Home,W 2–0,Chelsea,Tottenham,Y,FW,90,2,2,0,0,0,0,0,0,0,0,0,0,0,0,Match Report
+19,2022-02-19,Sat,Matchweek 26,Away,W 1–0,Chelsea,Crystal Palace,Y,FW,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Match Report
+20,2022-03-05,Sat,Matchweek 28,Away,W 4–0,Chelsea,Burnley,N,"On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play",Match Report
+21,2022-03-10,Thu,Matchweek 30,Away,W 3–1,Chelsea,Norwich City,N,FW,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Match Report
+22,2022-03-13,Sun,Matchweek 29,Home,W 1–0,Chelsea,Newcastle Utd,N,LW,28,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Match Report
+23,2022-04-02,Sat,Matchweek 31,Home,L 1–4,Chelsea,Brentford,N,FW,26,1,1,0,0,0,0,0,0,0,0,0,0,0,0,Match Report
+25,2022-04-20,Wed,Matchweek 25,Home,L 2–4,Chelsea,Arsenal,Y,FW,59,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Match Report
+26,2022-04-24,Sun,Matchweek 34,Home,W 1–0,Chelsea,West Ham,N,FW,15,2,0,0,0,0,1,1,0,0,0,0,0,0,0,Match Report
+27,2022-04-28,Thu,Matchweek 37,Away,D 1–1,Chelsea,Manchester Utd,N,FW,21,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Match Report
+28,2022-05-01,Sun,Matchweek 35,Away,L 0–1,Chelsea,Everton,N,"On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play",Match Report
+29,2022-05-07,Sat,Matchweek 36,Home,D 2–2,Chelsea,Wolves,Y,FW,89,5,4,0,0,0,1,0,1,0,0,0,0,1,0,Match Report
+30,2022-05-11,Wed,Matchweek 33,Away,W 3–0,Chelsea,Leeds United,Y,FW,90,4,3,0,1,0,0,0,1,0,0,1,0,0,0,Match Report
+31,2022-05-19,Thu,Matchweek 27,Home,D 1–1,Chelsea,Leicester City,Y,FW,77,2,2,0,0,0,0,0,0,0,0,0,0,0,0,Match Report
+32,2022-05-22,Sun,Matchweek 38,Home,W 2–1,Chelsea,Watford,N,"On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play",Match Report

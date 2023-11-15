@@ -1,0 +1,28 @@
+,Date,Day,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Cmp,Att,Cmp%,TotDist,PrgDist,Cmp,Att,Cmp%,Cmp,Att,Cmp%,Cmp,Att,Cmp%,Ast,xAG,xA,KP,1/3,PPA,CrsPA,PrgP,Match Report
+0,2020-09-13,Sun,Matchweek 1,Away,W 1–0,Everton,Tottenham,Y,"RM,CM",90,48,57,84.2,726,139,24,29,82.8,19,20,95.0,3,4,75.0,0,0.2,0.0,4,2,0,0,1,Match Report
+1,2020-09-19,Sat,Matchweek 2,Home,W 5–2,Everton,West Brom,Y,RM,64,54,57,94.7,883,275,24,25,96.0,25,26,96.2,3,3,100.0,0,0.0,0.0,0,3,0,0,6,Match Report
+2,2020-09-26,Sat,Matchweek 3,Away,W 2–1,Everton,Crystal Palace,Y,RM,90,49,58,84.5,705,98,22,24,91.7,21,23,91.3,1,3,33.3,0,0.0,0.0,0,2,0,0,2,Match Report
+4,2020-10-17,Sat,Matchweek 5,Home,D 2–2,Everton,Liverpool,Y,RM,77,26,35,74.3,357,98,16,18,88.9,6,7,85.7,2,3,66.7,0,0.1,0.2,1,2,1,0,2,Match Report
+5,2020-10-25,Sun,Matchweek 6,Away,L 0–2,Everton,Southampton,Y,RM,57,28,32,87.5,384,79,18,20,90.0,8,8,100.0,1,1,100.0,0,0.0,0.0,0,0,0,0,1,Match Report
+6,2020-11-01,Sun,Matchweek 7,Away,L 1–2,Everton,Newcastle Utd,Y,"RM,RB",90,62,69,89.9,976,209,30,31,96.8,25,29,86.2,4,5,80.0,0,0.0,0.1,0,2,1,0,5,Match Report
+7,2020-11-07,Sat,Matchweek 8,Home,L 1–3,Everton,Manchester Utd,Y,"RM,CM",90,40,44,90.9,507,87,25,27,92.6,11,13,84.6,1,1,100.0,0,0.0,0.0,0,3,1,0,2,Match Report
+8,2020-11-22,Sun,Matchweek 9,Away,W 3–2,Everton,Fulham,Y,CM,90,63,69,91.3,1017,218,30,33,90.9,26,27,96.3,5,6,83.3,0,0.0,0.2,1,3,1,0,5,Match Report
+9,2020-11-28,Sat,Matchweek 10,Home,L 0–1,Everton,Leeds United,Y,"CM,RM,RB",90,37,43,86.0,462,66,20,22,90.9,13,14,92.9,0,1,0.0,0,0.0,0.0,0,0,0,0,1,Match Report
+10,2020-12-05,Sat,Matchweek 11,Away,D 1–1,Everton,Burnley,Y,"RM,CM",80,50,59,84.7,775,175,23,26,88.5,22,24,91.7,3,4,75.0,0,0.1,0.1,2,2,2,0,8,Match Report
+11,2020-12-12,Sat,Matchweek 12,Home,W 1–0,Everton,Chelsea,Y,"LM,CM",90,17,26,65.4,270,82,8,13,61.5,9,11,81.8,0,1,0.0,0,0.0,0.0,0,0,1,0,3,Match Report
+12,2020-12-16,Wed,Matchweek 13,Away,W 2–0,Everton,Leicester City,Y,"CM,LM",90,44,50,88.0,648,181,27,29,93.1,12,16,75.0,4,4,100.0,0,0.0,0.1,0,3,1,0,3,Match Report
+13,2020-12-19,Sat,Matchweek 14,Home,W 2–1,Everton,Arsenal,Y,DM,90,28,33,84.8,430,54,13,16,81.3,15,15,100.0,0,1,0.0,0,0.0,0.0,0,0,1,0,3,Match Report
+14,2020-12-26,Sat,Matchweek 15,Away,W 1–0,Everton,Sheffield Utd,Y,DM,90,38,51,74.5,602,151,15,21,71.4,15,19,78.9,3,3,100.0,1,0.1,0.1,1,5,0,0,5,Match Report
+15,2021-01-01,Fri,Matchweek 17,Home,L 0–1,Everton,West Ham,Y,DM,90,68,79,86.1,946,243,45,48,93.8,18,21,85.7,3,3,100.0,0,0.0,0.1,0,8,3,1,9,Match Report
+16,2021-01-12,Tue,Matchweek 18,Away,W 2–1,Everton,Wolves,Y,CM,90,44,53,83.0,754,154,17,22,77.3,24,24,100.0,2,3,66.7,0,0.0,0.0,0,4,1,0,3,Match Report
+18,2021-01-30,Sat,Matchweek 21,Home,L 0–2,Everton,Newcastle Utd,Y,"DM,AM",90,61,69,88.4,925,161,34,37,91.9,20,22,90.9,5,6,83.3,0,0.1,0.1,2,1,0,0,5,Match Report
+19,2021-02-03,Wed,Matchweek 22,Away,W 2–1,Everton,Leeds United,Y,DM,90,38,46,82.6,557,238,20,22,90.9,15,18,83.3,1,1,100.0,0,0.5,0.3,2,5,3,0,4,Match Report
+20,2021-02-06,Sat,Matchweek 23,Away,D 3–3,Everton,Manchester Utd,Y,"RM,DM",80,19,25,76.0,272,82,10,13,76.9,6,6,100.0,1,1,100.0,1,0.1,0.0,1,3,0,0,2,Match Report
+21,2021-02-14,Sun,Matchweek 24,Home,L 0–2,Everton,Fulham,Y,"RM,CM",90,27,32,84.4,472,65,12,13,92.3,7,8,87.5,5,6,83.3,0,0.0,0.0,0,0,0,0,3,Match Report
+22,2021-02-17,Wed,Matchweek 16,Home,L 1–3,Everton,Manchester City,Y,CM,90,23,34,67.6,358,112,11,16,68.8,12,15,80.0,0,1,0.0,0,0.0,0.0,0,2,0,0,2,Match Report
+24,2021-03-01,Mon,Matchweek 26,Home,W 1–0,Everton,Southampton,Y,RM,90,25,39,64.1,426,112,14,17,82.4,8,10,80.0,3,6,50.0,0,0.0,0.3,0,1,1,0,3,Match Report
+27,2021-05-09,Sun,Matchweek 35,Away,W 1–0,Everton,West Ham,N,"On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play",Match Report
+28,2021-05-13,Thu,Matchweek 19,Away,D 0–0,Everton,Aston Villa,Y,CM,90,33,40,82.5,593,127,13,15,86.7,14,16,87.5,5,5,100.0,0,0.2,0.2,1,2,2,0,3,Match Report
+29,2021-05-16,Sun,Matchweek 36,Home,L 0–1,Everton,Sheffield Utd,Y,DM,77,60,67,89.6,1157,214,20,22,90.9,34,36,94.4,5,5,100.0,0,0.0,0.1,0,5,1,0,8,Match Report
+30,2021-05-19,Wed,Matchweek 37,Home,W 1–0,Everton,Wolves,Y,CM,89,45,54,83.3,783,159,22,29,75.9,17,17,100.0,5,5,100.0,0,0.0,0.0,0,2,0,0,4,Match Report
+31,2021-05-23,Sun,Matchweek 38,Away,L 0–5,Everton,Manchester City,Y,RM,56,12,17,70.6,163,34,9,11,81.8,3,4,75.0,0,1,0.0,0,0.0,0.0,1,0,0,0,1,Match Report

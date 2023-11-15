@@ -1,0 +1,20 @@
+,Date,Day,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Cmp,Att,Cmp%,TotDist,PrgDist,Cmp,Att,Cmp%,Cmp,Att,Cmp%,Cmp,Att,Cmp%,Ast,xAG,xA,KP,1/3,PPA,CrsPA,PrgP,Match Report
+0,2022-08-05,Fri,Matchweek 1,Home,L 0–2,Crystal Palace,Arsenal,Y,"RW,AM",90,27,34,79.4,404,27,18,20,90.0,6,6,100.0,2,4,50.0,0,0.1,0.0,3,0,1,1,0,Match Report
+5,2022-09-03,Sat,Matchweek 6,Away,D 0–0,Crystal Palace,Newcastle Utd,Y,"RW,RM",90,21,27,77.8,372,136,8,11,72.7,13,14,92.9,0,2,0.0,0,0.1,0.0,2,3,0,0,4,Match Report
+6,2022-10-01,Sat,Matchweek 9,Home,L 1–2,Crystal Palace,Chelsea,Y,RW,90,20,26,76.9,329,119,12,14,85.7,6,8,75.0,2,3,66.7,1,0.2,0.2,1,2,1,1,2,Match Report
+7,2022-10-09,Sun,Matchweek 10,Home,W 2–1,Crystal Palace,Leeds United,Y,RW,64,21,24,87.5,293,57,13,13,100.0,5,7,71.4,2,2,100.0,0,0.1,0.0,2,2,0,0,3,Match Report
+11,2022-10-29,Sat,Matchweek 14,Home,W 1–0,Crystal Palace,Southampton,N,RW,28,14,20,70.0,162,38,10,12,83.3,4,5,80.0,0,1,0.0,0,0.0,0.0,0,1,0,0,1,Match Report
+13,2022-11-12,Sat,Matchweek 16,Away,L 0–1,Crystal Palace,Nott'ham Forest,Y,RW,58,18,22,81.8,235,43,11,13,84.6,5,6,83.3,1,2,50.0,0,0.0,0.0,0,0,1,1,1,Match Report
+14,2022-12-26,Mon,Matchweek 17,Home,L 0–3,Crystal Palace,Fulham,Y,"FW,RW",90,17,27,63.0,184,32,14,18,77.8,3,6,50.0,0,1,0.0,0,0.0,0.0,0,1,0,0,1,Match Report
+17,2023-01-15,Sun,Matchweek 20,Away,L 0–1,Crystal Palace,Chelsea,Y,RW,68,19,26,73.1,260,21,12,13,92.3,7,10,70.0,0,2,0.0,0,0.0,0.0,0,0,0,0,2,Match Report
+19,2023-01-21,Sat,Matchweek 21,Home,D 0–0,Crystal Palace,Newcastle Utd,Y,"RW,LW",90,19,28,67.9,233,55,10,12,83.3,7,9,77.8,0,2,0.0,0,0.0,0.0,0,1,0,0,4,Match Report
+20,2023-02-04,Sat,Matchweek 22,Away,L 1–2,Crystal Palace,Manchester Utd,Y,RW,72,16,24,66.7,177,28,11,12,91.7,3,6,50.0,0,1,0.0,0,0.0,0.0,0,2,0,0,2,Match Report
+21,2023-02-11,Sat,Matchweek 23,Home,D 1–1,Crystal Palace,Brighton,Y,"AM,FW",90,16,20,80.0,212,46,9,10,90.0,7,8,87.5,0,1,0.0,0,0.1,0.0,1,2,0,0,2,Match Report
+22,2023-02-18,Sat,Matchweek 24,Away,D 1–1,Crystal Palace,Brentford,Y,"AM,FW,RW",90,29,36,80.6,427,141,14,14,100.0,8,11,72.7,4,5,80.0,0,0.3,0.2,4,3,3,2,6,Match Report
+23,2023-02-25,Sat,Matchweek 25,Home,D 0–0,Crystal Palace,Liverpool,Y,AM,90,23,31,74.2,353,80,14,16,87.5,8,11,72.7,1,4,25.0,0,0.1,0.1,1,2,1,1,1,Match Report
+24,2023-03-04,Sat,Matchweek 26,Away,L 0–1,Crystal Palace,Aston Villa,Y,"RW,RM,FW",74,15,20,75.0,214,76,11,12,91.7,3,5,60.0,1,2,50.0,0,0.0,0.0,0,3,0,0,2,Match Report
+25,2023-03-11,Sat,Matchweek 27,Home,L 0–1,Crystal Palace,Manchester City,Y,"LW,AM",79,13,23,56.5,135,53,9,16,56.3,2,2,100.0,0,1,0.0,0,0.0,0.0,0,2,0,0,3,Match Report
+28,2023-04-01,Sat,Matchweek 29,Home,W 2–1,Crystal Palace,Leicester City,N,LW,46,17,19,89.5,254,62,9,9,100.0,8,9,88.9,0,1,0.0,1,0.8,0.5,2,1,0,0,3,Match Report
+29,2023-04-09,Sun,Matchweek 30,Away,W 5–1,Crystal Palace,Leeds United,Y,"LW,FW",79,16,26,61.5,240,65,9,12,75.0,6,9,66.7,0,3,0.0,0,0.0,0.0,0,1,0,0,0,Match Report
+31,2023-04-22,Sat,Matchweek 32,Home,D 0–0,Crystal Palace,Everton,Y,LW,90,25,35,71.4,434,55,12,15,80.0,10,13,76.9,2,2,100.0,0,0.1,0.1,1,1,0,0,2,Match Report
+33,2023-04-29,Sat,Matchweek 34,Home,W 4–3,Crystal Palace,West Ham,Y,"FW,LW",90,44,49,89.8,414,58,33,34,97.1,4,5,80.0,0,1,0.0,0,0.1,0.1,2,2,1,0,3,Match Report

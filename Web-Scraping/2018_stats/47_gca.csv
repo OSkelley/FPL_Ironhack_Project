@@ -1,0 +1,35 @@
+,Date,Day,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,SCA,PassLive,PassDead,TO,Sh,Fld,Def,GCA,PassLive,PassDead,TO,Sh,Fld,Def,Match Report
+0,2018-08-11,Sat,Matchweek 1,Away,L 0–2,Brighton,Watford,Y,GK,90.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Match Report
+1,2018-08-19,Sun,Matchweek 2,Home,W 3–2,Brighton,Manchester Utd,Y,GK,90.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Match Report
+2,2018-08-25,Sat,Matchweek 3,Away,L 0–1,Brighton,Liverpool,Y,GK,90.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Match Report
+3,2018-09-01,Sat,Matchweek 4,Home,D 2–2,Brighton,Fulham,Y,GK,90.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Match Report
+4,2018-09-17,Mon,Matchweek 5,Away,D 2–2,Brighton,Southampton,Y,GK,90.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Match Report
+5,2018-09-22,Sat,Matchweek 6,Home,L 1–2,Brighton,Tottenham,Y,GK,90.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Match Report
+6,2018-09-29,Sat,Matchweek 7,Away,L 0–2,Brighton,Manchester City,Y,GK,90.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Match Report
+7,2018-10-05,Fri,Matchweek 8,Home,W 1–0,Brighton,West Ham,Y,GK,90.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Match Report
+8,2018-10-20,Sat,Matchweek 9,Away,W 1–0,Brighton,Newcastle Utd,Y,GK,90.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Match Report
+9,2018-10-27,Sat,Matchweek 10,Home,W 1–0,Brighton,Wolves,Y,GK,90.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Match Report
+10,2018-11-03,Sat,Matchweek 11,Away,L 1–3,Brighton,Everton,Y,GK,90.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Match Report
+11,2018-11-10,Sat,Matchweek 12,Away,L 1–2,Brighton,Cardiff City,Y,GK,90.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Match Report
+12,2018-11-24,Sat,Matchweek 13,Home,D 1–1,Brighton,Leicester City,Y,GK,90.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Match Report
+13,2018-12-01,Sat,Matchweek 14,Away,W 2–1,Brighton,Huddersfield,Y,GK,90.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Match Report
+14,2018-12-04,Tue,Matchweek 15,Home,W 3–1,Brighton,Crystal Palace,Y,GK,90.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Match Report
+15,2018-12-08,Sat,Matchweek 16,Away,L 0–1,Brighton,Burnley,Y,GK,90.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Match Report
+16,2018-12-16,Sun,Matchweek 17,Home,L 1–2,Brighton,Chelsea,Y,GK,90.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Match Report
+17,2018-12-22,Sat,Matchweek 18,Away,L 0–2,Brighton,Bournemouth,Y,GK,90.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Match Report
+18,2018-12-26,Wed,Matchweek 19,Home,D 1–1,Brighton,Arsenal,Y,GK,90.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Match Report
+20,2019-01-29,Tue,Matchweek 24,Away,L 2–4,Brighton,Fulham,Y,GK,90.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Match Report
+21,2019-02-02,Sat,Matchweek 25,Home,D 0–0,Brighton,Watford,Y,GK,90.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Match Report
+22,2019-02-09,Sat,Matchweek 26,Home,L 1–3,Brighton,Burnley,Y,GK,90.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Match Report
+23,2019-02-26,Tue,Matchweek 28,Away,L 1–2,Brighton,Leicester City,Y,GK,90.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Match Report
+24,2019-03-02,Sat,Matchweek 29,Home,W 1–0,Brighton,Huddersfield,Y,GK,90.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Match Report
+25,2019-03-09,Sat,Matchweek 30,Away,W 2–1,Brighton,Crystal Palace,Y,GK,90.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Match Report
+26,2019-03-30,Sat,Matchweek 32,Home,L 0–1,Brighton,Southampton,Y,GK,90.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Match Report
+27,2019-04-03,Wed,Matchweek 27,Away,L 0–3,Brighton,Chelsea,Y,GK,90.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Match Report
+28,2019-04-13,Sat,Matchweek 34,Home,L 0–5,Brighton,Bournemouth,Y,GK,90.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Match Report
+29,2019-04-16,Tue,Matchweek 31,Home,L 0–2,Brighton,Cardiff City,Y,GK,90.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Match Report
+30,2019-04-20,Sat,Matchweek 35,Away,D 0–0,Brighton,Wolves,Y,GK,90.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Match Report
+31,2019-04-23,Tue,Matchweek 33,Away,L 0–1,Brighton,Tottenham,Y,GK,90.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Match Report
+32,2019-04-27,Sat,Matchweek 36,Home,D 1–1,Brighton,Newcastle Utd,Y,GK,90.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Match Report
+33,2019-05-05,Sun,Matchweek 37,Away,D 1–1,Brighton,Arsenal,Y,GK,90.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Match Report
+34,2019-05-12,Sun,Matchweek 38,Home,L 1–4,Brighton,Manchester City,Y,GK,90.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Match Report

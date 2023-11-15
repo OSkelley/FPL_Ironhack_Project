@@ -1,0 +1,34 @@
+,Date,Day,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,Match Report
+0,2017-08-27,Sun,Matchweek 3,Away,L 0–4,Arsenal,Liverpool,Y,"AM,LW",61,0,0,0,0,1,0,0,0,40,2,0,0,0.0,0.0,0.1,3,0,21,33,63.6,5,27,2,3,3,Match Report
+1,2017-09-09,Sat,Matchweek 4,Home,W 3–0,Arsenal,Bournemouth,N,AM,16,0,0,0,0,2,1,0,0,11,0,0,0,0.1,0.1,0.2,2,0,6,9,66.7,2,10,1,0,0,Match Report
+2,2017-09-17,Sun,Matchweek 5,Away,D 0–0,Arsenal,Chelsea,N,"AM,FW",25,0,0,0,0,0,0,0,0,20,0,0,0,0.0,0.0,0.1,1,0,10,15,66.7,0,14,0,1,0,Match Report
+3,2017-09-25,Mon,Matchweek 6,Home,W 2–0,Arsenal,West Brom,Y,AM,82,0,0,0,0,4,2,1,0,61,1,0,0,0.3,0.3,0.5,6,1,38,46,82.6,12,53,3,6,4,Match Report
+4,2017-10-01,Sun,Matchweek 7,Home,W 2–0,Arsenal,Brighton,Y,AM,90,0,1,0,0,8,2,0,0,67,2,1,0,0.4,0.4,0.9,13,2,39,51,76.5,9,53,7,6,4,Match Report
+6,2017-10-22,Sun,Matchweek 9,Away,W 5–2,Arsenal,Everton,Y,"AM,FW",90,1,1,0,0,7,3,0,0,69,0,0,1,1.0,1.0,0.5,13,3,37,54,68.5,10,54,7,5,5,Match Report
+7,2017-10-28,Sat,Matchweek 10,Home,W 2–1,Arsenal,Swansea City,Y,AM,90,0,0,0,0,3,1,0,0,72,2,1,0,0.1,0.1,0.3,6,0,39,60,65.0,6,61,4,2,0,Match Report
+8,2017-11-05,Sun,Matchweek 11,Away,L 1–3,Arsenal,Manchester City,Y,"FW,LW",90,0,0,0,0,1,0,1,0,45,1,0,0,0.0,0.0,0.1,4,0,27,37,73.0,6,37,0,0,0,Match Report
+9,2017-11-18,Sat,Matchweek 12,Home,W 2–0,Arsenal,Tottenham,Y,"AM,FW",90,1,0,0,0,6,4,1,0,57,2,0,0,1.7,1.7,0.2,10,1,25,40,62.5,9,46,3,6,5,Match Report
+10,2017-11-26,Sun,Matchweek 13,Away,W 1–0,Arsenal,Burnley,Y,AM,90,1,0,1,1,1,0,0,0,71,1,1,0,0.8,0.0,0.3,6,0,40,62,64.5,6,47,3,5,3,Match Report
+11,2017-11-29,Wed,Matchweek 14,Home,W 5–0,Arsenal,Huddersfield,Y,AM,72,1,0,0,0,3,1,0,0,43,0,0,0,0.2,0.2,0.1,5,2,27,36,75.0,7,26,1,2,2,Match Report
+12,2017-12-02,Sat,Matchweek 15,Home,L 1–3,Arsenal,Manchester Utd,Y,"LW,AM",90,0,0,0,0,5,2,1,0,84,0,0,0,1.0,1.0,0.3,12,1,47,73,64.4,15,62,6,0,0,Match Report
+13,2017-12-10,Sun,Matchweek 16,Away,D 1–1,Arsenal,Southampton,Y,"AM,LW",90,0,1,0,0,1,1,0,0,83,2,0,1,0.1,0.1,0.2,5,1,49,73,67.1,11,69,0,1,0,Match Report
+14,2017-12-13,Wed,Matchweek 17,Away,D 0–0,Arsenal,West Ham,Y,LW,81,0,0,0,0,6,2,0,0,73,1,0,0,0.3,0.3,0.2,10,0,44,60,73.3,11,53,0,3,2,Match Report
+15,2017-12-16,Sat,Matchweek 18,Home,W 1–0,Arsenal,Newcastle Utd,Y,LW,88,0,0,0,0,4,0,0,0,70,2,0,2,0.2,0.2,0.1,4,1,39,56,69.6,7,59,1,2,1,Match Report
+16,2017-12-22,Fri,Matchweek 19,Home,D 3–3,Arsenal,Liverpool,Y,LW,88,1,0,0,0,2,1,0,0,60,2,1,0,0.3,0.3,0.2,5,0,27,48,56.3,5,44,3,2,1,Match Report
+17,2017-12-28,Thu,Matchweek 20,Away,W 3–2,Arsenal,Crystal Palace,Y,"AM,FW",90,2,0,0,0,4,3,0,0,87,1,2,1,0.7,0.7,0.5,7,2,51,64,79.7,10,60,2,11,5,Match Report
+18,2017-12-31,Sun,Matchweek 21,Away,D 1–1,Arsenal,West Brom,Y,AM,90,0,0,0,0,6,0,0,0,77,1,0,0,0.5,0.5,0.3,7,0,43,62,69.4,12,54,4,4,4,Match Report
+19,2018-01-03,Wed,Matchweek 22,Home,D 2–2,Arsenal,Chelsea,Y,"AM,FW",90,0,0,0,0,4,1,0,0,55,0,0,0,0.3,0.3,0.1,3,0,34,48,70.8,6,37,3,1,1,Match Report
+20,Date,Day,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,Match Report
+21,2018-01-31,Wed,Matchweek 25,Away,L 0–2,Manchester Utd,Tottenham,Y,"AM,LW",90,0,0,0,0,0,0,0,0,65,1,1,1,0.0,0.0,0.0,0,0,42,55,76.4,5,42,0,4,2,Match Report
+22,2018-02-03,Sat,Matchweek 26,Home,W 2–0,Manchester Utd,Huddersfield,Y,LW,90,1,0,0,1,5,2,1,0,99,5,0,0,1.1,0.2,0.1,8,1,58,82,70.7,11,70,2,12,10,Match Report
+23,2018-02-11,Sun,Matchweek 27,Away,L 0–1,Manchester Utd,Newcastle Utd,Y,"LW,AM",90,0,0,0,0,3,0,0,0,69,2,1,2,0.4,0.4,0.1,5,0,29,53,54.7,3,28,1,10,5,Match Report
+24,2018-02-25,Sun,Matchweek 28,Home,W 2–1,Manchester Utd,Chelsea,Y,AM,80,0,0,0,0,2,1,0,0,50,2,1,1,0.1,0.1,0.1,2,1,30,42,71.4,7,31,2,1,1,Match Report
+25,2018-03-05,Mon,Matchweek 29,Away,W 3–2,Manchester Utd,Crystal Palace,Y,"AM,LW",90,0,0,0,0,2,1,0,0,82,1,0,1,0.1,0.1,0.1,3,1,52,76,68.4,13,60,4,5,5,Match Report
+26,2018-03-10,Sat,Matchweek 30,Home,W 2–1,Manchester Utd,Liverpool,Y,"AM,LM",89,0,0,0,0,0,0,0,0,39,2,2,0,0.0,0.0,0.5,3,0,18,32,56.3,5,20,4,3,3,Match Report
+27,2018-03-31,Sat,Matchweek 32,Home,W 2–0,Manchester Utd,Swansea City,Y,LW,74,1,1,0,0,2,1,0,0,61,2,2,1,0.6,0.6,0.2,2,1,40,53,75.5,4,47,2,2,1,Match Report
+28,2018-04-07,Sat,Matchweek 33,Away,W 3–2,Manchester Utd,Manchester City,Y,LW,81,0,2,0,0,0,0,0,0,31,1,2,0,0.0,0.0,0.6,6,4,13,23,56.5,3,20,2,6,4,Match Report
+29,2018-04-15,Sun,Matchweek 34,Home,L 0–1,Manchester Utd,West Brom,Y,"LW,AM,RW",90,0,0,0,0,0,0,0,0,73,2,1,2,0.0,0.0,0.2,3,0,47,60,78.3,7,53,1,4,3,Match Report
+30,2018-04-18,Wed,Matchweek 35,Away,W 2–0,Manchester Utd,Bournemouth,N,"On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play",Match Report
+31,2018-04-29,Sun,Matchweek 36,Home,W 2–1,Manchester Utd,Arsenal,Y,"LW,RW",90,0,0,0,0,1,0,0,0,63,2,3,0,0.3,0.3,0.1,6,1,42,54,77.8,5,42,1,2,0,Match Report
+33,2018-05-10,Thu,Matchweek 31,Away,D 0–0,Manchester Utd,West Ham,Y,FW,89,0,0,0,0,1,1,0,0,68,0,0,0,0.1,0.1,0.4,10,0,52,62,83.9,6,47,5,8,7,Match Report
+34,2018-05-13,Sun,Matchweek 38,Home,W 1–0,Manchester Utd,Watford,Y,LW,90,0,0,0,0,2,0,0,0,60,1,4,0,0.1,0.1,0.0,1,0,28,45,62.2,1,36,5,3,3,Match Report

@@ -1,0 +1,39 @@
+,Date,Day,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Cmp,Att,Cmp%,TotDist,PrgDist,Cmp,Att,Cmp%,Cmp,Att,Cmp%,Cmp,Att,Cmp%,Ast,xAG,xA,KP,1/3,PPA,CrsPA,PrgP,Match Report
+0,2017-08-11,Fri,Matchweek 1,Away,L 3–4,Leicester City,Arsenal,Y,CB,90,18,26,69.2,299,146,9,12,75.0,7,9,77.8,1,4,25.0,1,0.4,0.2,1,1,0,0,1,Match Report
+1,2017-08-19,Sat,Matchweek 2,Home,W 2–0,Leicester City,Brighton,Y,CB,90,55,64,85.9,1166,430,17,21,81.0,31,34,91.2,6,8,75.0,0,0.0,0.0,0,7,0,0,7,Match Report
+2,2017-08-26,Sat,Matchweek 3,Away,L 0–2,Leicester City,Manchester Utd,Y,CB,90,25,32,78.1,488,187,10,11,90.9,12,15,80.0,3,5,60.0,0,0.0,0.0,0,3,1,0,3,Match Report
+3,2017-09-09,Sat,Matchweek 4,Home,L 1–2,Leicester City,Chelsea,Y,CB,90,37,42,88.1,802,255,10,10,100.0,19,20,95.0,8,11,72.7,0,0.0,0.0,0,6,0,0,9,Match Report
+4,2017-09-16,Sat,Matchweek 5,Away,D 1–1,Leicester City,Huddersfield,Y,CB,90,33,40,82.5,601,217,11,13,84.6,17,18,94.4,4,8,50.0,0,0.0,0.0,0,1,0,0,2,Match Report
+5,2017-09-23,Sat,Matchweek 6,Home,L 2–3,Leicester City,Liverpool,Y,CB,90,40,56,71.4,850,211,10,13,76.9,26,31,83.9,4,11,36.4,1,0.8,0.0,1,6,0,0,10,Match Report
+6,2017-09-30,Sat,Matchweek 7,Away,D 0–0,Leicester City,Bournemouth,Y,CB,90,20,32,62.5,493,213,6,8,75.0,5,6,83.3,9,17,52.9,0,0.0,0.0,0,5,0,0,6,Match Report
+7,2017-10-16,Mon,Matchweek 8,Home,D 1–1,Leicester City,West Brom,Y,CB,90,41,62,66.1,704,271,20,22,90.9,15,21,71.4,5,17,29.4,0,0.0,0.0,1,3,0,0,3,Match Report
+8,2017-10-21,Sat,Matchweek 9,Away,W 2–1,Leicester City,Swansea City,Y,CB,90,24,37,64.9,519,241,6,9,66.7,15,16,93.8,3,11,27.3,0,0.0,0.0,1,3,0,0,3,Match Report
+9,2017-10-29,Sun,Matchweek 10,Home,W 2–0,Leicester City,Everton,Y,CB,90,20,28,71.4,427,122,6,6,100.0,9,10,90.0,4,8,50.0,0,0.0,0.0,0,1,0,0,2,Match Report
+10,2017-11-04,Sat,Matchweek 11,Away,D 2–2,Leicester City,Stoke City,Y,CB,90,42,50,84.0,789,301,11,17,64.7,23,23,100.0,5,7,71.4,1,0.4,0.3,2,2,0,0,0,Match Report
+11,2017-11-18,Sat,Matchweek 12,Home,L 0–2,Leicester City,Manchester City,Y,CB,90,16,26,61.5,303,100,4,6,66.7,10,12,83.3,1,7,14.3,0,0.0,0.0,0,0,0,0,1,Match Report
+12,2017-11-24,Fri,Matchweek 13,Away,D 1–1,Leicester City,West Ham,Y,CB,90,31,37,83.8,614,185,11,15,73.3,12,14,85.7,6,6,100.0,0,0.0,0.0,0,3,0,0,1,Match Report
+13,2017-11-28,Tue,Matchweek 14,Home,W 2–1,Leicester City,Tottenham,Y,CB,90,21,25,84.0,377,142,10,12,83.3,6,6,100.0,4,5,80.0,0,0.0,0.0,0,1,0,0,2,Match Report
+14,2017-12-02,Sat,Matchweek 15,Home,W 1–0,Leicester City,Burnley,Y,CB,90,31,37,83.8,611,316,14,16,87.5,11,13,84.6,5,7,71.4,0,0.0,0.0,0,3,0,0,2,Match Report
+15,2017-12-09,Sat,Matchweek 16,Away,W 3–2,Leicester City,Newcastle Utd,Y,CB,90,46,57,80.7,893,377,17,19,89.5,24,27,88.9,5,10,50.0,0,0.0,0.0,1,3,0,0,6,Match Report
+16,2017-12-13,Wed,Matchweek 17,Away,W 4–1,Leicester City,Southampton,Y,CB,90,37,48,77.1,862,372,7,7,100.0,23,28,82.1,7,13,53.8,1,0.3,0.2,1,5,0,0,5,Match Report
+17,2017-12-16,Sat,Matchweek 18,Home,L 0–3,Leicester City,Crystal Palace,Y,"CB,DM",90,66,72,91.7,1260,369,25,27,92.6,35,36,97.2,6,9,66.7,0,0.0,0.0,0,10,0,0,12,Match Report
+18,2017-12-23,Sat,Matchweek 19,Home,D 2–2,Leicester City,Manchester Utd,Y,CB,90,28,34,82.4,650,234,7,7,100.0,16,18,88.9,5,8,62.5,0,0.0,0.0,0,1,0,0,5,Match Report
+19,2017-12-26,Tue,Matchweek 20,Away,L 1–2,Leicester City,Watford,Y,CB,90,36,48,75.0,750,329,13,18,72.2,16,19,84.2,6,9,66.7,0,0.0,0.0,0,1,0,0,1,Match Report
+20,2017-12-30,Sat,Matchweek 21,Away,L 1–2,Leicester City,Liverpool,Y,CB,90,27,44,61.4,557,206,6,12,50.0,14,19,73.7,4,9,44.4,0,0.0,0.0,0,1,0,0,3,Match Report
+21,2018-01-01,Mon,Matchweek 22,Home,W 3–0,Leicester City,Huddersfield,Y,CB,90,32,42,76.2,667,227,11,13,84.6,15,17,88.2,6,12,50.0,0,0.0,0.0,0,4,0,0,2,Match Report
+22,2018-01-13,Sat,Matchweek 23,Away,D 0–0,Leicester City,Chelsea,Y,CB,90,37,45,82.2,934,322,6,7,85.7,21,23,91.3,10,13,76.9,0,0.0,0.0,0,4,0,0,3,Match Report
+23,2018-01-20,Sat,Matchweek 24,Home,W 2–0,Leicester City,Watford,Y,CB,90,42,52,80.8,815,351,14,15,93.3,20,21,95.2,6,12,50.0,0,0.6,0.4,1,3,1,0,5,Match Report
+24,2018-01-31,Wed,Matchweek 25,Away,L 1–2,Leicester City,Everton,Y,CB,90,45,53,84.9,1221,485,11,14,78.6,17,17,100.0,17,22,77.3,0,0.0,0.0,0,6,0,0,7,Match Report
+25,2018-02-03,Sat,Matchweek 26,Home,D 1–1,Leicester City,Swansea City,Y,CB,90,59,71,83.1,1255,456,22,24,91.7,29,34,85.3,8,11,72.7,0,0.1,0.1,1,7,0,0,15,Match Report
+26,2018-02-10,Sat,Matchweek 27,Away,L 1–5,Leicester City,Manchester City,Y,CB,90,16,26,61.5,418,181,5,5,100.0,5,10,50.0,6,11,54.5,0,0.0,0.0,0,2,0,0,1,Match Report
+27,2018-02-24,Sat,Matchweek 28,Home,D 1–1,Leicester City,Stoke City,Y,CB,90,49,61,80.3,919,386,22,27,81.5,18,21,85.7,8,11,72.7,0,0.0,0.1,1,1,0,0,5,Match Report
+28,2018-03-03,Sat,Matchweek 29,Home,D 1–1,Leicester City,Bournemouth,Y,CB,90,38,54,70.4,762,312,15,18,83.3,12,18,66.7,9,13,69.2,0,0.8,0.0,1,4,0,0,4,Match Report
+29,2018-03-10,Sat,Matchweek 30,Away,W 4–1,Leicester City,West Brom,Y,CB,90,44,62,71.0,768,396,16,17,94.1,20,25,80.0,5,15,33.3,0,0.0,0.0,0,4,0,0,4,Match Report
+30,2018-03-31,Sat,Matchweek 32,Away,W 2–0,Leicester City,Brighton,Y,CB,90,41,51,80.4,819,322,16,19,84.2,16,19,84.2,8,12,66.7,0,0.0,0.0,0,2,0,0,5,Match Report
+31,2018-04-07,Sat,Matchweek 33,Home,L 1–2,Leicester City,Newcastle Utd,Y,CB,90,63,75,84.0,1528,497,12,16,75.0,37,43,86.0,14,16,87.5,0,0.1,0.0,2,6,1,1,9,Match Report
+32,2018-04-14,Sat,Matchweek 34,Away,L 1–2,Leicester City,Burnley,Y,CB,90,41,65,63.1,851,384,12,17,70.6,23,31,74.2,6,14,42.9,0,0.3,0.3,1,6,1,0,11,Match Report
+33,2018-04-19,Thu,Matchweek 35,Home,D 0–0,Leicester City,Southampton,Y,CB,90,43,50,86.0,858,314,17,19,89.5,19,21,90.5,6,8,75.0,0,0.0,0.0,0,3,0,0,4,Match Report
+34,2018-04-28,Sat,Matchweek 36,Away,L 0–5,Leicester City,Crystal Palace,Y,CB,90,51,61,83.6,1183,389,16,18,88.9,20,23,87.0,14,18,77.8,0,0.0,0.3,0,4,0,0,8,Match Report
+35,2018-05-05,Sat,Matchweek 37,Home,L 0–2,Leicester City,West Ham,Y,"CM,CB",90,40,47,85.1,845,306,11,12,91.7,22,24,91.7,6,9,66.7,0,0.0,0.0,1,3,1,0,4,Match Report
+36,2018-05-09,Wed,Matchweek 31,Home,W 3–1,Leicester City,Arsenal,Y,CB,90,28,38,73.7,668,310,6,9,66.7,14,17,82.4,6,9,66.7,0,0.0,0.0,1,2,2,0,6,Match Report
+37,2018-05-13,Sun,Matchweek 38,Away,L 4–5,Leicester City,Tottenham,Y,CB,90,16,31,51.6,362,159,6,8,75.0,6,10,60.0,4,11,36.4,0,0.1,0.0,1,1,1,0,1,Match Report

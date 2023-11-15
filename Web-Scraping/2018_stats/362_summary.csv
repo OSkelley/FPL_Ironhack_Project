@@ -1,0 +1,11 @@
+,Date,Day,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,Match Report
+0,2018-08-11,Sat,Matchweek 1,Away,W 2–1,Tottenham,Newcastle Utd,N,DM,23.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,30.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,22.0,24.0,91.7,2.0,14.0,1.0,1.0,1.0,Match Report
+1,2018-08-18,Sat,Matchweek 2,Home,W 3–1,Tottenham,Fulham,N,DM,28.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,27.0,0.0,0.0,0.0,0.0,0.0,0.0,3.0,0.0,25.0,27.0,92.6,2.0,20.0,1.0,0.0,0.0,Match Report
+2,2018-08-27,Mon,Matchweek 3,Away,W 3–0,Tottenham,Manchester Utd,Y,"DM,CM",90.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,50.0,4.0,4.0,1.0,0.0,0.0,0.0,0.0,0.0,32.0,38.0,84.2,1.0,30.0,2.0,1.0,1.0,Match Report
+3,2018-09-02,Sun,Matchweek 4,Away,L 1–2,Tottenham,Watford,Y,"DM,CM",85.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,53.0,1.0,0.0,1.0,0.0,0.0,0.0,2.0,0.0,39.0,49.0,79.6,3.0,31.0,1.0,1.0,1.0,Match Report
+4,2018-09-15,Sat,Matchweek 5,Home,L 1–2,Tottenham,Liverpool,Y,DM,59.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,40.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,32.0,36.0,88.9,0.0,23.0,0.0,2.0,2.0,Match Report
+5,2018-09-22,Sat,Matchweek 6,Away,W 2–1,Tottenham,Brighton,Y,DM,90.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,77.0,3.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,68.0,70.0,97.1,5.0,54.0,1.0,1.0,1.0,Match Report
+6,2018-09-29,Sat,Matchweek 7,Away,W 2–0,Tottenham,Huddersfield,Y,CM,45.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,25.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,17.0,18.0,94.4,0.0,14.0,0.0,0.0,0.0,Match Report
+8,2018-10-20,Sat,Matchweek 9,Away,W 1–0,Tottenham,West Ham,N,"AM,CM",15.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,9.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,7.0,8.0,87.5,0.0,4.0,0.0,0.0,0.0,Match Report
+9,2018-10-29,Mon,Matchweek 10,Home,L 0–1,Tottenham,Manchester City,Y,DM,74.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,42.0,2.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,31.0,35.0,88.6,2.0,29.0,1.0,2.0,1.0,Match Report
+10,2018-11-03,Sat,Matchweek 11,Away,W 3–2,Tottenham,Wolves,Y,LM,6.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4.0,4.0,100.0,1.0,3.0,0.0,0.0,0.0,Match Report

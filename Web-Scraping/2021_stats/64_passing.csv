@@ -1,0 +1,36 @@
+,Date,Day,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Cmp,Att,Cmp%,TotDist,PrgDist,Cmp,Att,Cmp%,Cmp,Att,Cmp%,Cmp,Att,Cmp%,Ast,xAG,xA,KP,1/3,PPA,CrsPA,PrgP,Match Report
+0,2021-08-14,Sat,Matchweek 1,Away,W 2–1,Brighton,Burnley,Y,"LM,FW",75,18,27,66.7,312,49,8,11,72.7,7,11,63.6,2,2,100.0,0,0.0,0.0,0,4,1,0,5,Match Report
+1,2021-08-21,Sat,Matchweek 2,Home,W 2–0,Brighton,Watford,Y,FW,71,29,39,74.4,498,73,12,16,75.0,13,16,81.3,3,4,75.0,0,0.0,0.1,0,3,2,0,6,Match Report
+2,2021-08-28,Sat,Matchweek 3,Home,L 0–2,Brighton,Everton,Y,"AM,FW",90,24,31,77.4,316,86,15,17,88.2,5,6,83.3,2,3,66.7,0,0.0,0.1,1,3,2,0,3,Match Report
+3,2021-09-11,Sat,Matchweek 4,Away,W 1–0,Brighton,Brentford,Y,AM,90,32,44,72.7,420,76,16,19,84.2,8,8,100.0,2,6,33.3,0,0.2,0.1,2,1,2,0,3,Match Report
+4,2021-09-19,Sun,Matchweek 5,Home,W 2–1,Brighton,Leicester City,Y,"FW,AM",90,29,36,80.6,542,250,15,18,83.3,7,8,87.5,5,7,71.4,1,0.2,0.2,4,4,1,0,5,Match Report
+5,2021-09-27,Mon,Matchweek 6,Away,D 1–1,Brighton,Crystal Palace,Y,"AM,RW",90,31,35,88.6,435,77,18,19,94.7,7,7,100.0,2,2,100.0,0,0.0,0.0,0,3,1,0,5,Match Report
+6,2021-10-02,Sat,Matchweek 7,Home,D 0–0,Brighton,Arsenal,Y,"FW,AM",90,39,47,83.0,606,85,21,22,95.5,13,16,81.3,4,6,66.7,0,0.1,0.1,3,1,2,0,9,Match Report
+7,2021-10-16,Sat,Matchweek 8,Away,D 0–0,Brighton,Norwich City,Y,"FW,AM",90,33,44,75.0,623,121,16,20,80.0,10,15,66.7,6,6,100.0,0,0.0,0.0,0,4,3,0,10,Match Report
+8,2021-10-23,Sat,Matchweek 9,Home,L 1–4,Brighton,Manchester City,Y,FW,90,28,34,82.4,513,196,13,13,100.0,10,13,76.9,4,5,80.0,0,0.3,0.2,2,3,2,1,8,Match Report
+9,2021-10-30,Sat,Matchweek 10,Away,D 2–2,Brighton,Liverpool,Y,FW,90,26,31,83.9,425,115,13,15,86.7,11,12,91.7,2,2,100.0,0,0.1,0.2,2,4,2,0,5,Match Report
+10,2021-11-06,Sat,Matchweek 11,Home,D 1–1,Brighton,Newcastle Utd,Y,FW,90,34,43,79.1,622,95,17,20,85.0,11,13,84.6,5,7,71.4,0,0.2,0.2,3,3,2,0,3,Match Report
+11,2021-11-20,Sat,Matchweek 12,Away,L 0–2,Brighton,Aston Villa,Y,FW,90,16,24,66.7,292,24,10,12,83.3,3,6,50.0,3,3,100.0,0,0.2,0.0,2,1,0,0,1,Match Report
+12,2021-11-27,Sat,Matchweek 13,Home,D 0–0,Brighton,Leeds United,Y,"LW,AM",90,28,37,75.7,427,193,15,19,78.9,10,13,76.9,2,3,66.7,0,0.1,0.1,2,4,3,0,8,Match Report
+13,2021-12-01,Wed,Matchweek 14,Away,D 1–1,Brighton,West Ham,Y,"LW,AM",90,30,40,75.0,545,96,11,15,73.3,13,15,86.7,4,5,80.0,0,0.2,0.1,1,2,4,0,5,Match Report
+14,2021-12-04,Sat,Matchweek 15,Away,D 1–1,Brighton,Southampton,Y,"FW,CM",90,18,30,60.0,330,43,11,15,73.3,2,4,50.0,4,5,80.0,0,0.1,0.0,1,1,1,0,1,Match Report
+15,2021-12-15,Wed,Matchweek 17,Home,L 0–1,Brighton,Wolves,Y,"LW,FW",90,24,28,85.7,464,65,7,9,77.8,11,12,91.7,4,4,100.0,0,0.0,0.0,1,3,0,0,5,Match Report
+16,2021-12-26,Sun,Matchweek 19,Home,W 2–0,Brighton,Brentford,Y,FW,45,16,19,84.2,267,46,10,10,100.0,4,5,80.0,2,3,66.7,0,0.0,0.1,0,0,2,0,3,Match Report
+18,2022-01-02,Sun,Matchweek 21,Away,W 3–2,Brighton,Everton,Y,FW,80,24,28,85.7,373,90,16,17,94.1,4,6,66.7,3,3,100.0,0,0.0,0.1,1,1,3,0,5,Match Report
+19,2022-01-14,Fri,Matchweek 22,Home,D 1–1,Brighton,Crystal Palace,Y,"FW,AM",90,28,36,77.8,524,97,18,20,90.0,6,7,85.7,4,6,66.7,0,0.0,0.0,0,3,0,0,5,Match Report
+20,2022-01-18,Tue,Matchweek 24,Home,D 1–1,Brighton,Chelsea,N,"FW,LM",29,9,13,69.2,94,38,7,7,100.0,2,5,40.0,0,1,0.0,0,0.0,0.0,0,1,0,0,1,Match Report
+21,2022-01-23,Sun,Matchweek 23,Away,D 1–1,Brighton,Leicester City,Y,FW,90,30,40,75.0,490,92,16,20,80.0,9,11,81.8,3,3,100.0,0,0.3,0.3,3,2,1,0,4,Match Report
+22,2022-02-12,Sat,Matchweek 25,Away,W 2–0,Brighton,Watford,N,"On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play",Match Report
+23,2022-02-15,Tue,Matchweek 18,Away,L 0–2,Brighton,Manchester Utd,Y,FW,59,15,21,71.4,182,15,11,11,100.0,3,5,60.0,0,1,0.0,0,0.0,0.0,1,1,0,0,1,Match Report
+24,2022-02-19,Sat,Matchweek 26,Home,L 0–3,Brighton,Burnley,N,AM,36,16,22,72.7,330,39,8,10,80.0,4,6,66.7,3,3,100.0,0,0.0,0.0,0,2,1,0,4,Match Report
+25,2022-02-26,Sat,Matchweek 27,Home,L 0–2,Brighton,Aston Villa,Y,FW,90,26,43,60.5,436,97,11,16,68.8,11,13,84.6,2,6,33.3,0,0.0,0.0,0,2,2,0,6,Match Report
+26,2022-03-05,Sat,Matchweek 28,Away,L 1–2,Brighton,Newcastle Utd,Y,"AM,LM",90,54,68,79.4,878,174,28,30,93.3,23,28,82.1,3,5,60.0,0,0.0,0.1,1,3,2,0,11,Match Report
+27,2022-03-12,Sat,Matchweek 29,Home,L 0–2,Brighton,Liverpool,Y,"LW,AM",90,16,23,69.6,248,78,10,11,90.9,4,6,66.7,2,4,50.0,0,0.0,0.0,1,2,1,0,3,Match Report
+28,2022-03-16,Wed,Matchweek 16,Home,L 0–2,Brighton,Tottenham,Y,"LW,LM",90,33,45,73.3,465,91,19,25,76.0,12,13,92.3,1,4,25.0,0,0.1,0.1,1,1,2,0,6,Match Report
+29,2022-04-02,Sat,Matchweek 31,Home,D 0–0,Brighton,Norwich City,Y,AM,90,38,43,88.4,650,140,21,23,91.3,11,12,91.7,5,6,83.3,0,0.2,0.5,2,2,3,0,4,Match Report
+30,2022-04-09,Sat,Matchweek 32,Away,W 2–1,Brighton,Arsenal,Y,WB,84,18,24,75.0,280,89,10,12,83.3,7,7,100.0,1,3,33.3,0,0.0,0.0,0,0,2,0,3,Match Report
+31,2022-04-16,Sat,Matchweek 33,Away,W 1–0,Brighton,Tottenham,Y,WB,90,39,52,75.0,414,125,24,27,88.9,9,12,75.0,0,3,0.0,0,0.1,0.0,2,3,0,0,5,Match Report
+33,2022-04-24,Sun,Matchweek 34,Home,D 2–2,Brighton,Southampton,Y,"AM,RM",90,25,37,67.6,471,123,11,13,84.6,8,13,61.5,4,4,100.0,0,0.4,0.6,1,2,1,0,4,Match Report
+34,2022-04-30,Sat,Matchweek 35,Away,W 3–0,Brighton,Wolves,Y,"WB,AM",88,31,43,72.1,350,93,21,27,77.8,6,9,66.7,1,1,100.0,0,0.2,0.2,2,0,0,0,1,Match Report
+35,2022-05-07,Sat,Matchweek 36,Home,W 4–0,Brighton,Manchester Utd,Y,"WB,AM",82,21,32,65.6,310,90,11,17,64.7,9,14,64.3,1,1,100.0,2,0.7,0.5,4,1,2,1,3,Match Report
+36,2022-05-15,Sun,Matchweek 37,Away,D 1–1,Brighton,Leeds United,Y,"WB,LW",86,20,29,69.0,330,122,9,13,69.2,9,10,90.0,1,3,33.3,0,1.0,0.7,4,1,3,1,3,Match Report

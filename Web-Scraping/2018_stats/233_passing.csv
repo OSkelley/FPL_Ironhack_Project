@@ -1,0 +1,38 @@
+,Date,Day,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Cmp,Att,Cmp%,TotDist,PrgDist,Cmp,Att,Cmp%,Cmp,Att,Cmp%,Cmp,Att,Cmp%,Ast,xAG,xA,KP,1/3,PPA,CrsPA,PrgP,Match Report
+0,2018-08-10,Fri,Matchweek 1,Away,L 1–2,Leicester City,Manchester Utd,Y,AM,62,29,43,67.4,343,81,15,18,83.3,9,10,90.0,0,7,0.0,0,0.0,0.1,1,1,1,0,3,Match Report
+1,2018-08-18,Sat,Matchweek 2,Home,W 2–0,Leicester City,Wolves,Y,"AM,CM",81,23,29,79.3,300,52,17,18,94.4,5,8,62.5,1,2,50.0,0,0.0,0.0,0,2,1,0,2,Match Report
+2,2018-08-25,Sat,Matchweek 3,Away,W 2–1,Leicester City,Southampton,Y,AM,77,38,47,80.9,550,171,22,24,91.7,11,12,91.7,3,7,42.9,0,0.1,0.1,1,3,1,0,6,Match Report
+3,2018-09-01,Sat,Matchweek 4,Home,L 1–2,Leicester City,Liverpool,Y,"AM,LW",82,39,49,79.6,574,128,23,24,95.8,13,15,86.7,2,6,33.3,1,0.6,0.6,3,4,1,0,7,Match Report
+4,2018-09-15,Sat,Matchweek 5,Away,L 2–4,Leicester City,Bournemouth,Y,"AM,LW",90,40,54,74.1,816,349,15,18,83.3,18,21,85.7,7,15,46.7,0,0.3,0.3,3,7,4,0,14,Match Report
+5,2018-09-22,Sat,Matchweek 6,Home,W 3–1,Leicester City,Huddersfield,Y,"LW,RW",84,45,54,83.3,733,192,21,24,87.5,17,19,89.5,5,7,71.4,0,0.2,0.4,2,3,2,0,5,Match Report
+6,2018-09-29,Sat,Matchweek 7,Away,W 2–0,Leicester City,Newcastle Utd,Y,"LW,AM",84,51,61,83.6,924,338,24,26,92.3,19,23,82.6,7,11,63.6,1,0.6,0.6,5,5,2,1,7,Match Report
+7,2018-10-06,Sat,Matchweek 8,Home,L 1–2,Leicester City,Everton,Y,LW,79,36,47,76.6,567,186,19,21,90.5,12,15,80.0,4,7,57.1,0,0.0,0.2,0,7,0,0,6,Match Report
+8,2018-10-22,Mon,Matchweek 9,Away,L 1–3,Leicester City,Arsenal,Y,"AM,LM,FW",74,21,30,70.0,436,152,10,10,100.0,2,6,33.3,7,10,70.0,0,0.3,0.2,3,2,0,0,3,Match Report
+9,2018-10-27,Sat,Matchweek 10,Home,D 1–1,Leicester City,West Ham,Y,"AM,RW,LW",90,55,66,83.3,1135,267,22,24,91.7,21,24,87.5,11,15,73.3,0,0.4,0.4,4,10,0,0,10,Match Report
+10,2018-11-03,Sat,Matchweek 11,Away,W 1–0,Leicester City,Cardiff City,Y,AM,81,37,50,74.0,725,263,15,18,83.3,13,14,92.9,7,13,53.8,0,0.2,0.2,4,5,2,0,7,Match Report
+12,2018-11-24,Sat,Matchweek 13,Away,D 1–1,Leicester City,Brighton,Y,AM,27,15,18,83.3,248,33,6,6,100.0,7,9,77.8,2,2,100.0,0,0.0,0.0,0,1,0,0,2,Match Report
+13,2018-12-01,Sat,Matchweek 14,Home,W 2–0,Leicester City,Watford,Y,"AM,FW,LW",90,26,35,74.3,425,107,14,15,93.3,7,11,63.6,4,7,57.1,0,0.0,0.0,1,1,1,0,4,Match Report
+14,2018-12-05,Wed,Matchweek 15,Away,D 1–1,Leicester City,Fulham,Y,"AM,LW",90,28,40,70.0,658,220,10,13,76.9,6,10,60.0,10,14,71.4,0,0.7,0.3,5,6,1,0,7,Match Report
+15,2018-12-08,Sat,Matchweek 16,Home,L 0–2,Leicester City,Tottenham,Y,"LW,AM",90,35,49,71.4,640,168,17,20,85.0,13,18,72.2,5,10,50.0,0,0.1,0.5,3,3,2,0,6,Match Report
+16,2018-12-15,Sat,Matchweek 17,Away,L 0–1,Leicester City,Crystal Palace,Y,AM,45,17,19,89.5,315,90,10,10,100.0,4,4,100.0,3,4,75.0,0,0.1,0.1,1,2,0,0,2,Match Report
+17,2018-12-22,Sat,Matchweek 18,Away,W 1–0,Leicester City,Chelsea,Y,LW,81,17,30,56.7,324,115,7,7,100.0,4,9,44.4,4,12,33.3,1,0.2,0.4,4,1,1,0,2,Match Report
+18,2018-12-26,Wed,Matchweek 19,Home,W 2–1,Leicester City,Manchester City,Y,"FW,LW",77,23,31,74.2,423,102,5,9,55.6,11,12,91.7,4,7,57.1,0,0.1,0.2,1,4,2,0,7,Match Report
+19,2018-12-29,Sat,Matchweek 20,Home,L 0–1,Leicester City,Cardiff City,Y,"AM,LW",90,30,46,65.2,468,161,17,18,94.4,9,13,69.2,3,12,25.0,0,0.5,0.2,3,5,1,0,7,Match Report
+20,2019-01-01,Tue,Matchweek 21,Away,W 1–0,Leicester City,Everton,N,"On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play",Match Report
+21,2019-01-12,Sat,Matchweek 22,Home,L 1–2,Leicester City,Southampton,Y,"AM,LW",90,57,77,74.0,1033,277,29,31,93.5,18,23,78.3,9,16,56.3,0,0.3,0.4,8,6,4,2,7,Match Report
+22,2019-01-19,Sat,Matchweek 23,Away,L 3–4,Leicester City,Wolves,N,"LW,AM",18,14,17,82.4,214,57,9,9,100.0,2,4,50.0,2,3,66.7,1,0.3,0.2,1,1,0,0,0,Match Report
+23,2019-01-30,Wed,Matchweek 24,Away,D 1–1,Leicester City,Liverpool,Y,"AM,LM",74,14,21,66.7,204,111,7,11,63.6,5,5,100.0,1,4,25.0,0,0.0,0.1,0,2,0,0,3,Match Report
+24,2019-02-03,Sun,Matchweek 25,Home,L 0–1,Leicester City,Manchester Utd,Y,AM,61,24,38,63.2,379,128,11,15,73.3,6,9,66.7,4,7,57.1,0,0.3,0.3,3,1,0,0,1,Match Report
+25,2019-02-10,Sun,Matchweek 26,Away,L 1–3,Leicester City,Tottenham,Y,CM,90,46,55,83.6,1033,348,20,22,90.9,10,11,90.9,15,19,78.9,0,0.4,0.3,7,5,1,0,3,Match Report
+26,2019-02-23,Sat,Matchweek 27,Home,L 1–4,Leicester City,Crystal Palace,Y,"LM,DM",90,70,86,81.4,1198,370,34,39,87.2,31,36,86.1,5,10,50.0,0,0.2,0.1,6,13,2,0,11,Match Report
+27,2019-02-26,Tue,Matchweek 28,Home,W 2–1,Leicester City,Brighton,Y,"LM,AM",89,46,57,80.7,735,186,26,28,92.9,16,19,84.2,3,5,60.0,1,0.6,0.4,5,5,3,0,6,Match Report
+28,2019-03-03,Sun,Matchweek 29,Away,L 1–2,Leicester City,Watford,Y,AM,90,40,53,75.5,647,177,21,23,91.3,12,17,70.6,5,9,55.6,0,0.2,0.3,3,1,2,1,6,Match Report
+29,2019-03-09,Sat,Matchweek 30,Home,W 3–1,Leicester City,Fulham,Y,"LM,DM",80,38,50,76.0,638,289,19,22,86.4,10,14,71.4,6,10,60.0,1,0.5,0.2,3,7,4,0,10,Match Report
+30,2019-03-16,Sat,Matchweek 31,Away,W 2–1,Leicester City,Burnley,Y,"RM,LM,CM",63,19,26,73.1,233,83,11,13,84.6,5,6,83.3,1,4,25.0,0,0.2,0.2,3,0,1,0,1,Match Report
+31,2019-03-30,Sat,Matchweek 32,Home,W 2–0,Leicester City,Bournemouth,Y,"CM,LM",90,52,70,74.3,750,170,30,32,93.8,15,19,78.9,4,12,33.3,0,0.1,0.4,5,4,3,0,9,Match Report
+32,2019-04-06,Sat,Matchweek 33,Away,W 4–1,Leicester City,Huddersfield,Y,"CM,FW",90,45,51,88.2,707,263,25,25,100.0,16,16,100.0,2,6,33.3,0,0.2,0.1,3,3,0,0,7,Match Report
+33,2019-04-12,Fri,Matchweek 34,Home,L 0–1,Leicester City,Newcastle Utd,Y,CM,90,50,64,78.1,765,230,25,32,78.1,17,20,85.0,4,6,66.7,0,0.0,0.5,1,7,3,1,8,Match Report
+34,2019-04-20,Sat,Matchweek 35,Away,D 2–2,Leicester City,West Ham,Y,"FW,LM",90,31,41,75.6,608,269,15,18,83.3,8,9,88.9,6,12,50.0,0,0.0,0.1,1,7,0,0,5,Match Report
+35,2019-04-28,Sun,Matchweek 36,Home,W 3–0,Leicester City,Arsenal,Y,"CM,LM",90,55,70,78.6,904,349,28,34,82.4,16,18,88.9,8,13,61.5,1,0.3,0.2,3,7,2,1,7,Match Report
+36,2019-05-06,Mon,Matchweek 37,Away,L 0–1,Leicester City,Manchester City,Y,"LW,LM",79,19,23,82.6,371,105,6,9,66.7,9,10,90.0,3,3,100.0,0,0.1,0.0,1,1,1,0,4,Match Report
+37,2019-05-12,Sun,Matchweek 38,Home,D 0–0,Leicester City,Chelsea,Y,LM,83,19,26,73.1,337,80,8,9,88.9,7,8,87.5,3,7,42.9,0,0.1,0.1,2,2,1,0,3,Match Report

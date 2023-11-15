@@ -1,0 +1,36 @@
+,Date,Day,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,Match Report
+0,2017-08-12,Sat,Matchweek 1,Away,D 0–0,Swansea City,Southampton,Y,RB,90,0,0,0,0,0,0,0,0,63,1,5,7,0.0,0.0,0.0,1,0,35,47,74.5,4,9,0,0,0,Match Report
+1,2017-08-19,Sat,Matchweek 2,Home,L 0–4,Swansea City,Manchester Utd,Y,"RW,RB",90,0,0,0,0,0,0,0,0,73,3,0,0,0.0,0.0,0.0,0,0,42,63,66.7,9,39,1,0,0,Match Report
+2,2017-08-26,Sat,Matchweek 3,Away,W 2–0,Swansea City,Crystal Palace,Y,"WB,RB",87,0,1,0,0,0,0,0,0,75,1,2,1,0.0,0.0,0.1,5,2,48,64,75.0,5,35,2,1,0,Match Report
+3,2017-09-10,Sun,Matchweek 4,Home,L 0–1,Swansea City,Newcastle Utd,Y,RB,90,0,0,0,0,0,0,1,0,104,0,1,0,0.0,0.0,0.0,1,0,70,94,74.5,7,54,1,0,0,Match Report
+4,2017-09-16,Sat,Matchweek 5,Away,D 0–0,Swansea City,Tottenham,Y,"WB,RB",90,0,0,0,0,0,0,0,0,37,5,2,0,0.0,0.0,0.0,0,0,16,27,59.3,3,12,0,1,1,Match Report
+5,2017-09-23,Sat,Matchweek 6,Home,L 1–2,Swansea City,Watford,Y,"RB,WB",90,0,0,0,0,0,0,0,0,76,3,0,2,0.0,0.0,0.0,2,0,43,69,62.3,8,29,2,3,2,Match Report
+6,2017-09-30,Sat,Matchweek 7,Away,L 0–1,Swansea City,West Ham,Y,RB,90,0,0,0,0,0,0,0,0,93,3,4,3,0.0,0.0,0.0,2,0,55,82,67.1,6,33,0,3,2,Match Report
+7,2017-10-14,Sat,Matchweek 8,Home,W 2–0,Swansea City,Huddersfield,Y,RB,90,0,0,0,0,0,0,0,0,71,4,0,2,0.0,0.0,0.0,1,0,45,58,77.6,7,24,2,2,1,Match Report
+8,2017-10-21,Sat,Matchweek 9,Home,L 1–2,Swansea City,Leicester City,Y,RB,90,0,0,0,0,2,0,0,0,89,3,1,2,0.1,0.1,0.1,6,0,56,79,70.9,13,25,4,1,0,Match Report
+9,2017-10-28,Sat,Matchweek 10,Away,L 1–2,Swansea City,Arsenal,Y,"WB,RB",90,0,0,0,0,0,0,0,0,53,1,2,1,0.0,0.0,0.0,0,0,26,40,65.0,2,8,1,3,1,Match Report
+10,2017-11-04,Sat,Matchweek 11,Home,L 0–1,Swansea City,Brighton,Y,RB,90,0,0,0,0,0,0,0,0,94,1,4,1,0.0,0.0,0.0,1,0,77,86,89.5,15,28,1,1,1,Match Report
+11,2017-11-18,Sat,Matchweek 12,Away,L 0–2,Swansea City,Burnley,Y,RB,90,0,0,0,0,2,0,0,0,98,3,2,1,0.0,0.0,0.1,5,0,63,82,76.8,7,36,7,1,1,Match Report
+12,2017-11-25,Sat,Matchweek 13,Home,D 0–0,Swansea City,Bournemouth,Y,RB,90,0,0,0,0,0,0,0,0,75,1,2,2,0.0,0.0,0.0,1,0,45,58,77.6,11,37,1,2,2,Match Report
+13,2017-11-29,Wed,Matchweek 14,Away,L 0–1,Swansea City,Chelsea,Y,RB,90,0,0,0,0,0,0,0,0,79,0,2,3,0.0,0.0,0.0,0,0,34,58,58.6,1,16,1,0,0,Match Report
+14,2017-12-02,Sat,Matchweek 15,Away,L 1–2,Swansea City,Stoke City,Y,RB,90,0,0,0,0,0,0,0,0,73,7,1,0,0.0,0.0,0.0,1,0,36,56,64.3,3,29,3,1,1,Match Report
+15,2017-12-09,Sat,Matchweek 16,Home,W 1–0,Swansea City,West Brom,Y,RB,90,0,0,0,0,1,0,0,0,82,3,0,0,0.0,0.0,0.0,1,0,55,76,72.4,7,31,2,0,0,Match Report
+16,2017-12-13,Wed,Matchweek 17,Home,L 0–4,Swansea City,Manchester City,Y,RB,90,0,0,0,0,0,0,0,0,46,5,2,3,0.0,0.0,0.0,1,0,25,30,83.3,0,11,0,0,0,Match Report
+17,2017-12-18,Mon,Matchweek 18,Away,L 1–3,Swansea City,Everton,Y,RB,90,0,0,0,0,1,0,0,0,83,4,4,2,0.0,0.0,0.0,1,0,44,68,64.7,4,37,1,2,2,Match Report
+18,2017-12-23,Sat,Matchweek 19,Home,D 1–1,Swansea City,Crystal Palace,Y,RB,79,0,0,0,0,0,0,0,0,73,3,1,2,0.0,0.0,0.0,2,0,54,66,81.8,6,30,1,2,1,Match Report
+19,2017-12-26,Tue,Matchweek 20,Away,L 0–5,Swansea City,Liverpool,Y,RB,90,0,0,0,0,0,0,0,0,71,2,4,3,0.0,0.0,0.0,1,0,49,60,81.7,5,32,1,1,1,Match Report
+20,2017-12-30,Sat,Matchweek 21,Away,W 2–1,Swansea City,Watford,Y,RB,90,0,0,0,0,0,0,0,0,85,5,3,5,0.0,0.0,0.0,1,0,49,68,72.1,7,30,1,1,1,Match Report
+22,2018-01-22,Mon,Matchweek 24,Home,W 1–0,Swansea City,Liverpool,Y,RB,90,0,0,0,0,1,0,0,0,69,3,1,4,0.0,0.0,0.0,1,0,34,52,65.4,6,29,0,0,0,Match Report
+23,2018-01-30,Tue,Matchweek 25,Home,W 3–1,Swansea City,Arsenal,Y,RB,90,0,0,0,0,1,0,0,0,64,2,1,1,0.0,0.0,0.0,2,0,40,51,78.4,6,21,1,1,0,Match Report
+24,2018-02-03,Sat,Matchweek 26,Away,D 1–1,Swansea City,Leicester City,Y,RB,90,0,0,0,0,0,0,0,0,78,4,1,2,0.0,0.0,0.0,0,0,39,62,62.9,2,28,4,2,1,Match Report
+25,2018-02-10,Sat,Matchweek 27,Home,W 1–0,Swansea City,Burnley,Y,RB,90,0,1,0,0,2,0,0,0,76,0,1,0,0.1,0.1,0.0,2,1,54,71,76.1,6,28,5,0,0,Match Report
+26,2018-02-24,Sat,Matchweek 28,Away,L 1–4,Swansea City,Brighton,Y,RB,90,0,0,0,0,0,0,0,0,74,3,1,1,0.0,0.0,0.0,0,0,44,64,68.8,4,25,2,0,0,Match Report
+27,2018-03-03,Sat,Matchweek 29,Home,W 4–1,Swansea City,West Ham,Y,RB,90,0,0,0,0,0,0,0,0,88,1,3,3,0.0,0.0,0.0,2,1,57,74,77.0,5,52,1,4,1,Match Report
+28,2018-03-10,Sat,Matchweek 30,Away,D 0–0,Swansea City,Huddersfield,Y,RB,90,0,0,0,0,0,0,0,0,47,4,2,2,0.0,0.0,0.0,0,0,16,27,59.3,0,11,0,2,1,Match Report
+29,2018-03-31,Sat,Matchweek 32,Away,L 0–2,Swansea City,Manchester Utd,Y,RB,90,0,0,0,0,0,0,0,0,64,3,1,0,0.0,0.0,0.0,0,0,41,57,71.9,3,35,1,2,0,Match Report
+30,2018-04-07,Sat,Matchweek 33,Away,D 1–1,Swansea City,West Brom,Y,RB,90,0,0,0,0,1,0,0,0,60,2,1,1,0.1,0.1,0.0,1,0,31,50,62.0,1,24,0,4,3,Match Report
+31,2018-04-14,Sat,Matchweek 34,Home,D 1–1,Swansea City,Everton,Y,RB,90,0,0,0,0,0,0,0,0,97,6,1,4,0.0,0.0,0.0,5,0,55,82,67.1,8,37,2,0,0,Match Report
+32,2018-04-22,Sun,Matchweek 35,Away,L 0–5,Swansea City,Manchester City,Y,RB,90,0,0,0,0,0,0,0,0,54,2,2,0,0.0,0.0,0.0,0,0,27,41,65.9,3,13,0,0,0,Match Report
+33,2018-04-28,Sat,Matchweek 36,Home,L 0–1,Swansea City,Chelsea,Y,"CB,RB",90,0,0,0,0,1,1,0,0,99,2,2,0,0.0,0.0,0.0,1,0,79,89,88.8,14,65,1,2,0,Match Report
+35,2018-05-08,Tue,Matchweek 31,Home,L 0–1,Swansea City,Southampton,Y,CB,74,0,0,0,0,0,0,0,0,70,2,1,2,0.0,0.0,0.0,1,0,41,60,68.3,5,34,1,1,1,Match Report
+36,2018-05-13,Sun,Matchweek 38,Home,L 1–2,Swansea City,Stoke City,N,"On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play",Match Report

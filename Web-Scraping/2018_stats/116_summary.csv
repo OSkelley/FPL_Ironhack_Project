@@ -1,0 +1,39 @@
+,Date,Day,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,Match Report
+0,2018-08-11,Sat,Matchweek 1,Away,W 3–0,Chelsea,Huddersfield,Y,CB,90,0,0,0,0,0,0,1,0,100,1,1,1,0.0,0.0,0.0,0,0,86,92,93.5,5,66,1,1,1,Match Report
+1,2018-08-18,Sat,Matchweek 2,Home,W 3–2,Chelsea,Arsenal,Y,CB,90,0,0,0,0,2,1,0,0,86,0,0,0,0.1,0.1,0.0,3,0,74,82,90.2,5,57,1,0,0,Match Report
+2,2018-08-26,Sun,Matchweek 3,Away,W 2–1,Chelsea,Newcastle Utd,Y,CB,90,0,0,0,0,0,0,0,0,81,0,0,1,0.0,0.0,0.0,0,0,70,75,93.3,10,60,2,1,1,Match Report
+3,2018-09-01,Sat,Matchweek 4,Home,W 2–0,Chelsea,Bournemouth,Y,CB,90,0,0,0,0,0,0,0,0,108,2,0,0,0.0,0.0,0.0,2,0,87,101,86.1,7,74,1,0,0,Match Report
+4,2018-09-15,Sat,Matchweek 5,Home,W 4–1,Chelsea,Cardiff City,Y,CB,90,0,0,0,0,0,0,0,0,78,1,2,0,0.0,0.0,0.0,1,0,57,68,83.8,4,44,1,1,0,Match Report
+5,2018-09-23,Sun,Matchweek 6,Away,D 0–0,Chelsea,West Ham,Y,CB,90,0,0,0,0,2,1,0,0,59,0,1,0,0.1,0.1,0.2,0,0,42,49,85.7,4,29,0,0,0,Match Report
+6,2018-09-29,Sat,Matchweek 7,Home,D 1–1,Chelsea,Liverpool,Y,CB,90,0,0,0,0,0,0,0,0,78,1,5,2,0.0,0.0,0.3,2,0,52,61,85.2,3,35,0,0,0,Match Report
+7,2018-10-07,Sun,Matchweek 8,Away,W 3–0,Chelsea,Southampton,Y,CB,90,0,0,0,0,1,0,0,0,95,0,0,1,0.0,0.0,0.0,1,0,75,88,85.2,7,67,1,1,1,Match Report
+8,2018-10-20,Sat,Matchweek 9,Home,D 2–2,Chelsea,Manchester Utd,Y,CB,90,0,0,0,0,3,0,0,0,87,1,0,1,0.2,0.2,0.0,3,0,66,73,90.4,11,58,5,1,0,Match Report
+9,2018-10-28,Sun,Matchweek 10,Away,W 4–0,Chelsea,Burnley,Y,CB,90,0,0,0,0,1,0,0,0,84,1,2,0,0.0,0.0,0.0,2,0,66,73,90.4,2,57,0,1,1,Match Report
+10,2018-11-04,Sun,Matchweek 11,Home,W 3–1,Chelsea,Crystal Palace,Y,CB,90,0,0,0,0,2,1,0,0,120,2,0,1,0.1,0.1,0.0,2,0,100,108,92.6,11,79,3,0,0,Match Report
+11,2018-11-11,Sun,Matchweek 12,Home,D 0–0,Chelsea,Everton,Y,CB,90,0,0,0,0,1,0,0,0,130,0,0,0,0.0,0.0,0.0,3,0,108,120,90.0,17,104,5,2,1,Match Report
+12,2018-11-24,Sat,Matchweek 13,Away,L 1–3,Chelsea,Tottenham,Y,CB,90,0,0,0,0,0,0,0,0,76,2,3,1,0.0,0.0,0.0,1,0,56,67,83.6,5,43,2,1,1,Match Report
+13,2018-12-02,Sun,Matchweek 14,Home,W 2–0,Chelsea,Fulham,Y,CB,90,0,0,0,0,1,0,0,0,99,2,2,0,0.1,0.1,0.0,1,0,76,86,88.4,9,63,0,1,0,Match Report
+14,2018-12-05,Wed,Matchweek 15,Away,L 1–2,Chelsea,Wolves,N,"On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play",Match Report
+15,2018-12-08,Sat,Matchweek 16,Home,W 2–0,Chelsea,Manchester City,Y,CB,90,1,0,0,0,1,1,0,0,64,2,1,2,0.2,0.2,0.0,0,0,42,49,85.7,1,34,0,0,0,Match Report
+16,2018-12-16,Sun,Matchweek 17,Away,W 2–1,Chelsea,Brighton,Y,CB,90,0,0,0,0,1,1,0,0,85,1,1,0,0.1,0.1,0.0,0,0,70,81,86.4,6,52,1,2,1,Match Report
+17,2018-12-22,Sat,Matchweek 18,Home,L 0–1,Chelsea,Leicester City,Y,CB,90,0,0,0,0,2,0,0,0,94,1,0,1,0.7,0.7,0.0,1,0,70,85,82.4,10,64,3,1,1,Match Report
+18,2018-12-26,Wed,Matchweek 19,Away,W 2–1,Chelsea,Watford,Y,CB,90,0,0,0,0,0,0,0,0,96,0,1,1,0.0,0.0,0.0,1,0,78,87,89.7,7,67,0,2,2,Match Report
+19,2018-12-30,Sun,Matchweek 20,Away,W 1–0,Chelsea,Crystal Palace,Y,CB,90,0,1,0,0,0,0,0,0,81,1,1,0,0.0,0.0,0.5,1,1,69,75,92.0,14,60,2,0,0,Match Report
+20,2019-01-02,Wed,Matchweek 21,Home,D 0–0,Chelsea,Southampton,Y,CB,90,0,0,0,0,3,0,0,0,106,1,1,0,0.1,0.1,0.0,1,0,82,95,86.3,10,77,3,0,0,Match Report
+21,2019-01-12,Sat,Matchweek 22,Home,W 2–1,Chelsea,Newcastle Utd,Y,CB,90,0,1,0,0,2,0,0,0,102,2,2,1,0.1,0.1,0.6,2,1,80,86,93.0,14,70,4,0,0,Match Report
+22,2019-01-19,Sat,Matchweek 23,Away,L 0–2,Chelsea,Arsenal,Y,CB,90,0,0,0,0,0,0,1,0,62,0,0,1,0.0,0.0,0.4,3,0,53,59,89.8,6,40,1,0,0,Match Report
+23,2019-01-30,Wed,Matchweek 24,Away,L 0–4,Chelsea,Bournemouth,Y,CB,90,0,0,0,0,0,0,0,0,87,2,0,1,0.0,0.0,0.0,1,0,64,75,85.3,8,66,1,1,0,Match Report
+24,2019-02-02,Sat,Matchweek 25,Home,W 5–0,Chelsea,Huddersfield,Y,CB,90,1,0,0,0,3,1,0,0,82,4,0,1,0.2,0.2,0.1,2,0,65,70,92.9,12,55,0,0,0,Match Report
+25,2019-02-10,Sun,Matchweek 26,Away,L 0–6,Chelsea,Manchester City,Y,CB,90,0,0,0,0,0,0,0,0,70,2,1,1,0.0,0.0,0.1,2,0,58,63,92.1,2,50,0,0,0,Match Report
+26,2019-02-27,Wed,Matchweek 28,Home,W 2–0,Chelsea,Tottenham,Y,CB,90,0,0,0,0,0,0,1,0,51,1,2,3,0.0,0.0,0.0,0,0,30,37,81.1,1,17,0,0,0,Match Report
+27,2019-03-03,Sun,Matchweek 29,Away,W 2–1,Chelsea,Fulham,N,"On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play",Match Report
+28,2019-03-10,Sun,Matchweek 30,Home,D 1–1,Chelsea,Wolves,Y,CB,90,0,0,0,0,2,0,0,0,121,0,0,2,0.1,0.1,0.0,1,0,105,116,90.5,10,80,2,0,0,Match Report
+29,2019-03-17,Sun,Matchweek 31,Away,L 0–2,Chelsea,Everton,Y,CB,90,0,0,0,0,0,0,0,0,92,0,1,1,0.0,0.0,0.2,2,0,73,85,85.9,10,77,3,0,0,Match Report
+30,2019-03-31,Sun,Matchweek 32,Away,W 2–1,Chelsea,Cardiff City,Y,CB,90,0,0,0,0,1,0,0,0,70,2,1,0,0.0,0.0,0.0,1,0,43,59,72.9,4,31,2,0,0,Match Report
+31,2019-04-03,Wed,Matchweek 27,Home,W 3–0,Chelsea,Brighton,Y,CB,90,0,0,0,0,1,0,0,0,84,1,0,0,0.1,0.1,0.0,0,0,67,77,87.0,10,54,5,0,0,Match Report
+32,2019-04-08,Mon,Matchweek 33,Home,W 2–0,Chelsea,West Ham,Y,CB,90,0,0,0,0,1,0,0,0,27,1,1,1,0.1,0.1,0.0,0,0,15,19,78.9,2,8,0,0,0,Match Report
+33,2019-04-14,Sun,Matchweek 34,Away,L 0–2,Chelsea,Liverpool,Y,CB,90,0,0,0,0,0,0,0,0,58,4,0,4,0.0,0.0,0.1,1,0,36,46,78.3,5,31,0,0,0,Match Report
+34,2019-04-22,Mon,Matchweek 35,Home,D 2–2,Chelsea,Burnley,Y,CB,90,0,0,0,0,1,1,0,0,93,2,1,2,0.0,0.0,0.0,1,0,71,83,85.5,7,65,3,0,0,Match Report
+35,2019-04-28,Sun,Matchweek 36,Away,D 1–1,Chelsea,Manchester Utd,Y,CB,90,0,0,0,0,1,0,0,0,57,0,0,3,0.1,0.1,0.0,1,0,38,48,79.2,3,37,1,1,0,Match Report
+36,2019-05-05,Sun,Matchweek 37,Home,W 3–0,Chelsea,Watford,Y,CB,88,1,0,0,0,2,1,0,0,54,1,3,0,0.1,0.1,0.3,1,0,39,46,84.8,1,35,0,0,0,Match Report
+37,2019-05-12,Sun,Matchweek 38,Away,D 0–0,Chelsea,Leicester City,Y,CB,90,0,0,0,0,0,0,0,0,67,0,2,0,0.0,0.0,0.0,2,0,54,59,91.5,4,44,1,0,0,Match Report

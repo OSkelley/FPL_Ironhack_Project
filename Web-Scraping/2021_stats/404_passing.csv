@@ -1,0 +1,24 @@
+,Date,Day,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Cmp,Att,Cmp%,TotDist,PrgDist,Cmp,Att,Cmp%,Cmp,Att,Cmp%,Cmp,Att,Cmp%,Ast,xAG,xA,KP,1/3,PPA,CrsPA,PrgP,Match Report
+3,2021-10-23,Sat,Matchweek 9,Away,W 5–2,Watford,Everton,N,"AM,CM",27,10,13,76.9,155,84,6,7,85.7,3,3,100.0,1,3,33.3,1,0.5,0.1,1,5,2,0,5,Match Report
+4,2021-10-30,Sat,Matchweek 10,Home,L 0–1,Watford,Southampton,Y,"AM,FW",45,11,16,68.8,215,69,6,10,60.0,2,2,100.0,3,3,100.0,0,0.1,0.1,1,3,1,0,3,Match Report
+5,2021-11-07,Sun,Matchweek 11,Away,L 0–1,Watford,Arsenal,N,"AM,CM",29,8,10,80.0,157,56,4,5,80.0,2,2,100.0,2,3,66.7,0,0.1,0.0,1,1,1,1,2,Match Report
+6,2021-11-20,Sat,Matchweek 12,Home,W 4–1,Watford,Manchester Utd,N,CM,14,8,11,72.7,149,33,4,4,100.0,3,6,50.0,1,1,100.0,0,0.0,0.0,0,1,0,0,1,Match Report
+7,2021-11-28,Sun,Matchweek 13,Away,L 2–4,Watford,Leicester City,N,"FW,AM",45,9,15,60.0,105,33,6,7,85.7,2,5,40.0,0,1,0.0,0,0.0,0.0,0,3,1,1,1,Match Report
+8,2021-12-01,Wed,Matchweek 14,Home,L 1–2,Watford,Chelsea,Y,LM,90,17,29,58.6,219,75,12,20,60.0,3,5,60.0,1,3,33.3,0,0.1,0.2,3,2,0,0,7,Match Report
+9,2021-12-04,Sat,Matchweek 15,Home,L 1–3,Watford,Manchester City,Y,"AM,LM",90,15,24,62.5,193,79,10,14,71.4,1,4,25.0,1,2,50.0,0,0.0,0.0,0,1,1,0,3,Match Report
+10,2021-12-10,Fri,Matchweek 16,Away,L 1–2,Watford,Brentford,N,AM,33,6,9,66.7,71,24,4,6,66.7,2,2,100.0,0,1,0.0,0,0.0,0.2,0,0,0,0,1,Match Report
+11,2021-12-28,Tue,Matchweek 20,Home,L 1–4,Watford,West Ham,N,"AM,LM",45,9,12,75.0,137,57,4,6,66.7,3,3,100.0,1,2,50.0,0,1.0,0.1,3,1,2,0,3,Match Report
+12,2022-01-01,Sat,Matchweek 21,Home,L 0–1,Watford,Tottenham,N,FW,45,4,8,50.0,62,0,2,3,66.7,2,3,66.7,0,2,0.0,0,0.0,0.0,0,0,0,0,0,Match Report
+13,2022-01-15,Sat,Matchweek 22,Away,D 1–1,Watford,Newcastle Utd,Y,LW,90,20,27,74.1,332,102,9,13,69.2,10,13,76.9,1,1,100.0,0,0.1,0.1,1,2,2,0,5,Match Report
+14,2022-01-21,Fri,Matchweek 23,Home,L 0–3,Watford,Norwich City,Y,"LW,LM",90,30,41,73.2,502,134,13,15,86.7,11,12,91.7,3,6,50.0,0,0.1,0.1,1,3,1,1,6,Match Report
+15,2022-02-05,Sat,Matchweek 17,Away,D 0–0,Watford,Burnley,Y,FW,82,15,28,53.6,228,38,9,15,60.0,5,7,71.4,1,1,100.0,0,0.0,0.0,1,1,1,0,2,Match Report
+19,2022-02-26,Sat,Matchweek 27,Away,D 0–0,Watford,Manchester Utd,N,"On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play",Match Report
+20,2022-03-06,Sun,Matchweek 28,Home,L 2–3,Watford,Arsenal,Y,LW,90,24,32,75.0,332,70,14,18,77.8,6,9,66.7,2,2,100.0,0,0.0,0.0,1,3,0,0,3,Match Report
+22,2022-03-13,Sun,Matchweek 29,Away,W 2–1,Watford,Southampton,Y,FW,90,24,29,82.8,417,115,8,11,72.7,11,12,91.7,4,5,80.0,0,0.0,0.0,0,4,2,0,6,Match Report
+23,2022-04-02,Sat,Matchweek 31,Away,L 0–2,Watford,Liverpool,Y,FW,77,13,22,59.1,154,13,7,11,63.6,3,3,100.0,1,2,50.0,0,0.2,0.0,1,1,0,0,1,Match Report
+24,2022-04-09,Sat,Matchweek 32,Home,L 0–3,Watford,Leeds United,Y,FW,80,22,36,61.1,326,90,13,18,72.2,4,7,57.1,3,3,100.0,0,0.3,0.0,1,2,1,0,5,Match Report
+25,2022-04-16,Sat,Matchweek 33,Home,L 1–2,Watford,Brentford,Y,FW,83,29,34,85.3,461,68,15,17,88.2,7,8,87.5,4,4,100.0,0,0.0,0.0,0,1,0,0,4,Match Report
+27,2022-04-30,Sat,Matchweek 35,Home,L 1–2,Watford,Burnley,Y,FW,90,25,37,67.6,361,78,16,22,72.7,7,8,87.5,2,3,66.7,0,0.0,0.0,1,0,1,0,3,Match Report
+29,2022-05-11,Wed,Matchweek 30,Home,D 0–0,Watford,Everton,Y,FW,90,20,32,62.5,301,32,12,18,66.7,7,11,63.6,1,2,50.0,0,0.0,0.0,0,1,1,0,2,Match Report
+30,2022-05-15,Sun,Matchweek 37,Home,L 1–5,Watford,Leicester City,Y,FW,90,24,40,60.0,434,91,11,17,64.7,10,15,66.7,3,4,75.0,0,0.0,0.2,0,6,0,0,4,Match Report
+31,2022-05-22,Sun,Matchweek 38,Away,L 1–2,Watford,Chelsea,Y,FW,90,17,27,63.0,304,95,10,17,58.8,5,6,83.3,2,2,100.0,0,0.0,0.0,1,2,3,0,6,Match Report

@@ -1,0 +1,26 @@
+,Date,Day,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Cmp,Att,Cmp%,TotDist,PrgDist,Cmp,Att,Cmp%,Cmp,Att,Cmp%,Cmp,Att,Cmp%,Ast,xAG,xA,KP,1/3,PPA,CrsPA,PrgP,Match Report
+0,2018-08-12,Sun,Matchweek 1,Home,D 0–0,Southampton,Burnley,Y*,"WB,LB",90,32,41,78.0,415,137,22,23,95.7,8,13,61.5,1,3,33.3,0,0.1,0.1,2,3,1,1,4,Match Report
+1,2018-08-18,Sat,Matchweek 2,Away,L 1–2,Southampton,Everton,Y*,LB,90,24,35,68.6,343,192,14,15,93.3,9,14,64.3,1,5,20.0,0,0.1,0.2,1,2,1,1,2,Match Report
+2,2018-08-25,Sat,Matchweek 3,Home,L 1–2,Southampton,Leicester City,Y*,LB,90,44,58,75.9,775,299,21,24,87.5,17,21,81.0,5,8,62.5,0,0.2,0.2,2,8,2,1,7,Match Report
+3,2018-09-01,Sat,Matchweek 4,Away,W 2–0,Southampton,Crystal Palace,Y*,LB,90,49,61,80.3,648,297,36,39,92.3,8,12,66.7,3,7,42.9,0,0.1,0.0,1,2,0,0,2,Match Report
+4,2018-09-17,Mon,Matchweek 5,Home,D 2–2,Southampton,Brighton,Y*,LB,90,39,56,69.6,521,149,26,32,81.3,12,16,75.0,0,5,0.0,0,0.0,0.0,0,4,0,0,4,Match Report
+5,2018-09-22,Sat,Matchweek 6,Away,L 0–3,Southampton,Liverpool,Y*,"LB,LM",90,36,48,75.0,542,166,21,27,77.8,13,17,76.5,1,2,50.0,0,0.1,0.1,1,6,2,0,4,Match Report
+6,2018-09-29,Sat,Matchweek 7,Away,L 0–2,Southampton,Wolves,Y*,LB,90,44,52,84.6,663,239,21,21,100.0,18,22,81.8,2,5,40.0,0,0.0,0.0,1,3,1,0,6,Match Report
+7,2018-10-07,Sun,Matchweek 8,Home,L 0–3,Southampton,Chelsea,Y*,"LB,WB",90,33,42,78.6,513,153,15,16,93.8,18,19,94.7,0,4,0.0,0,0.0,0.0,1,3,1,0,7,Match Report
+8,2018-10-20,Sat,Matchweek 9,Away,D 0–0,Southampton,Bournemouth,Y*,LB,90,30,37,81.1,376,116,23,23,100.0,7,12,58.3,0,1,0.0,0,0.0,0.0,0,2,0,0,2,Match Report
+9,2018-10-27,Sat,Matchweek 10,Home,D 0–0,Southampton,Newcastle Utd,Y*,LB,90,51,75,68.0,685,355,35,39,89.7,13,20,65.0,2,10,20.0,0,0.5,0.1,5,2,5,3,7,Match Report
+10,2018-11-04,Sun,Matchweek 11,Away,L 1–6,Southampton,Manchester City,Y*,LB,90,26,33,78.8,441,205,15,16,93.8,7,8,87.5,3,4,75.0,0,0.0,0.2,0,3,2,0,5,Match Report
+11,2018-11-10,Sat,Matchweek 12,Home,D 1–1,Southampton,Watford,Y*,LB,90,34,50,68.0,476,229,21,23,91.3,11,14,78.6,2,11,18.2,0,0.4,0.1,2,0,0,0,4,Match Report
+13,2019-02-09,Sat,Matchweek 26,Home,L 1–2,Southampton,Cardiff City,Y,"WB,LB",90,25,42,59.5,371,186,20,22,90.9,3,10,30.0,2,6,33.3,0,0.0,0.0,0,1,0,0,1,Match Report
+14,2019-02-24,Sun,Matchweek 27,Away,L 0–2,Southampton,Arsenal,N,"On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play",Match Report
+15,2019-02-27,Wed,Matchweek 28,Home,W 2–0,Southampton,Fulham,Y,WB,90,38,54,70.4,505,246,26,29,89.7,8,14,57.1,2,6,33.3,0,0.0,0.1,1,8,1,0,7,Match Report
+16,2019-03-02,Sat,Matchweek 29,Away,L 2–3,Southampton,Manchester Utd,Y,"WB,LB",90,25,38,65.8,329,143,16,22,72.7,8,12,66.7,1,2,50.0,0,0.0,0.0,0,1,0,0,3,Match Report
+17,2019-03-09,Sat,Matchweek 30,Home,W 2–1,Southampton,Tottenham,Y,WB,90,27,42,64.3,349,230,16,19,84.2,9,13,69.2,1,5,20.0,0,0.1,0.0,1,1,2,1,2,Match Report
+18,2019-03-30,Sat,Matchweek 32,Away,W 1–0,Southampton,Brighton,Y,"LB,WB",90,22,35,62.9,390,242,10,14,71.4,10,12,83.3,2,6,33.3,0,0.0,0.1,0,1,2,1,3,Match Report
+19,2019-04-05,Fri,Matchweek 33,Home,L 1–3,Southampton,Liverpool,Y,"WB,LB",90,26,36,72.2,431,252,15,19,78.9,9,13,69.2,2,3,66.7,0,0.0,0.1,0,2,3,1,3,Match Report
+20,2019-04-13,Sat,Matchweek 34,Home,W 3–1,Southampton,Wolves,Y,WB,90,15,29,51.7,205,79,12,17,70.6,2,6,33.3,1,2,50.0,0,0.0,0.0,0,1,0,0,1,Match Report
+21,2019-04-20,Sat,Matchweek 35,Away,L 1–3,Southampton,Newcastle Utd,Y,"LB,WB",90,40,55,72.7,508,289,25,28,89.3,11,16,68.8,0,2,0.0,0,0.0,0.0,1,4,1,0,6,Match Report
+22,2019-04-23,Tue,Matchweek 31,Away,D 1–1,Southampton,Watford,Y,WB,90,24,30,80.0,419,155,12,13,92.3,9,9,100.0,3,7,42.9,0,0.0,0.0,1,3,0,0,3,Match Report
+23,2019-04-27,Sat,Matchweek 36,Home,D 3–3,Southampton,Bournemouth,Y,"CB,LB",90,28,34,82.4,528,234,13,13,100.0,11,13,84.6,4,8,50.0,0,0.0,0.0,0,1,0,0,2,Match Report
+24,2019-05-04,Sat,Matchweek 37,Away,L 0–3,Southampton,West Ham,Y,LB,90,33,46,71.7,550,232,17,20,85.0,13,16,81.3,3,7,42.9,0,0.1,0.1,2,1,0,0,2,Match Report
+25,2019-05-12,Sun,Matchweek 38,Home,D 1–1,Southampton,Huddersfield,Y,"CB,LB",90,41,58,70.7,604,282,24,30,80.0,15,21,71.4,1,3,33.3,0,0.0,0.0,0,6,2,0,7,Match Report

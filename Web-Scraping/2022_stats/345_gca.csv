@@ -1,0 +1,22 @@
+,Date,Day,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,SCA,PassLive,PassDead,TO,Sh,Fld,Def,GCA,PassLive,PassDead,TO,Sh,Fld,Def,Match Report
+0,2022-08-22,Mon,Matchweek 3,Home,W 2–1,Manchester Utd,Liverpool,N,FW,45.0,4.0,3.0,0.0,1.0,0.0,0.0,0.0,2.0,1.0,0.0,1.0,0.0,0.0,0.0,Match Report
+2,2022-10-02,Sun,Matchweek 9,Away,L 3–6,Manchester Utd,Manchester City,N,FW,32.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,Match Report
+3,2022-10-09,Sun,Matchweek 10,Away,W 2–1,Manchester Utd,Everton,Y,FW,28.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,Match Report
+5,2022-11-06,Sun,Matchweek 15,Away,L 1–3,Manchester Utd,Aston Villa,N,AM,25.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Match Report
+6,2022-11-13,Sun,Matchweek 16,Away,W 2–1,Manchester Utd,Fulham,Y,FW,71.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Match Report
+7,2022-12-27,Tue,Matchweek 17,Home,W 3–0,Manchester Utd,Nott'ham Forest,Y,FW,64.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Match Report
+8,2022-12-31,Sat,Matchweek 18,Away,W 1–0,Manchester Utd,Wolves,Y,FW,80.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Match Report
+9,2023-01-03,Tue,Matchweek 19,Home,W 3–0,Manchester Utd,Bournemouth,Y,FW,68.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Match Report
+10,2023-01-14,Sat,Matchweek 20,Home,W 2–1,Manchester Utd,Manchester City,Y,FW,45.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Match Report
+12,2023-04-02,Sun,Matchweek 29,Away,L 0–2,Manchester Utd,Newcastle Utd,N,FW,29.0,2.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Match Report
+13,2023-04-05,Wed,Matchweek 25,Home,W 1–0,Manchester Utd,Brentford,N,FW,20.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Match Report
+14,2023-04-08,Sat,Matchweek 30,Home,W 2–0,Manchester Utd,Everton,N,"FW,LW",31.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Match Report
+15,2023-04-16,Sun,Matchweek 31,Away,W 2–0,Manchester Utd,Nott'ham Forest,Y,FW,71.0,3.0,1.0,0.0,0.0,1.0,0.0,1.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,Match Report
+16,2023-04-27,Thu,Matchweek 33,Away,D 2–2,Manchester Utd,Tottenham,N,FW,30.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Match Report
+17,2023-04-30,Sun,Matchweek 34,Home,W 1–0,Manchester Utd,Aston Villa,N,FW,5.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Match Report
+18,2023-05-04,Thu,Matchweek 28,Away,L 0–1,Manchester Utd,Brighton,Y,FW,83.0,3.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Match Report
+19,2023-05-07,Sun,Matchweek 35,Away,L 0–1,Manchester Utd,West Ham,N,FW,34.0,2.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Match Report
+20,2023-05-13,Sat,Matchweek 36,Home,W 2–0,Manchester Utd,Wolves,Y,FW,68.0,3.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Match Report
+21,2023-05-20,Sat,Matchweek 37,Away,W 1–0,Manchester Utd,Bournemouth,Y,FW,56.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Match Report
+22,2023-05-25,Thu,Matchweek 32,Home,W 4–1,Manchester Utd,Chelsea,Y,FW,69.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Match Report
+23,2023-05-28,Sun,Matchweek 38,Home,W 2–1,Manchester Utd,Fulham,N,"FW,LW",24.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Match Report

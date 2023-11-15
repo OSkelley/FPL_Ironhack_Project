@@ -1,0 +1,24 @@
+,Date,Day,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Cmp,Att,Cmp%,TotDist,PrgDist,Cmp,Att,Cmp%,Cmp,Att,Cmp%,Cmp,Att,Cmp%,Ast,xAG,xA,KP,1/3,PPA,CrsPA,PrgP,Match Report
+0,2018-08-11,Sat,Matchweek 1,Away,W 2–1,Tottenham,Newcastle Utd,Y,CB,90,68,77,88.3,1361,377,21,24,87.5,37,39,94.9,10,13,76.9,0,0.0,0.0,0,1,0,0,7,Match Report
+1,2018-08-18,Sat,Matchweek 2,Home,W 3–1,Tottenham,Fulham,Y,CB,90,86,92,93.5,1413,516,41,43,95.3,39,41,95.1,3,4,75.0,0,0.0,0.0,0,10,0,0,8,Match Report
+2,2018-08-27,Mon,Matchweek 3,Away,W 3–0,Tottenham,Manchester Utd,Y,CB,90,17,24,70.8,374,129,5,6,83.3,8,8,100.0,4,10,40.0,0,0.0,0.3,0,0,1,0,1,Match Report
+3,2018-09-02,Sun,Matchweek 4,Away,L 1–2,Tottenham,Watford,Y,CB,90,59,71,83.1,1179,426,15,17,88.2,40,42,95.2,4,10,40.0,0,0.1,0.1,1,6,1,1,13,Match Report
+4,2018-09-15,Sat,Matchweek 5,Home,L 1–2,Tottenham,Liverpool,Y,CB,90,66,74,89.2,1386,448,16,18,88.9,42,44,95.5,7,10,70.0,0,0.0,0.0,0,1,0,0,1,Match Report
+5,2018-09-22,Sat,Matchweek 6,Away,W 2–1,Tottenham,Brighton,Y,CB,90,68,74,91.9,1225,302,32,33,97.0,28,31,90.3,8,10,80.0,0,0.1,0.0,1,0,0,0,2,Match Report
+6,2018-09-29,Sat,Matchweek 7,Away,W 2–0,Tottenham,Huddersfield,Y,CB,45,22,28,78.6,356,122,9,9,100.0,13,16,81.3,0,2,0.0,0,0.0,0.0,0,1,0,0,4,Match Report
+8,2018-11-24,Sat,Matchweek 13,Home,W 3–1,Tottenham,Chelsea,N,"On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play",Match Report
+9,2018-12-02,Sun,Matchweek 14,Away,L 2–4,Tottenham,Arsenal,Y,CB,84,24,36,66.7,444,118,9,10,90.0,12,17,70.6,3,6,50.0,0,0.0,0.0,0,1,0,0,0,Match Report
+11,2018-12-08,Sat,Matchweek 16,Away,W 2–0,Tottenham,Leicester City,Y,CB,90,56,61,91.8,984,225,23,25,92.0,29,31,93.5,3,4,75.0,0,0.0,0.0,0,1,0,0,1,Match Report
+13,2019-01-13,Sun,Matchweek 22,Home,L 0–1,Tottenham,Manchester Utd,Y,CB,90,63,73,86.3,1164,362,21,22,95.5,35,38,92.1,6,12,50.0,0,0.0,0.0,0,2,0,0,4,Match Report
+14,2019-01-20,Sun,Matchweek 23,Away,W 2–1,Tottenham,Fulham,Y,CB,90,96,108,88.9,1640,552,46,48,95.8,39,41,95.1,9,14,64.3,0,0.1,0.1,1,10,1,1,10,Match Report
+15,2019-01-30,Wed,Matchweek 24,Home,W 2–1,Tottenham,Watford,Y,CB,78,61,70,87.1,972,373,32,33,97.0,23,25,92.0,5,10,50.0,0,0.0,0.0,0,7,0,0,9,Match Report
+16,2019-02-02,Sat,Matchweek 25,Home,W 1–0,Tottenham,Newcastle Utd,Y,"LB,CB",90,97,123,78.9,1393,487,55,64,85.9,32,40,80.0,6,9,66.7,0,0.0,0.1,0,8,3,2,10,Match Report
+17,2019-02-10,Sun,Matchweek 26,Home,W 3–1,Tottenham,Leicester City,Y,CB,90,51,58,87.9,937,272,22,22,100.0,26,26,100.0,3,7,42.9,0,0.0,0.0,0,2,0,0,6,Match Report
+18,2019-02-23,Sat,Matchweek 27,Away,L 1–2,Tottenham,Burnley,Y,CB,90,71,85,83.5,1225,387,31,34,91.2,33,38,86.8,4,10,40.0,0,0.0,0.0,0,2,0,0,4,Match Report
+20,2019-03-02,Sat,Matchweek 29,Home,D 1–1,Tottenham,Arsenal,Y,"CB,LB",90,57,70,81.4,1215,393,17,19,89.5,27,35,77.1,10,12,83.3,0,0.0,0.0,0,6,0,0,4,Match Report
+21,2019-03-09,Sat,Matchweek 30,Away,L 1–2,Tottenham,Southampton,Y,CB,90,40,55,72.7,845,248,10,12,83.3,25,32,78.1,5,9,55.6,0,0.0,0.0,0,2,0,0,1,Match Report
+22,2019-03-31,Sun,Matchweek 32,Away,L 1–2,Tottenham,Liverpool,Y,"CB,LB",90,45,55,81.8,826,326,14,16,87.5,25,30,83.3,4,6,66.7,0,0.0,0.0,0,0,0,0,2,Match Report
+23,2019-04-03,Wed,Matchweek 31,Home,W 2–0,Tottenham,Crystal Palace,Y,CB,90,83,89,93.3,1559,441,31,31,100.0,42,45,93.3,10,11,90.9,0,0.0,0.0,0,4,0,0,7,Match Report
+24,2019-04-13,Sat,Matchweek 34,Home,W 4–0,Tottenham,Huddersfield,Y,CB,84,106,117,90.6,1871,377,44,45,97.8,54,59,91.5,6,10,60.0,0,0.0,0.0,0,9,0,0,13,Match Report
+25,2019-04-20,Sat,Matchweek 35,Away,L 0–1,Tottenham,Manchester City,Y*,CB,90,34,42,81.0,720,311,13,15,86.7,13,16,81.3,8,11,72.7,0,0.0,0.0,0,2,1,0,2,Match Report
+26,2019-04-23,Tue,Matchweek 33,Home,W 1–0,Tottenham,Brighton,Y,CB,90,97,104,93.3,1628,484,36,37,97.3,56,59,94.9,3,4,75.0,0,0.0,0.1,1,10,1,0,12,Match Report

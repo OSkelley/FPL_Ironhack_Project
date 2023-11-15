@@ -1,0 +1,34 @@
+,Date,Day,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Cmp,Att,Cmp%,TotDist,PrgDist,Cmp,Att,Cmp%,Cmp,Att,Cmp%,Cmp,Att,Cmp%,Ast,xAG,xA,KP,1/3,PPA,CrsPA,PrgP,Match Report
+0,2022-08-06,Sat,Matchweek 1,Home,D 2–2,Fulham,Liverpool,Y,AM,88,16,30,53.3,251,141,12,18,66.7,1,2,50.0,3,8,37.5,0,0.0,0.1,1,3,0,0,2,Match Report
+1,2022-08-13,Sat,Matchweek 2,Away,D 0–0,Fulham,Wolves,Y,AM,85,11,24,45.8,154,57,6,8,75.0,3,5,60.0,1,5,20.0,0,0.1,0.0,2,2,0,0,2,Match Report
+2,2022-08-20,Sat,Matchweek 3,Home,W 3–2,Fulham,Brentford,Y,AM,90,27,35,77.1,565,183,13,14,92.9,8,8,100.0,6,11,54.5,1,0.4,0.2,4,5,1,0,5,Match Report
+3,2022-08-27,Sat,Matchweek 4,Away,L 1–2,Fulham,Arsenal,Y,"AM,LW",78,13,16,81.3,264,96,4,5,80.0,6,6,100.0,3,4,75.0,0,0.2,0.2,3,2,1,1,2,Match Report
+4,2022-08-30,Tue,Matchweek 5,Home,W 2–1,Fulham,Brighton,Y,AM,77,15,30,50.0,286,57,7,14,50.0,7,10,70.0,1,5,20.0,0,0.1,0.0,1,2,0,0,2,Match Report
+5,2022-09-03,Sat,Matchweek 6,Away,L 1–2,Fulham,Tottenham,Y,AM,60,21,29,72.4,363,94,10,10,100.0,10,13,76.9,1,6,16.7,0,0.0,0.0,0,7,0,0,7,Match Report
+6,2022-09-16,Fri,Matchweek 8,Away,W 3–2,Fulham,Nott'ham Forest,Y,AM,82,28,40,70.0,563,178,11,15,73.3,11,12,91.7,5,11,45.5,0,0.1,0.1,3,2,1,0,2,Match Report
+7,2022-10-01,Sat,Matchweek 9,Home,L 1–4,Fulham,Newcastle Utd,Y,"DM,AM",90,19,34,55.9,301,120,12,16,75.0,5,11,45.5,2,5,40.0,0,0.0,0.1,1,0,1,0,2,Match Report
+8,2022-10-09,Sun,Matchweek 10,Away,L 1–3,Fulham,West Ham,Y,AM,76,23,36,63.9,529,114,8,11,72.7,7,7,100.0,7,11,63.6,0,0.0,0.0,1,2,0,0,2,Match Report
+9,2022-10-15,Sat,Matchweek 11,Home,D 2–2,Fulham,Bournemouth,Y,AM,86,21,35,60.0,495,192,8,9,88.9,5,11,45.5,7,11,63.6,1,0.6,0.5,3,1,1,0,6,Match Report
+10,2022-10-20,Thu,Matchweek 12,Home,W 3–0,Fulham,Aston Villa,Y,AM,86,21,33,63.6,460,137,9,12,75.0,6,6,100.0,6,12,50.0,0,0.3,0.1,4,2,1,0,4,Match Report
+11,2022-10-23,Sun,Matchweek 13,Away,W 3–2,Fulham,Leeds United,Y,"AM,LM",90,17,26,65.4,389,198,5,7,71.4,7,10,70.0,5,6,83.3,2,0.4,0.2,4,3,1,1,4,Match Report
+12,2022-10-29,Sat,Matchweek 14,Home,D 0–0,Fulham,Everton,Y,AM,75,25,40,62.5,408,149,11,12,91.7,10,19,52.6,2,5,40.0,0,0.5,0.4,7,2,3,2,1,Match Report
+13,2022-11-05,Sat,Matchweek 15,Away,L 1–2,Fulham,Manchester City,Y,"AM,LW",87,10,16,62.5,254,84,2,5,40.0,4,4,100.0,3,4,75.0,0,0.0,0.0,0,1,0,0,2,Match Report
+14,2022-11-13,Sun,Matchweek 16,Home,L 1–2,Fulham,Manchester Utd,Y,AM,90,24,50,48.0,380,91,13,16,81.3,9,16,56.3,1,11,9.1,0,0.1,0.1,1,2,1,0,3,Match Report
+15,2022-12-26,Mon,Matchweek 17,Away,W 3–0,Fulham,Crystal Palace,Y,AM,84,29,43,67.4,536,201,18,25,72.0,6,8,75.0,5,7,71.4,0,0.4,0.2,6,2,1,1,6,Match Report
+16,2022-12-31,Sat,Matchweek 18,Home,W 2–1,Fulham,Southampton,Y,AM,89,27,33,81.8,452,117,14,15,93.3,10,11,90.9,2,5,40.0,0,0.0,0.0,0,4,0,0,6,Match Report
+17,2023-01-03,Tue,Matchweek 19,Away,W 1–0,Fulham,Leicester City,Y,AM,58,19,26,73.1,276,99,10,10,100.0,6,10,60.0,1,4,25.0,0,0.0,0.0,1,1,1,1,3,Match Report
+18,2023-01-12,Thu,Matchweek 7,Home,W 2–1,Fulham,Chelsea,Y,AM,89,31,42,73.8,513,206,14,15,93.3,10,12,83.3,4,10,40.0,1,0.5,0.2,1,4,2,1,6,Match Report
+19,2023-01-15,Sun,Matchweek 20,Away,L 0–1,Fulham,Newcastle Utd,Y,AM,76,20,32,62.5,291,101,10,10,100.0,6,10,60.0,2,7,28.6,0,0.2,0.1,2,2,1,1,1,Match Report
+20,2023-01-23,Mon,Matchweek 21,Home,L 0–1,Fulham,Tottenham,Y,AM,90,30,45,66.7,649,303,11,18,61.1,12,14,85.7,7,12,58.3,0,0.4,0.5,3,4,1,1,5,Match Report
+21,2023-02-03,Fri,Matchweek 22,Away,D 0–0,Fulham,Chelsea,Y,AM,89,17,27,63.0,229,85,11,14,78.6,5,8,62.5,1,3,33.3,0,0.0,0.0,0,3,0,0,3,Match Report
+22,2023-02-11,Sat,Matchweek 23,Home,W 2–0,Fulham,Nott'ham Forest,Y,AM,89,24,32,75.0,582,176,10,11,90.9,6,10,60.0,8,10,80.0,1,0.5,0.3,4,3,1,0,4,Match Report
+23,2023-02-18,Sat,Matchweek 24,Away,W 1–0,Fulham,Brighton,Y,AM,81,16,22,72.7,243,83,8,10,80.0,6,8,75.0,1,3,33.3,0,0.0,0.1,1,2,0,0,3,Match Report
+24,2023-02-24,Fri,Matchweek 25,Home,D 1–1,Fulham,Wolves,Y,AM,90,18,30,60.0,363,138,10,13,76.9,3,7,42.9,5,9,55.6,0,0.0,0.1,1,7,1,0,7,Match Report
+25,2023-03-06,Mon,Matchweek 26,Away,L 2–3,Fulham,Brentford,Y,AM,90,28,37,75.7,613,148,9,12,75.0,12,14,85.7,6,9,66.7,0,0.0,0.0,0,6,0,0,5,Match Report
+26,2023-03-12,Sun,Matchweek 27,Home,L 0–3,Fulham,Arsenal,Y,AM,75,23,38,60.5,450,182,11,13,84.6,8,11,72.7,4,14,28.6,0,0.1,0.0,2,3,0,0,6,Match Report
+27,2023-04-01,Sat,Matchweek 29,Away,L 1–2,Fulham,Bournemouth,Y,AM,81,24,30,80.0,459,126,12,14,85.7,9,9,100.0,3,7,42.9,0,0.1,0.1,2,2,0,0,5,Match Report
+28,2023-04-08,Sat,Matchweek 30,Home,L 0–1,Fulham,West Ham,Y,AM,84,46,64,71.9,737,124,25,27,92.6,15,20,75.0,4,13,30.8,0,0.0,0.1,0,3,2,0,6,Match Report
+29,2023-04-15,Sat,Matchweek 31,Away,W 3–1,Fulham,Everton,Y,AM,78,21,25,84.0,348,78,14,15,93.3,4,5,80.0,3,5,60.0,0,0.0,0.0,1,1,0,0,4,Match Report
+30,2023-04-22,Sat,Matchweek 32,Home,W 2–1,Fulham,Leeds United,Y,AM,85,15,31,48.4,261,80,7,13,53.8,6,7,85.7,2,9,22.2,0,0.1,0.0,1,2,0,0,4,Match Report
+31,2023-04-25,Tue,Matchweek 33,Away,L 0–1,Fulham,Aston Villa,Y,AM,67,8,15,53.3,208,24,2,2,100.0,3,5,60.0,3,4,75.0,0,0.0,0.0,0,0,0,0,0,Match Report
+32,2023-04-30,Sun,Matchweek 34,Home,L 1–2,Fulham,Manchester City,Y,AM,57,14,22,63.6,206,73,9,10,90.0,3,6,50.0,2,5,40.0,0,0.0,0.3,0,1,1,0,1,Match Report

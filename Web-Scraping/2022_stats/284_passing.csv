@@ -1,0 +1,36 @@
+,Date,Day,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Cmp,Att,Cmp%,TotDist,PrgDist,Cmp,Att,Cmp%,Cmp,Att,Cmp%,Cmp,Att,Cmp%,Ast,xAG,xA,KP,1/3,PPA,CrsPA,PrgP,Match Report
+0,2022-08-06,Sat,Matchweek 1,Away,D 2–2,Liverpool,Fulham,Y,LB,90,59,79,74.7,1035,241,27,33,81.8,28,34,82.4,4,10,40.0,0,0.0,0.1,0,3,0,0,4,Match Report
+1,2022-08-15,Mon,Matchweek 2,Home,D 1–1,Liverpool,Crystal Palace,Y,LB,62,54,66,81.8,783,226,29,35,82.9,19,21,90.5,2,5,40.0,0,0.0,0.0,0,4,0,0,4,Match Report
+2,2022-08-22,Mon,Matchweek 3,Away,L 1–2,Liverpool,Manchester Utd,Y,LB,84,72,88,81.8,1219,505,29,30,96.7,35,39,89.7,6,13,46.2,0,0.2,0.1,2,3,1,0,5,Match Report
+3,2022-08-27,Sat,Matchweek 4,Home,W 9–0,Liverpool,Bournemouth,Y,LB,68,55,64,85.9,856,202,32,34,94.1,16,20,80.0,6,9,66.7,1,0.1,0.0,1,3,0,0,3,Match Report
+4,2022-08-31,Wed,Matchweek 5,Home,W 2–1,Liverpool,Newcastle Utd,Y,LB,70,41,51,80.4,686,163,23,24,95.8,15,19,78.9,3,7,42.9,0,0.2,0.1,3,1,1,1,5,Match Report
+5,2022-09-03,Sat,Matchweek 6,Away,D 0–0,Liverpool,Everton,N,LB,32,21,25,84.0,411,180,8,9,88.9,10,11,90.9,3,4,75.0,0,0.5,0.6,3,2,1,1,3,Match Report
+7,2022-10-16,Sun,Matchweek 11,Home,W 1–0,Liverpool,Manchester City,Y,LB,90,45,64,70.3,758,283,27,27,100.0,15,24,62.5,3,8,37.5,0,0.0,0.0,0,3,0,0,2,Match Report
+8,2022-10-19,Wed,Matchweek 12,Home,W 1–0,Liverpool,West Ham,N,LB,10,11,12,91.7,172,58,5,5,100.0,4,5,80.0,1,1,100.0,0,0.0,0.0,0,0,0,0,1,Match Report
+9,2022-10-22,Sat,Matchweek 13,Away,L 0–1,Liverpool,Nott'ham Forest,Y,LB,90,60,78,76.9,1096,320,24,27,88.9,30,36,83.3,6,12,50.0,0,0.4,0.4,3,3,2,0,6,Match Report
+10,2022-10-29,Sat,Matchweek 14,Home,L 1–2,Liverpool,Leeds United,Y,LB,90,86,105,81.9,1616,494,41,45,91.1,35,41,85.4,8,13,61.5,1,0.6,0.5,4,6,1,1,9,Match Report
+11,2022-11-06,Sun,Matchweek 15,Away,W 2–1,Liverpool,Tottenham,Y,LB,90,64,79,81.0,951,330,38,41,92.7,23,27,85.2,2,8,25.0,0,0.1,0.1,2,4,4,2,5,Match Report
+12,2022-11-12,Sat,Matchweek 16,Home,W 3–1,Liverpool,Southampton,Y,LB,85,60,79,75.9,1065,417,29,34,85.3,24,28,85.7,7,12,58.3,2,0.5,0.5,6,3,2,2,6,Match Report
+13,2022-12-26,Mon,Matchweek 17,Away,W 3–1,Liverpool,Aston Villa,Y,LB,90,31,44,70.5,713,244,11,14,78.6,13,18,72.2,7,11,63.6,1,0.7,0.6,2,1,2,1,2,Match Report
+14,2022-12-30,Fri,Matchweek 18,Home,W 2–1,Liverpool,Leicester City,Y,LB,61,45,53,84.9,794,161,18,20,90.0,25,27,92.6,2,4,50.0,0,0.2,0.1,2,4,2,1,3,Match Report
+15,2023-01-02,Mon,Matchweek 19,Away,L 1–3,Liverpool,Brentford,N,LB,45,41,52,78.8,517,114,29,32,90.6,10,10,100.0,0,6,0.0,0,0.0,0.0,0,3,0,0,3,Match Report
+16,2023-01-14,Sat,Matchweek 20,Away,L 0–3,Liverpool,Brighton,Y,LB,90,41,49,83.7,669,212,16,18,88.9,24,29,82.8,1,1,100.0,0,0.1,0.0,1,1,0,0,0,Match Report
+17,2023-01-21,Sat,Matchweek 21,Home,D 0–0,Liverpool,Chelsea,Y,LB,90,45,62,72.6,835,186,15,20,75.0,24,29,82.8,5,10,50.0,0,0.0,0.1,0,2,0,0,4,Match Report
+18,2023-02-04,Sat,Matchweek 22,Away,L 0–3,Liverpool,Wolves,Y*,LB,85,44,60,73.3,805,316,16,20,80.0,22,26,84.6,5,11,45.5,0,0.0,0.1,1,4,4,1,11,Match Report
+19,2023-02-13,Mon,Matchweek 23,Home,W 2–0,Liverpool,Everton,Y,LB,90,62,77,80.5,1080,311,31,35,88.6,21,26,80.8,8,12,66.7,0,0.0,0.1,1,2,0,0,7,Match Report
+20,2023-02-18,Sat,Matchweek 24,Away,W 2–0,Liverpool,Newcastle Utd,Y,LB,90,85,95,89.5,1406,416,43,45,95.6,35,39,89.7,7,10,70.0,0,0.3,0.4,3,6,3,1,10,Match Report
+21,2023-02-25,Sat,Matchweek 25,Away,D 0–0,Liverpool,Crystal Palace,Y,LB,90,59,79,74.7,849,153,32,36,88.9,24,34,70.6,1,5,20.0,0,0.0,0.0,0,1,0,0,4,Match Report
+22,2023-03-01,Wed,Matchweek 7,Home,W 2–0,Liverpool,Wolves,N,"On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play",Match Report
+23,2023-03-05,Sun,Matchweek 26,Home,W 7–0,Liverpool,Manchester Utd,Y,LB,90,40,60,66.7,676,251,19,23,82.6,14,23,60.9,6,10,60.0,1,0.3,0.3,3,2,4,1,5,Match Report
+24,2023-03-11,Sat,Matchweek 27,Away,L 0–1,Liverpool,Bournemouth,Y,LB,90,43,57,75.4,735,177,20,23,87.0,20,23,87.0,3,8,37.5,0,0.3,0.4,2,3,0,0,4,Match Report
+25,2023-04-01,Sat,Matchweek 29,Away,L 1–4,Liverpool,Manchester City,Y,LB,69,17,29,58.6,270,73,7,10,70.0,9,14,64.3,1,3,33.3,0,0.0,0.0,0,1,0,0,0,Match Report
+26,2023-04-04,Tue,Matchweek 8,Away,D 0–0,Liverpool,Chelsea,N,LB,25,12,18,66.7,195,32,7,9,77.8,4,5,80.0,1,3,33.3,0,0.0,0.0,0,0,0,0,0,Match Report
+27,2023-04-09,Sun,Matchweek 30,Home,D 2–2,Liverpool,Arsenal,Y,LB,90,42,56,75.0,758,290,18,18,100.0,19,27,70.4,4,5,80.0,0,0.5,0.6,1,5,1,0,5,Match Report
+28,2023-04-17,Mon,Matchweek 31,Away,W 6–1,Liverpool,Leeds United,Y,LB,90,90,105,85.7,1560,519,29,31,93.5,59,66,89.4,2,5,40.0,0,0.0,0.0,0,7,1,1,5,Match Report
+29,2023-04-22,Sat,Matchweek 32,Home,W 3–2,Liverpool,Nott'ham Forest,Y,LB,90,95,120,79.2,1479,496,54,55,98.2,38,45,84.4,3,12,25.0,1,0.4,0.4,5,7,1,0,11,Match Report
+30,2023-04-26,Wed,Matchweek 33,Away,W 2–1,Liverpool,West Ham,Y,LB,90,103,119,86.6,1588,483,51,55,92.7,46,51,90.2,4,10,40.0,1,0.4,0.3,3,8,1,0,3,Match Report
+31,2023-04-30,Sun,Matchweek 34,Home,W 4–3,Liverpool,Tottenham,Y,LB,90,104,120,86.7,1853,584,47,49,95.9,49,52,94.2,8,16,50.0,0,0.3,0.3,2,4,1,1,11,Match Report
+32,2023-05-03,Wed,Matchweek 28,Home,W 1–0,Liverpool,Fulham,N,LB,25,12,19,63.2,188,46,6,7,85.7,4,6,66.7,1,5,20.0,0,0.0,0.0,0,1,0,0,0,Match Report
+33,2023-05-06,Sat,Matchweek 35,Home,W 1–0,Liverpool,Brentford,Y,LB,81,39,51,76.5,685,253,17,17,100.0,18,22,81.8,4,12,33.3,0,0.0,0.1,0,10,1,0,7,Match Report
+34,2023-05-15,Mon,Matchweek 36,Away,W 3–0,Liverpool,Leicester City,Y,LB,90,78,90,86.7,1377,439,37,40,92.5,33,36,91.7,7,13,53.8,0,0.1,0.0,1,9,0,0,12,Match Report
+35,2023-05-20,Sat,Matchweek 37,Home,D 1–1,Liverpool,Aston Villa,Y,LB,71,47,60,78.3,874,352,20,22,90.9,21,25,84.0,6,12,50.0,0,0.1,0.1,1,5,0,0,6,Match Report

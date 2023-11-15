@@ -1,0 +1,5 @@
+,Date,Day,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att.1,Succ,PassLive,PassDead,TO,Fld,Def,PassLive.1,PassDead.1,TO.1,Sh.1,Fld.1,Def.1,TotDist,PrgDist,Cmp.1,Cmp%.1,Cmp.2,Att.2,Cmp%.2,Cmp.3,Att.3,Cmp%.3,xA,KP,1/3,PPA,CrsPA
+5,2020-07-12,Sun,Matchweek 35,Away,L 0–3,Everton,Wolves,N,CB,45,0,0,0,0,0,0,0,0,28,1,0,0,0.0,0.0,0.0,0,0,21,27,77.8,1,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,374,200,8,100.0,12,13,92.3,1,5,20.0,0.0,0,1,0,0
+6,2020-07-16,Thu,Matchweek 36,Home,D 1–1,Everton,Aston Villa,N,CB,75,0,0,0,0,0,0,0,0,53,2,0,2,0.0,0.0,0.0,0,0,41,45,91.1,2,34,0,0,0,0,0,0,0,0,0,0,0,0,0,0,796,250,10,90.9,29,30,96.7,2,4,50.0,0.0,0,1,0,0
+7,2020-07-20,Mon,Matchweek 37,Away,W 1–0,Everton,Sheffield Utd,Y,CB,90,0,0,0,0,0,0,0,0,71,2,0,1,0.0,0.0,0.0,0,0,52,61,85.2,0,39,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1031,261,15,78.9,31,33,93.9,6,9,66.7,0.0,0,1,0,0
+8,2020-07-26,Sun,Matchweek 38,Home,L 1–3,Everton,Bournemouth,Y,CB,90,0,0,0,0,0,0,0,0,107,3,2,3,0.0,0.0,0.0,0,0,82,90,91.1,1,64,0,1,1,0,0,0,0,0,0,0,0,0,0,0,1604,537,27,96.4,46,49,93.9,9,13,69.2,0.0,0,3,1,0

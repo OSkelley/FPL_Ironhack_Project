@@ -1,0 +1,24 @@
+,Date,Day,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,SCA,PassLive,PassDead,TO,Sh,Fld,Def,GCA,PassLive,PassDead,TO,Sh,Fld,Def,Match Report
+0,2022-08-06,Sat,Matchweek 1,Home,W 2–0,Bournemouth,Aston Villa,Y,AM,85.0,5.0,2.0,2.0,0.0,0.0,1.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,Match Report
+1,2022-08-13,Sat,Matchweek 2,Away,L 0–4,Bournemouth,Manchester City,Y,AM,79.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Match Report
+2,2022-08-20,Sat,Matchweek 3,Home,L 0–3,Bournemouth,Arsenal,Y,"RW,CM",90.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Match Report
+3,2022-08-27,Sat,Matchweek 4,Away,L 0–9,Bournemouth,Liverpool,Y,"RM,LW",90.0,3.0,2.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Match Report
+4,2022-08-31,Wed,Matchweek 5,Home,D 0–0,Bournemouth,Wolves,Y,"RM,LB",90.0,2.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Match Report
+5,2022-09-03,Sat,Matchweek 6,Away,W 3–2,Bournemouth,Nott'ham Forest,Y,"WB,LW",90.0,3.0,2.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,Match Report
+6,2022-09-17,Sat,Matchweek 8,Away,D 1–1,Bournemouth,Newcastle Utd,Y,RW,79.0,3.0,2.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Match Report
+7,2022-10-01,Sat,Matchweek 9,Home,D 0–0,Bournemouth,Brentford,Y,RM,90.0,2.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Match Report
+8,2022-10-08,Sat,Matchweek 10,Home,W 2–1,Bournemouth,Leicester City,Y,LM,90.0,2.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Match Report
+9,2022-10-15,Sat,Matchweek 11,Away,D 2–2,Bournemouth,Fulham,Y,LW,74.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Match Report
+10,2022-10-19,Wed,Matchweek 12,Home,L 0–1,Bournemouth,Southampton,Y,"WB,LW,RW",90.0,4.0,2.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Match Report
+11,2022-10-24,Mon,Matchweek 13,Away,L 0–2,Bournemouth,West Ham,Y,"LW,RW",90.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Match Report
+12,2022-10-29,Sat,Matchweek 14,Home,L 2–3,Bournemouth,Tottenham,Y,WB,77.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,Match Report
+13,2022-11-05,Sat,Matchweek 15,Away,L 3–4,Bournemouth,Leeds United,Y,LM,90.0,4.0,3.0,0.0,0.0,1.0,0.0,0.0,3.0,2.0,0.0,0.0,1.0,0.0,0.0,Match Report
+14,2022-11-12,Sat,Matchweek 16,Home,W 3–0,Bournemouth,Everton,Y,RM,79.0,4.0,3.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,Match Report
+16,2023-02-11,Sat,Matchweek 23,Home,D 1–1,Bournemouth,Newcastle Utd,N,LM,28.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Match Report
+17,2023-02-18,Sat,Matchweek 24,Away,W 1–0,Bournemouth,Wolves,Y,LW,56.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Match Report
+19,2023-04-01,Sat,Matchweek 29,Home,W 2–1,Bournemouth,Fulham,N,LM,45.0,2.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Match Report
+20,2023-04-04,Tue,Matchweek 7,Home,L 0–2,Bournemouth,Brighton,N,LM,33.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Match Report
+21,2023-04-08,Sat,Matchweek 30,Away,W 1–0,Bournemouth,Leicester City,N,LW,53.0,2.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Match Report
+22,2023-04-15,Sat,Matchweek 31,Away,W 3–2,Bournemouth,Tottenham,Y,"WB,LB",78.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,Match Report
+23,2023-04-23,Sun,Matchweek 32,Home,L 0–4,Bournemouth,West Ham,Y,WB,90.0,3.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Match Report
+24,2023-04-27,Thu,Matchweek 33,Away,W 1–0,Bournemouth,Southampton,Y,WB,77.0,5.0,3.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Match Report

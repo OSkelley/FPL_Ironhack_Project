@@ -1,0 +1,29 @@
+,Date,Day,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,SCA,PassLive,PassDead,TO,Sh,Fld,Def,GCA,PassLive,PassDead,TO,Sh,Fld,Def,Match Report
+0,2019-08-10,Sat,Matchweek 1,Home,L 0–3,Watford,Brighton,Y,AM,45,1,1,0,0,0,0,0,0,0,0,0,0,0,0,Match Report
+1,2019-08-17,Sat,Matchweek 2,Away,L 0–1,Watford,Everton,Y,"FW,RW",78,2,2,0,0,0,0,0,0,0,0,0,0,0,0,Match Report
+2,2019-08-24,Sat,Matchweek 3,Home,L 1–3,Watford,West Ham,Y,FW,73,5,3,1,0,1,0,0,1,1,0,0,0,0,0,Match Report
+3,2019-08-31,Sat,Matchweek 4,Away,D 1–1,Watford,Newcastle Utd,N,AM,9,1,1,0,0,0,0,0,0,0,0,0,0,0,0,Match Report
+4,2019-09-15,Sun,Matchweek 5,Home,D 2–2,Watford,Arsenal,Y,LW,90,16,11,1,1,2,0,1,1,1,0,0,0,0,0,Match Report
+5,2019-09-21,Sat,Matchweek 6,Away,L 0–8,Watford,Manchester City,Y,FW,76,1,0,0,1,0,0,0,0,0,0,0,0,0,0,Match Report
+6,2019-09-28,Sat,Matchweek 7,Away,L 0–2,Watford,Wolves,Y,LW,45,1,1,0,0,0,0,0,0,0,0,0,0,0,0,Match Report
+7,2019-10-05,Sat,Matchweek 8,Home,D 0–0,Watford,Sheffield Utd,N,FW,32,1,0,1,0,0,0,0,0,0,0,0,0,0,0,Match Report
+8,2019-10-19,Sat,Matchweek 9,Away,D 1–1,Watford,Tottenham,N,FW,87,2,1,0,0,0,1,0,0,0,0,0,0,0,0,Match Report
+9,2019-10-26,Sat,Matchweek 10,Home,D 0–0,Watford,Bournemouth,Y,FW,90,1,0,0,1,0,0,0,0,0,0,0,0,0,0,Match Report
+10,2019-11-02,Sat,Matchweek 11,Home,L 1–2,Watford,Chelsea,Y,"FW,RM",90,8,4,2,0,0,1,1,2,0,0,0,0,1,1,Match Report
+11,2019-11-08,Fri,Matchweek 12,Away,W 2–0,Watford,Norwich City,Y,FW,69,4,0,0,3,0,0,1,3,0,0,2,0,0,1,Match Report
+12,2019-11-23,Sat,Matchweek 13,Home,L 0–3,Watford,Burnley,Y,"FW,LW",90,9,5,1,1,0,2,0,0,0,0,0,0,0,0,Match Report
+13,2019-11-30,Sat,Matchweek 14,Away,L 1–2,Watford,Southampton,Y,FW,66,1,0,1,0,0,0,0,0,0,0,0,0,0,0,Match Report
+14,2019-12-04,Wed,Matchweek 15,Away,L 0–2,Watford,Leicester City,Y,FW,76,1,1,0,0,0,0,0,0,0,0,0,0,0,0,Match Report
+15,2019-12-07,Sat,Matchweek 16,Home,D 0–0,Watford,Crystal Palace,Y,LW,90,5,3,2,0,0,0,0,0,0,0,0,0,0,0,Match Report
+16,2019-12-14,Sat,Matchweek 17,Away,L 0–2,Watford,Liverpool,Y,LW,90,3,1,0,1,0,1,0,0,0,0,0,0,0,0,Match Report
+17,2019-12-22,Sun,Matchweek 18,Home,W 2–0,Watford,Manchester Utd,Y,LW,90,7,2,0,4,1,0,0,0,0,0,0,0,0,0,Match Report
+18,2019-12-26,Thu,Matchweek 19,Away,D 1–1,Watford,Sheffield Utd,Y,"LW,LM",90,3,2,0,0,0,1,0,0,0,0,0,0,0,0,Match Report
+19,2019-12-28,Sat,Matchweek 20,Home,W 3–0,Watford,Aston Villa,Y,LW,90,7,4,2,1,0,0,0,0,0,0,0,0,0,0,Match Report
+20,2020-01-01,Wed,Matchweek 21,Home,W 2–1,Watford,Wolves,Y,LW,72,4,3,0,1,0,0,0,1,1,0,0,0,0,0,Match Report
+21,2020-01-12,Sun,Matchweek 22,Away,W 3–0,Watford,Bournemouth,Y,LW,89,4,2,0,0,2,0,0,0,0,0,0,0,0,0,Match Report
+22,2020-01-18,Sat,Matchweek 23,Home,D 0–0,Watford,Tottenham,Y,LW,90,4,2,0,1,1,0,0,0,0,0,0,0,0,0,Match Report
+23,2020-01-21,Tue,Matchweek 24,Away,L 1–2,Watford,Aston Villa,Y,"LW,LM",89,3,2,0,0,1,0,0,1,1,0,0,0,0,0,Match Report
+24,2020-02-01,Sat,Matchweek 25,Home,L 2–3,Watford,Everton,Y,"LW,LM,RM",81,4,2,0,2,0,0,0,1,1,0,0,0,0,0,Match Report
+25,2020-02-08,Sat,Matchweek 26,Away,D 1–1,Watford,Brighton,Y,LW,85,2,1,0,1,0,0,0,0,0,0,0,0,0,0,Match Report
+26,2020-02-23,Sun,Matchweek 27,Away,L 0–3,Watford,Manchester Utd,Y,LW,90,3,2,0,0,0,1,0,0,0,0,0,0,0,0,Match Report
+27,2020-02-29,Sat,Matchweek 28,Home,W 3–0,Watford,Liverpool,Y,LW,36,1,1,0,0,0,0,0,0,0,0,0,0,0,0,Match Report

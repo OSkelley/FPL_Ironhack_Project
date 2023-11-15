@@ -1,0 +1,38 @@
+,Date,Day,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Cmp,Att,Cmp%,TotDist,PrgDist,Cmp,Att,Cmp%,Cmp,Att,Cmp%,Cmp,Att,Cmp%,Ast,xAG,xA,KP,1/3,PPA,CrsPA,PrgP,Match Report
+0,2020-09-12,Sat,Matchweek 1,Away,W 3–0,Arsenal,Fulham,Y,GK,90,33,33,100.0,637,258,10,10,100.0,21,21,100.0,2,2,100.0,0,0.0,0.0,0,0,0,0,0,Match Report
+1,2020-09-19,Sat,Matchweek 2,Home,W 2–1,Arsenal,West Ham,Y,GK,90,34,37,91.9,613,311,11,11,100.0,20,21,95.2,3,5,60.0,0,0.0,0.0,0,0,0,0,0,Match Report
+2,2020-09-28,Mon,Matchweek 3,Away,L 1–3,Arsenal,Liverpool,Y,GK,90,40,43,93.0,621,209,28,28,100.0,8,8,100.0,4,7,57.1,0,0.0,0.0,0,0,0,0,0,Match Report
+3,2020-10-04,Sun,Matchweek 4,Home,W 2–1,Arsenal,Sheffield Utd,Y,GK,90,39,46,84.8,770,415,13,13,100.0,22,22,100.0,3,10,30.0,0,0.0,0.0,0,0,0,0,0,Match Report
+4,2020-10-17,Sat,Matchweek 5,Away,L 0–1,Arsenal,Manchester City,Y,GK,90,45,52,86.5,877,401,18,18,100.0,20,20,100.0,7,14,50.0,0,0.0,0.0,0,0,0,0,0,Match Report
+5,2020-10-25,Sun,Matchweek 6,Home,L 0–1,Arsenal,Leicester City,Y,GK,90,25,26,96.2,458,190,9,9,100.0,15,15,100.0,1,2,50.0,0,0.0,0.0,0,0,0,0,0,Match Report
+6,2020-11-01,Sun,Matchweek 7,Away,W 1–0,Arsenal,Manchester Utd,Y,GK,90,36,47,76.6,835,427,11,11,100.0,17,17,100.0,8,19,42.1,0,0.0,0.0,0,1,0,0,0,Match Report
+7,2020-11-08,Sun,Matchweek 8,Home,L 0–3,Arsenal,Aston Villa,Y,GK,90,23,25,92.0,451,258,7,7,100.0,14,15,93.3,2,3,66.7,0,0.0,0.0,0,0,0,0,0,Match Report
+8,2020-11-22,Sun,Matchweek 9,Away,D 0–0,Arsenal,Leeds United,Y,GK,90,20,43,46.5,617,498,2,2,100.0,11,11,100.0,7,29,24.1,0,0.0,0.0,0,0,0,0,0,Match Report
+9,2020-11-29,Sun,Matchweek 10,Home,L 1–2,Arsenal,Wolves,Y,GK,90,20,20,100.0,473,276,1,1,100.0,16,16,100.0,3,3,100.0,0,0.0,0.0,0,1,0,0,1,Match Report
+10,2020-12-06,Sun,Matchweek 11,Away,L 0–2,Arsenal,Tottenham,Y,GK,90,28,31,90.3,518,337,10,10,100.0,17,18,94.4,1,3,33.3,0,0.0,0.0,0,0,0,0,1,Match Report
+11,2020-12-13,Sun,Matchweek 12,Home,L 0–1,Arsenal,Burnley,Y,GK,90,43,55,78.2,1093,654,5,5,100.0,26,26,100.0,12,24,50.0,0,0.0,0.0,0,0,0,0,0,Match Report
+12,2020-12-16,Wed,Matchweek 13,Home,D 1–1,Arsenal,Southampton,Y,GK,90,18,26,69.2,498,320,1,1,100.0,12,12,100.0,5,13,38.5,0,0.0,0.0,0,0,0,0,0,Match Report
+13,2020-12-19,Sat,Matchweek 14,Away,L 1–2,Arsenal,Everton,Y,GK,90,28,29,96.6,628,394,5,5,100.0,19,19,100.0,4,5,80.0,0,0.0,0.0,0,0,0,0,0,Match Report
+14,2020-12-26,Sat,Matchweek 15,Home,W 3–1,Arsenal,Chelsea,Y,GK,90,19,31,61.3,672,598,2,2,100.0,10,10,100.0,7,19,36.8,0,0.0,0.0,0,1,0,0,0,Match Report
+15,2020-12-29,Tue,Matchweek 16,Away,W 1–0,Arsenal,Brighton,Y,GK,90,30,44,68.2,584,371,10,10,100.0,18,18,100.0,2,16,12.5,0,0.0,0.0,0,0,0,0,0,Match Report
+16,2021-01-02,Sat,Matchweek 17,Away,W 4–0,Arsenal,West Brom,Y,GK,90,24,30,80.0,466,315,6,6,100.0,18,18,100.0,0,6,0.0,0,0.0,0.0,0,0,0,0,0,Match Report
+17,2021-01-14,Thu,Matchweek 18,Home,D 0–0,Arsenal,Crystal Palace,Y,GK,90,29,31,93.5,498,350,12,12,100.0,15,15,100.0,2,4,50.0,0,0.0,0.0,0,0,0,0,0,Match Report
+18,2021-01-18,Mon,Matchweek 19,Home,W 3–0,Arsenal,Newcastle Utd,Y,GK,90,25,28,89.3,484,338,10,10,100.0,11,11,100.0,3,6,50.0,0,0.0,0.0,0,0,0,0,0,Match Report
+19,2021-01-26,Tue,Matchweek 20,Away,W 3–1,Arsenal,Southampton,Y,GK,90,24,33,72.7,644,355,4,4,100.0,14,14,100.0,6,14,42.9,0,0.0,0.0,0,0,0,0,0,Match Report
+20,2021-01-30,Sat,Matchweek 21,Home,D 0–0,Arsenal,Manchester Utd,Y,GK,90,16,27,59.3,321,160,2,2,100.0,14,14,100.0,0,11,0.0,0,0.0,0.0,0,0,0,0,0,Match Report
+21,2021-02-02,Tue,Matchweek 22,Away,L 1–2,Arsenal,Wolves,Y,GK,71,22,23,95.7,425,289,9,9,100.0,11,11,100.0,2,3,66.7,0,0.0,0.0,0,0,0,0,0,Match Report
+23,2021-02-14,Sun,Matchweek 24,Home,W 4–2,Arsenal,Leeds United,Y,GK,90,28,39,71.8,636,420,10,10,100.0,13,13,100.0,5,16,31.3,0,0.0,0.0,0,0,0,0,0,Match Report
+24,2021-02-21,Sun,Matchweek 25,Home,L 0–1,Arsenal,Manchester City,Y,GK,90,37,44,84.1,912,586,12,12,100.0,15,15,100.0,10,17,58.8,0,0.0,0.0,0,0,0,0,0,Match Report
+25,2021-02-28,Sun,Matchweek 26,Away,W 3–1,Arsenal,Leicester City,Y,GK,90,25,31,80.6,604,408,3,3,100.0,18,19,94.7,4,8,50.0,0,0.0,0.0,0,0,0,0,0,Match Report
+26,2021-03-06,Sat,Matchweek 27,Away,D 1–1,Arsenal,Burnley,Y,GK,90,31,41,75.6,562,319,12,12,100.0,16,17,94.1,3,12,25.0,0,0.0,0.0,0,0,0,0,0,Match Report
+27,2021-03-14,Sun,Matchweek 28,Home,W 2–1,Arsenal,Tottenham,Y,GK,90,20,27,74.1,394,241,8,8,100.0,9,10,90.0,2,8,25.0,0,0.0,0.0,0,0,0,0,0,Match Report
+28,2021-03-21,Sun,Matchweek 29,Away,D 3–3,Arsenal,West Ham,Y,GK,90,22,25,88.0,559,388,8,8,100.0,6,6,100.0,7,10,70.0,0,0.0,0.0,0,0,0,0,0,Match Report
+29,2021-04-03,Sat,Matchweek 30,Home,L 0–3,Arsenal,Liverpool,Y,GK,90,18,31,58.1,464,323,8,8,100.0,4,4,100.0,6,19,31.6,0,0.0,0.0,0,0,0,0,0,Match Report
+30,2021-04-11,Sun,Matchweek 31,Away,W 3–0,Arsenal,Sheffield Utd,Y,GK,90,27,30,90.0,660,415,6,6,100.0,14,14,100.0,7,10,70.0,0,0.0,0.0,0,0,0,0,0,Match Report
+31,2021-04-18,Sun,Matchweek 32,Home,D 1–1,Arsenal,Fulham,N,"On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play",Match Report
+32,2021-04-23,Fri,Matchweek 33,Home,L 0–1,Arsenal,Everton,Y,GK,90,19,22,86.4,440,292,6,6,100.0,10,10,100.0,3,6,50.0,0,0.0,0.0,0,0,0,0,0,Match Report
+33,2021-05-02,Sun,Matchweek 34,Away,W 2–0,Arsenal,Newcastle Utd,N,"On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play",Match Report
+34,2021-05-09,Sun,Matchweek 35,Home,W 3–1,Arsenal,West Brom,Y,GK,90,24,29,82.8,524,343,7,7,100.0,15,15,100.0,2,7,28.6,0,0.0,0.0,0,0,0,0,0,Match Report
+35,2021-05-12,Wed,Matchweek 36,Away,W 1–0,Arsenal,Chelsea,Y,GK,90,18,34,52.9,442,330,6,6,100.0,9,9,100.0,3,19,15.8,0,0.0,0.0,0,0,0,0,0,Match Report
+36,2021-05-19,Wed,Matchweek 37,Away,W 3–1,Arsenal,Crystal Palace,Y,GK,90,23,30,76.7,521,326,7,7,100.0,11,11,100.0,5,12,41.7,0,0.0,0.0,0,0,0,0,0,Match Report
+37,2021-05-23,Sun,Matchweek 38,Home,W 2–0,Arsenal,Brighton,Y,GK,90,35,39,89.7,658,378,11,11,100.0,20,20,100.0,4,8,50.0,0,0.0,0.0,0,0,0,0,0,Match Report

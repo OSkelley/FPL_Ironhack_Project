@@ -1,0 +1,27 @@
+,Date,Day,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,SCA,PassLive,PassDead,TO,Sh,Fld,Def,GCA,PassLive,PassDead,TO,Sh,Fld,Def,Match Report
+0,2021-08-14,Sat,Matchweek 1,Home,L 0–3,Norwich City,Liverpool,N,LW,14.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Match Report
+1,2021-08-21,Sat,Matchweek 2,Away,L 0–5,Norwich City,Manchester City,N,FW,14.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Match Report
+2,2021-08-28,Sat,Matchweek 3,Home,L 1–2,Norwich City,Leicester City,N,FW,18.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Match Report
+4,2021-09-18,Sat,Matchweek 5,Home,L 1–3,Norwich City,Watford,Y,RW,69.0,4.0,2.0,0.0,0.0,0.0,2.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,Match Report
+5,2021-09-25,Sat,Matchweek 6,Away,L 0–2,Norwich City,Everton,Y,FW,90.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Match Report
+6,2021-10-02,Sat,Matchweek 7,Away,D 0–0,Norwich City,Burnley,Y,FW,89.0,3.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Match Report
+7,2021-10-16,Sat,Matchweek 8,Home,D 0–0,Norwich City,Brighton,Y,FW,75.0,4.0,3.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Match Report
+8,2021-10-23,Sat,Matchweek 9,Away,L 0–7,Norwich City,Chelsea,Y,"FW,AM",68.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Match Report
+9,2021-10-31,Sun,Matchweek 10,Home,L 1–2,Norwich City,Leeds United,Y,FW,76.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Match Report
+10,2021-11-06,Sat,Matchweek 11,Away,W 2–1,Norwich City,Brentford,N,FW,13.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Match Report
+11,2021-11-20,Sat,Matchweek 12,Home,W 2–1,Norwich City,Southampton,N,RW,45.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Match Report
+12,2021-11-27,Sat,Matchweek 13,Home,D 0–0,Norwich City,Wolves,Y,RM,67.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Match Report
+13,2021-11-30,Tue,Matchweek 14,Away,D 1–1,Norwich City,Newcastle Utd,Y,"RM,RW",66.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Match Report
+14,2021-12-05,Sun,Matchweek 15,Away,L 0–3,Norwich City,Tottenham,N,FW,22.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Match Report
+15,2021-12-11,Sat,Matchweek 16,Home,L 0–1,Norwich City,Manchester Utd,Y,LW,90.0,2.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Match Report
+17,2021-12-26,Sun,Matchweek 19,Home,L 0–5,Norwich City,Arsenal,Y,RW,71.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Match Report
+18,2021-12-28,Tue,Matchweek 20,Away,L 0–3,Norwich City,Crystal Palace,N,RW,10.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Match Report
+20,2022-01-15,Sat,Matchweek 22,Home,W 2–1,Norwich City,Everton,Y,"RM,RW",86.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Match Report
+21,2022-01-21,Fri,Matchweek 23,Away,W 3–0,Norwich City,Watford,Y,RM,90.0,2.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Match Report
+23,2022-02-12,Sat,Matchweek 25,Home,L 0–4,Norwich City,Manchester City,Y,RW,86.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Match Report
+24,2022-02-19,Sat,Matchweek 26,Away,L 1–3,Norwich City,Liverpool,Y,RW,75.0,2.0,1.0,0.0,1.0,0.0,0.0,0.0,2.0,1.0,0.0,1.0,0.0,0.0,0.0,Match Report
+25,2022-02-25,Fri,Matchweek 27,Away,L 0–2,Norwich City,Southampton,Y,RM,90.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Match Report
+26,2022-03-05,Sat,Matchweek 28,Home,L 1–3,Norwich City,Brentford,Y,RW,90.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Match Report
+27,2022-03-10,Thu,Matchweek 30,Home,L 1–3,Norwich City,Chelsea,Y,"FW,RW",83.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Match Report
+28,2022-03-13,Sun,Matchweek 29,Away,L 1–2,Norwich City,Leeds United,Y,RW,61.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Match Report
+30,2022-04-30,Sat,Matchweek 35,Away,L 0–2,Norwich City,Aston Villa,N,AM,14.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Match Report

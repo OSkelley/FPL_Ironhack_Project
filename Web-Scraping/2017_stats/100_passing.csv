@@ -1,0 +1,35 @@
+,Date,Day,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Cmp,Att,Cmp%,TotDist,PrgDist,Cmp,Att,Cmp%,Cmp,Att,Cmp%,Cmp,Att,Cmp%,Ast,xAG,xA,KP,1/3,PPA,CrsPA,PrgP,Match Report
+0,2017-08-12,Sat,Matchweek 1,Home,L 2–3,Chelsea,Burnley,Y,WB,90,35,41,85.4,609,172,15,15,100.0,16,19,84.2,3,3,100.0,0,0.1,0.0,3,3,0,0,2,Match Report
+1,2017-08-20,Sun,Matchweek 2,Away,W 2–1,Chelsea,Tottenham,Y,WB,90,26,38,68.4,439,163,14,16,87.5,11,14,78.6,1,6,16.7,0,0.0,0.0,0,2,0,0,1,Match Report
+2,2017-08-27,Sun,Matchweek 3,Home,W 2–0,Chelsea,Everton,Y,WB,90,52,62,83.9,824,299,28,29,96.6,20,21,95.2,3,9,33.3,0,0.0,0.0,0,3,1,0,4,Match Report
+3,2017-09-09,Sat,Matchweek 4,Away,W 2–1,Chelsea,Leicester City,Y,WB,90,48,62,77.4,824,212,23,27,85.2,19,23,82.6,4,6,66.7,0,0.1,0.1,2,2,3,1,5,Match Report
+4,2017-09-17,Sun,Matchweek 5,Home,D 0–0,Chelsea,Arsenal,Y,WB,90,34,50,68.0,709,167,12,19,63.2,12,13,92.3,8,10,80.0,0,0.0,0.0,0,2,0,0,1,Match Report
+5,2017-09-23,Sat,Matchweek 6,Away,W 4–0,Chelsea,Stoke City,Y,WB,58,20,27,74.1,341,88,7,10,70.0,11,13,84.6,1,2,50.0,0,0.0,0.0,0,0,0,0,1,Match Report
+6,2017-09-30,Sat,Matchweek 7,Home,L 0–1,Chelsea,Manchester City,Y,WB,90,35,49,71.4,568,271,13,14,92.9,16,21,76.2,3,6,50.0,0,0.0,0.1,0,3,1,1,3,Match Report
+7,2017-10-14,Sat,Matchweek 8,Away,L 1–2,Chelsea,Crystal Palace,Y,LM,90,42,57,73.7,625,153,26,29,89.7,14,17,82.4,1,5,20.0,0,0.1,0.0,2,2,0,0,2,Match Report
+8,2017-10-21,Sat,Matchweek 9,Home,W 4–2,Chelsea,Watford,Y,LM,67,15,20,75.0,251,90,8,9,88.9,7,7,100.0,0,2,0.0,0,0.0,0.0,0,0,0,0,0,Match Report
+9,2017-10-28,Sat,Matchweek 10,Away,W 1–0,Chelsea,Bournemouth,Y,WB,90,45,56,80.4,726,149,25,28,89.3,15,16,93.8,4,7,57.1,0,0.0,0.0,0,0,1,0,3,Match Report
+10,2017-11-05,Sun,Matchweek 11,Home,W 1–0,Chelsea,Manchester Utd,Y,LW,90,48,64,75.0,742,351,25,29,86.2,19,25,76.0,2,5,40.0,0,0.0,0.0,0,4,0,0,7,Match Report
+11,2017-11-18,Sat,Matchweek 12,Away,W 4–0,Chelsea,West Brom,Y,WB,90,46,61,75.4,799,147,20,22,90.9,21,23,91.3,5,12,41.7,0,0.0,0.0,0,0,1,0,1,Match Report
+12,2017-11-25,Sat,Matchweek 13,Away,D 1–1,Chelsea,Liverpool,Y,WB,90,43,58,74.1,639,221,22,25,88.0,20,22,90.9,0,5,0.0,0,0.0,0.0,0,0,1,0,3,Match Report
+13,2017-11-29,Wed,Matchweek 14,Home,W 1–0,Chelsea,Swansea City,Y,WB,90,58,76,76.3,879,284,34,37,91.9,22,29,75.9,1,6,16.7,0,0.5,0.0,2,1,1,0,8,Match Report
+14,2017-12-02,Sat,Matchweek 15,Home,W 3–1,Chelsea,Newcastle Utd,Y,WB,90,45,56,80.4,752,223,18,23,78.3,24,27,88.9,3,4,75.0,0,0.0,0.1,1,0,1,0,3,Match Report
+15,2017-12-09,Sat,Matchweek 16,Away,L 0–1,Chelsea,West Ham,Y,WB,54,40,47,85.1,697,170,16,19,84.2,22,24,91.7,2,3,66.7,0,0.0,0.0,1,1,1,0,4,Match Report
+16,2017-12-12,Tue,Matchweek 17,Away,W 3–1,Chelsea,Huddersfield,Y,WB,90,61,77,79.2,1043,273,28,33,84.8,26,29,89.7,5,9,55.6,1,0.6,0.5,4,2,3,2,5,Match Report
+17,2017-12-16,Sat,Matchweek 18,Home,W 1–0,Chelsea,Southampton,Y,WB,90,52,60,86.7,838,254,24,27,88.9,24,25,96.0,2,4,50.0,0,0.1,0.1,2,5,1,0,5,Match Report
+18,2017-12-23,Sat,Matchweek 19,Away,D 0–0,Chelsea,Everton,Y,WB,90,48,74,64.9,768,216,20,24,83.3,25,38,65.8,2,6,33.3,0,0.1,0.1,2,1,1,0,4,Match Report
+19,2017-12-26,Tue,Matchweek 20,Home,W 2–0,Chelsea,Brighton,Y,WB,90,36,45,80.0,661,126,14,17,82.4,19,21,90.5,3,5,60.0,0,0.1,0.0,1,5,0,0,6,Match Report
+20,2017-12-30,Sat,Matchweek 21,Home,W 5–0,Chelsea,Stoke City,Y,LM,90,47,53,88.7,795,149,23,26,88.5,18,20,90.0,5,6,83.3,0,0.1,0.0,3,0,0,0,3,Match Report
+21,2018-01-03,Wed,Matchweek 22,Away,D 2–2,Chelsea,Arsenal,Y,WB,90,27,38,71.1,434,106,19,20,95.0,3,9,33.3,4,5,80.0,0,0.0,0.0,0,1,0,0,2,Match Report
+22,2018-01-13,Sat,Matchweek 23,Home,D 0–0,Chelsea,Leicester City,Y,"WB,LM",90,41,51,80.4,656,211,18,22,81.8,21,22,95.5,2,6,33.3,0,0.1,0.0,2,2,1,0,6,Match Report
+23,2018-01-20,Sat,Matchweek 24,Away,W 4–0,Chelsea,Brighton,Y,LM,74,35,44,79.5,536,133,19,20,95.0,13,16,81.3,2,5,40.0,0,0.1,0.0,1,0,0,0,1,Match Report
+24,2018-01-31,Wed,Matchweek 25,Home,L 0–3,Chelsea,Bournemouth,Y,"WB,LB",90,49,64,76.6,778,209,26,32,81.3,22,27,81.5,0,4,0.0,0,0.2,0.3,3,3,3,3,4,Match Report
+26,2018-02-25,Sun,Matchweek 28,Away,L 1–2,Chelsea,Manchester Utd,Y,"WB,LB",90,38,44,86.4,682,161,19,19,100.0,13,16,81.3,4,5,80.0,0,0.4,0.2,2,1,1,1,2,Match Report
+27,2018-03-04,Sun,Matchweek 29,Away,L 0–1,Chelsea,Manchester City,Y,"WB,LB",90,28,37,75.7,444,86,17,20,85.0,8,12,66.7,3,4,75.0,0,0.0,0.0,0,0,0,0,1,Match Report
+28,2018-03-10,Sat,Matchweek 30,Home,W 2–1,Chelsea,Crystal Palace,Y,WB,90,40,51,78.4,711,111,19,20,95.0,15,18,83.3,4,4,100.0,0,0.3,0.1,1,0,1,0,3,Match Report
+29,2018-04-01,Sun,Matchweek 32,Home,L 1–3,Chelsea,Tottenham,Y,WB,82,40,56,71.4,567,186,25,30,83.3,10,14,71.4,3,5,60.0,0,0.0,0.0,1,3,0,0,0,Match Report
+30,2018-04-08,Sun,Matchweek 33,Home,D 1–1,Chelsea,West Ham,Y,WB,90,36,47,76.6,575,165,13,15,86.7,20,25,80.0,1,3,33.3,0,0.0,0.1,0,3,3,2,5,Match Report
+31,2018-04-14,Sat,Matchweek 34,Away,W 3–2,Chelsea,Southampton,Y,"WB,LB",90,40,51,78.4,657,204,21,23,91.3,16,19,84.2,3,7,42.9,1,0.0,0.1,1,2,1,1,4,Match Report
+33,2018-05-06,Sun,Matchweek 37,Home,W 1–0,Chelsea,Liverpool,Y,WB,90,37,49,75.5,498,211,20,24,83.3,13,17,76.5,1,3,33.3,0,0.0,0.0,0,2,0,0,1,Match Report
+34,2018-05-09,Wed,Matchweek 35,Home,D 1–1,Chelsea,Huddersfield,Y,"WB,LB",90,46,56,82.1,695,154,25,28,89.3,20,23,87.0,1,4,25.0,0,0.0,0.0,0,2,0,0,3,Match Report
+35,2018-05-13,Sun,Matchweek 38,Away,L 0–3,Chelsea,Newcastle Utd,N,"On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play",Match Report

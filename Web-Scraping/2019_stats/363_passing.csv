@@ -1,0 +1,28 @@
+,Date,Day,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Cmp,Att,Cmp%,TotDist,PrgDist,Cmp,Att,Cmp%,Cmp,Att,Cmp%,Cmp,Att,Cmp%,Ast,xAG,xA,KP,1/3,PPA,CrsPA,PrgP,Match Report
+0,2019-08-10,Sat,Matchweek 1,Home,L 0–3,Watford,Brighton,Y,AM,45,14,18,77.8,174,41,8,11,72.7,4,4,100.0,0,1,0.0,0,0.0,0.2,0,1,0,0,1,Match Report
+1,2019-08-17,Sat,Matchweek 2,Away,L 0–1,Watford,Everton,Y,"FW,RW",78,17,29,58.6,213,86,8,10,80.0,5,9,55.6,1,4,25.0,0,0.4,0.4,2,1,3,0,5,Match Report
+2,2019-08-24,Sat,Matchweek 3,Home,L 1–3,Watford,West Ham,Y,FW,73,27,38,71.1,417,128,11,15,73.3,11,13,84.6,2,3,66.7,0,0.1,0.2,2,1,3,1,4,Match Report
+3,2019-08-31,Sat,Matchweek 4,Away,D 1–1,Watford,Newcastle Utd,N,AM,9,5,9,55.6,44,5,5,5,100.0,0,1,0.0,0,1,0.0,0,0.0,0.0,0,0,0,0,0,Match Report
+4,2019-09-15,Sun,Matchweek 5,Home,D 2–2,Watford,Arsenal,Y,LW,90,56,69,81.2,779,172,33,36,91.7,18,19,94.7,3,8,37.5,1,0.6,0.4,8,0,4,0,4,Match Report
+5,2019-09-21,Sat,Matchweek 6,Away,L 0–8,Watford,Manchester City,Y,FW,76,13,19,68.4,194,11,7,8,87.5,6,7,85.7,0,3,0.0,0,0.0,0.0,0,0,0,0,0,Match Report
+6,2019-09-28,Sat,Matchweek 7,Away,L 0–2,Watford,Wolves,Y,LW,45,14,18,77.8,180,44,9,10,90.0,5,6,83.3,0,1,0.0,0,0.1,0.1,1,1,2,0,3,Match Report
+7,2019-10-05,Sat,Matchweek 8,Home,D 0–0,Watford,Sheffield Utd,N,FW,32,8,12,66.7,127,35,4,4,100.0,2,5,40.0,1,2,50.0,0,0.1,0.1,1,0,0,0,0,Match Report
+9,2019-10-26,Sat,Matchweek 10,Home,D 0–0,Watford,Bournemouth,Y,FW,90,19,34,55.9,243,92,13,16,81.3,5,9,55.6,0,5,0.0,0,0.0,0.0,0,1,0,0,3,Match Report
+10,2019-11-02,Sat,Matchweek 11,Home,L 1–2,Watford,Chelsea,Y,"FW,RM",90,21,28,75.0,237,68,15,17,88.2,4,5,80.0,1,3,33.3,0,0.1,0.1,2,1,1,0,2,Match Report
+11,2019-11-08,Fri,Matchweek 12,Away,W 2–0,Watford,Norwich City,Y,FW,69,21,30,70.0,277,56,13,14,92.9,4,4,100.0,2,3,66.7,1,0.1,0.0,1,2,0,0,3,Match Report
+12,2019-11-23,Sat,Matchweek 13,Home,L 0–3,Watford,Burnley,Y,"FW,LW",90,24,36,66.7,368,81,12,13,92.3,8,13,61.5,2,6,33.3,0,0.2,0.4,5,0,2,0,2,Match Report
+13,2019-11-30,Sat,Matchweek 14,Away,L 1–2,Watford,Southampton,Y,FW,66,19,28,67.9,259,40,12,13,92.3,5,10,50.0,1,1,100.0,0,0.0,0.0,0,0,0,0,1,Match Report
+14,2019-12-04,Wed,Matchweek 15,Away,L 0–2,Watford,Leicester City,Y,FW,76,20,29,69.0,349,101,9,11,81.8,8,12,66.7,2,4,50.0,0,0.1,0.1,1,0,0,0,0,Match Report
+15,2019-12-07,Sat,Matchweek 16,Home,D 0–0,Watford,Crystal Palace,Y,LW,90,22,39,56.4,448,100,9,12,75.0,9,16,56.3,4,10,40.0,0,0.7,0.5,3,2,0,0,4,Match Report
+16,2019-12-14,Sat,Matchweek 17,Away,L 0–2,Watford,Liverpool,Y,LW,90,22,36,61.1,282,44,14,20,70.0,2,5,40.0,3,7,42.9,0,0.0,0.1,0,0,1,0,1,Match Report
+17,2019-12-22,Sun,Matchweek 18,Home,W 2–0,Watford,Manchester Utd,Y,LW,90,27,38,71.1,376,121,16,19,84.2,9,10,90.0,1,1,100.0,0,0.1,0.2,1,3,1,0,3,Match Report
+18,2019-12-26,Thu,Matchweek 19,Away,D 1–1,Watford,Sheffield Utd,Y,"LW,LM",90,22,27,81.5,307,69,10,12,83.3,7,8,87.5,1,1,100.0,0,0.1,0.1,1,3,1,0,2,Match Report
+19,2019-12-28,Sat,Matchweek 20,Home,W 3–0,Watford,Aston Villa,Y,LW,90,32,41,78.0,526,171,18,19,94.7,6,9,66.7,6,7,85.7,0,0.4,0.3,6,3,2,0,8,Match Report
+20,2020-01-01,Wed,Matchweek 21,Home,W 2–1,Watford,Wolves,Y,LW,72,26,29,89.7,313,61,21,21,100.0,2,4,50.0,2,2,100.0,1,0.2,0.1,2,1,2,0,2,Match Report
+21,2020-01-12,Sun,Matchweek 22,Away,W 3–0,Watford,Bournemouth,Y,LW,89,25,34,73.5,375,130,15,15,100.0,6,10,60.0,2,2,100.0,0,0.1,0.1,1,1,1,0,4,Match Report
+22,2020-01-18,Sat,Matchweek 23,Home,D 0–0,Watford,Tottenham,Y,LW,90,28,37,75.7,393,97,18,21,85.7,8,10,80.0,1,2,50.0,0,0.0,0.1,1,0,3,0,6,Match Report
+23,2020-01-21,Tue,Matchweek 24,Away,L 1–2,Watford,Aston Villa,Y,"LW,LM",89,21,24,87.5,315,63,13,13,100.0,6,6,100.0,1,2,50.0,1,0.5,0.4,1,1,0,0,0,Match Report
+24,2020-02-01,Sat,Matchweek 25,Home,L 2–3,Watford,Everton,Y,"LW,LM,RM",81,17,21,81.0,188,40,12,14,85.7,5,6,83.3,0,1,0.0,1,0.1,0.0,2,1,1,0,1,Match Report
+25,2020-02-08,Sat,Matchweek 26,Away,D 1–1,Watford,Brighton,Y,LW,85,11,20,55.0,206,12,3,6,50.0,7,11,63.6,1,3,33.3,0,0.0,0.0,1,1,1,0,2,Match Report
+26,2020-02-23,Sun,Matchweek 27,Away,L 0–3,Watford,Manchester Utd,Y,LW,90,34,47,72.3,357,99,23,25,92.0,4,5,80.0,1,1,100.0,0,0.0,0.1,0,2,0,0,1,Match Report
+27,2020-02-29,Sat,Matchweek 28,Home,W 3–0,Watford,Liverpool,Y,LW,36,10,14,71.4,196,36,3,5,60.0,5,6,83.3,2,2,100.0,0,0.1,0.1,1,0,0,0,0,Match Report

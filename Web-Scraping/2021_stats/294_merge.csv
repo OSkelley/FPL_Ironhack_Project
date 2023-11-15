@@ -1,0 +1,7 @@
+,Date,Day,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att.1,Succ,PassLive,PassDead,TO,Fld,Def,PassLive.1,PassDead.1,TO.1,Sh.1,Fld.1,Def.1,TotDist,PrgDist,Cmp.1,Cmp%.1,Cmp.2,Att.2,Cmp%.2,Cmp.3,Att.3,Cmp%.3,xA,KP,1/3,PPA,CrsPA
+1,2021-09-17,Fri,Matchweek 5,Home,D 1–1,Newcastle Utd,Leeds United,Y,GK,90,0,0,0,0,0,0,0,0,33,0,0,0,0.0,0.0,0.0,0,0,21,31,67.7,0,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,918,803,1,100.0,8,8,100.0,12,22,54.5,0.0,0,1,0,0
+2,2021-09-25,Sat,Matchweek 6,Away,D 1–1,Newcastle Utd,Watford,Y,GK,90,0,0,0,0,0,0,1,0,31,0,0,0,0.0,0.0,0.0,0,0,15,27,55.6,0,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,721,623,1,100.0,3,4,75.0,11,22,50.0,0.0,0,0,0,0
+3,2021-10-02,Sat,Matchweek 7,Away,L 1–2,Newcastle Utd,Wolves,Y,GK,90,0,0,0,0,0,0,0,0,25,0,0,0,0.0,0.0,0.0,0,0,18,24,75.0,0,18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,453,293,6,100.0,6,6,100.0,6,12,50.0,0.0,0,1,0,0
+4,2021-10-17,Sun,Matchweek 8,Home,L 2–3,Newcastle Utd,Tottenham,Y,GK,90,0,0,0,0,0,0,0,0,34,0,0,0,0.0,0.0,0.0,0,0,24,34,70.6,0,22,0,0,0,0,0,0,0,0,0,0,0,0,0,0,843,622,3,100.0,6,6,100.0,14,24,58.3,0.0,0,0,0,0
+5,2021-11-06,Sat,Matchweek 11,Away,D 1–1,Newcastle Utd,Brighton,Y,GK,90,0,0,0,0,0,0,0,0,32,0,0,0,0.0,0.0,0.0,0,0,25,30,83.3,0,19,0,0,0,0,0,0,0,0,0,0,0,0,0,0,777,466,1,100.0,12,12,100.0,12,17,70.6,0.0,0,1,0,0
+6,2021-11-20,Sat,Matchweek 12,Home,D 3–3,Newcastle Utd,Brentford,Y,GK,90,0,0,0,0,0,0,0,0,27,0,0,0,0.0,0.0,0.0,0,0,14,24,58.3,0,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,586,424,1,100.0,2,2,100.0,11,21,52.4,0.0,0,0,0,0

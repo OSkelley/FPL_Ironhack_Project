@@ -1,0 +1,38 @@
+,Date,Day,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Cmp,Att,Cmp%,TotDist,PrgDist,Cmp,Att,Cmp%,Cmp,Att,Cmp%,Cmp,Att,Cmp%,Ast,xAG,xA,KP,1/3,PPA,CrsPA,PrgP,Match Report
+0,2020-09-19,Sat,Matchweek 2,Home,L 1–3,Manchester Utd,Crystal Palace,Y,"AM,DM",90,79,109,72.5,1544,500,31,33,93.9,34,42,81.0,13,23,56.5,0,0.2,0.2,5,12,7,1,23,Match Report
+1,2020-09-26,Sat,Matchweek 3,Away,W 3–2,Manchester Utd,Brighton,Y,AM,90,44,55,80.0,801,343,19,22,86.4,16,17,94.1,7,10,70.0,1,0.6,0.3,2,8,1,0,9,Match Report
+2,2020-10-04,Sun,Matchweek 4,Home,L 1–6,Manchester Utd,Tottenham,Y,AM,45,24,34,70.6,469,164,10,11,90.9,7,9,77.8,4,5,80.0,0,0.0,0.1,1,3,1,0,5,Match Report
+3,2020-10-17,Sat,Matchweek 5,Away,W 4–1,Manchester Utd,Newcastle Utd,Y,"AM,LW",90,65,87,74.7,1091,389,35,41,85.4,22,29,75.9,7,12,58.3,1,0.5,0.2,6,11,3,0,11,Match Report
+4,2020-10-24,Sat,Matchweek 6,Home,D 0–0,Manchester Utd,Chelsea,Y,AM,90,56,74,75.7,880,239,27,27,100.0,17,22,77.3,7,12,58.3,0,0.2,0.1,4,4,3,1,7,Match Report
+5,2020-11-01,Sun,Matchweek 7,Home,L 0–1,Manchester Utd,Arsenal,Y,AM,74,30,45,66.7,455,186,18,23,78.3,8,9,88.9,3,6,50.0,0,0.0,0.1,1,3,1,0,2,Match Report
+6,2020-11-07,Sat,Matchweek 8,Away,W 3–1,Manchester Utd,Everton,Y,AM,90,38,54,70.4,621,205,19,22,86.4,12,17,70.6,4,7,57.1,1,0.4,0.3,1,4,5,0,11,Match Report
+7,2020-11-21,Sat,Matchweek 9,Home,W 1–0,Manchester Utd,West Brom,Y,AM,90,66,88,75.0,1335,447,24,31,77.4,25,31,80.6,14,16,87.5,0,1.0,1.1,6,10,4,0,15,Match Report
+8,2020-11-29,Sun,Matchweek 10,Away,W 3–2,Manchester Utd,Southampton,Y,AM,90,37,67,55.2,659,249,23,33,69.7,10,22,45.5,4,10,40.0,0,0.4,0.2,1,7,1,0,3,Match Report
+9,2020-12-05,Sat,Matchweek 11,Away,W 3–1,Manchester Utd,West Ham,N,AM,45,33,43,76.7,593,256,14,15,93.3,7,9,77.8,7,9,77.8,1,0.9,0.3,8,7,4,0,7,Match Report
+10,2020-12-12,Sat,Matchweek 12,Home,D 0–0,Manchester Utd,Manchester City,Y,AM,90,35,53,66.0,565,132,13,19,68.4,14,19,73.7,4,7,57.1,0,0.2,0.1,2,3,0,0,4,Match Report
+11,2020-12-17,Thu,Matchweek 13,Away,W 3–2,Manchester Utd,Sheffield Utd,Y,AM,79,43,59,72.9,786,204,23,25,92.0,15,21,71.4,5,8,62.5,0,0.0,0.2,1,4,4,0,7,Match Report
+12,2020-12-20,Sun,Matchweek 14,Home,W 6–2,Manchester Utd,Leeds United,Y,AM,70,31,40,77.5,481,224,14,15,93.3,10,12,83.3,3,6,50.0,1,0.2,0.1,3,4,3,0,6,Match Report
+13,2020-12-26,Sat,Matchweek 15,Away,D 2–2,Manchester Utd,Leicester City,Y,"AM,LW",90,33,49,67.3,650,157,12,14,85.7,16,22,72.7,4,8,50.0,1,0.7,0.3,3,4,0,0,6,Match Report
+14,2020-12-29,Tue,Matchweek 16,Home,W 1–0,Manchester Utd,Wolves,Y,AM,89,54,74,73.0,1102,415,23,29,79.3,17,24,70.8,12,15,80.0,1,0.1,0.3,3,8,4,0,13,Match Report
+15,2021-01-01,Fri,Matchweek 17,Home,W 2–1,Manchester Utd,Aston Villa,Y,AM,86,37,52,71.2,541,180,22,27,81.5,12,16,75.0,2,5,40.0,0,0.3,0.1,5,3,4,0,8,Match Report
+16,2021-01-12,Tue,Matchweek 1,Away,W 1–0,Manchester Utd,Burnley,Y,AM,88,56,73,76.7,891,279,28,35,80.0,17,19,89.5,5,9,55.6,0,0.1,0.3,1,4,5,1,8,Match Report
+17,2021-01-17,Sun,Matchweek 19,Away,D 0–0,Manchester Utd,Liverpool,Y,AM,88,23,39,59.0,475,157,13,20,65.0,5,8,62.5,5,8,62.5,0,0.0,0.0,1,2,1,0,3,Match Report
+18,2021-01-20,Wed,Matchweek 18,Away,W 2–1,Manchester Utd,Fulham,Y,AM,89,60,78,76.9,980,240,29,33,87.9,22,28,78.6,5,8,62.5,0,0.5,0.3,2,3,5,1,9,Match Report
+19,2021-01-27,Wed,Matchweek 20,Home,L 1–2,Manchester Utd,Sheffield Utd,Y,AM,90,62,82,75.6,1128,241,27,32,84.4,25,30,83.3,8,15,53.3,0,0.4,0.7,3,9,1,0,9,Match Report
+20,2021-01-30,Sat,Matchweek 21,Away,D 0–0,Manchester Utd,Arsenal,Y,AM,90,43,53,81.1,762,167,21,22,95.5,15,17,88.2,6,9,66.7,0,0.0,0.1,1,6,3,0,7,Match Report
+21,2021-02-02,Tue,Matchweek 22,Home,W 9–0,Manchester Utd,Southampton,Y,AM,90,54,77,70.1,738,203,30,37,81.1,18,22,81.8,2,7,28.6,2,1.1,0.6,5,2,5,0,11,Match Report
+22,2021-02-06,Sat,Matchweek 23,Home,D 3–3,Manchester Utd,Everton,Y,AM,90,57,72,79.2,855,146,34,37,91.9,20,26,76.9,3,5,60.0,0,0.4,0.3,3,2,1,0,4,Match Report
+23,2021-02-14,Sun,Matchweek 24,Away,D 1–1,Manchester Utd,West Brom,Y,AM,90,65,92,70.7,1190,351,32,40,80.0,23,29,79.3,9,16,56.3,0,0.0,0.1,0,8,2,0,10,Match Report
+24,2021-02-21,Sun,Matchweek 25,Home,W 3–1,Manchester Utd,Newcastle Utd,Y,AM,90,61,73,83.6,932,136,34,38,89.5,21,25,84.0,4,8,50.0,1,0.4,0.1,3,9,2,0,8,Match Report
+25,2021-02-28,Sun,Matchweek 26,Away,D 0–0,Manchester Utd,Chelsea,Y,AM,90,35,54,64.8,483,70,21,24,87.5,9,15,60.0,3,11,27.3,0,0.0,0.0,1,1,0,0,1,Match Report
+26,2021-03-03,Wed,Matchweek 29,Away,D 0–0,Manchester Utd,Crystal Palace,Y,AM,90,52,64,81.3,1119,259,21,21,100.0,13,20,65.0,15,18,83.3,0,0.2,0.3,4,6,3,2,11,Match Report
+27,2021-03-07,Sun,Matchweek 27,Away,W 2–0,Manchester Utd,Manchester City,Y,"AM,FW",89,36,48,75.0,598,185,22,27,81.5,7,11,63.6,5,7,71.4,0,0.0,0.0,1,4,1,0,5,Match Report
+28,2021-03-14,Sun,Matchweek 28,Home,W 1–0,Manchester Utd,West Ham,Y,AM,90,68,80,85.0,1174,314,36,37,97.3,19,22,86.4,11,15,73.3,0,0.4,0.4,5,7,3,0,10,Match Report
+29,2021-04-04,Sun,Matchweek 30,Home,W 2–1,Manchester Utd,Brighton,Y,AM,90,55,70,78.6,897,262,30,30,100.0,22,28,78.6,3,9,33.3,1,0.4,0.3,4,7,3,0,11,Match Report
+30,2021-04-11,Sun,Matchweek 31,Away,W 3–1,Manchester Utd,Tottenham,Y,AM,89,41,62,66.1,584,131,26,29,89.7,9,13,69.2,4,12,33.3,0,0.7,0.7,1,2,2,0,5,Match Report
+31,2021-04-18,Sun,Matchweek 32,Home,W 3–1,Manchester Utd,Burnley,Y,"AM,LW",90,58,69,84.1,1038,221,30,33,90.9,15,20,75.0,11,13,84.6,0,0.0,0.1,0,3,2,0,8,Match Report
+32,2021-04-25,Sun,Matchweek 33,Away,D 0–0,Manchester Utd,Leeds United,Y,AM,90,43,53,81.1,668,272,23,26,88.5,11,14,78.6,4,5,80.0,0,0.3,0.3,2,5,2,0,6,Match Report
+33,2021-05-09,Sun,Matchweek 35,Away,W 3–1,Manchester Utd,Aston Villa,Y,AM,85,48,62,77.4,855,217,27,30,90.0,13,17,76.5,7,11,63.6,0,0.1,0.2,3,6,2,1,6,Match Report
+34,2021-05-11,Tue,Matchweek 36,Home,L 1–2,Manchester Utd,Leicester City,N,AM,13,15,22,68.2,270,86,8,10,80.0,5,6,83.3,2,6,33.3,0,0.0,0.0,0,4,0,0,3,Match Report
+35,2021-05-13,Thu,Matchweek 34,Home,L 2–4,Manchester Utd,Liverpool,Y*,AM,90,52,64,81.3,737,248,27,29,93.1,12,16,75.0,4,7,57.1,0,0.6,0.5,2,3,1,1,3,Match Report
+36,2021-05-18,Tue,Matchweek 37,Home,D 1–1,Manchester Utd,Fulham,Y*,AM,90,44,68,64.7,699,112,25,31,80.6,17,21,81.0,2,8,25.0,1,0.0,0.1,1,5,1,0,10,Match Report

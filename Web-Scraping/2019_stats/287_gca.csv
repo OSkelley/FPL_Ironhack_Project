@@ -1,0 +1,38 @@
+,Date,Day,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,SCA,PassLive,PassDead,TO,Sh,Fld,Def,GCA,PassLive,PassDead,TO,Sh,Fld,Def,Match Report
+0,2019-08-09,Fri,Matchweek 1,Away,L 1–4,Norwich City,Liverpool,Y,"LW,AM,LM",90.0,4.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Match Report
+1,2019-08-17,Sat,Matchweek 2,Home,W 3–1,Norwich City,Newcastle Utd,Y,"LW,RW",90.0,6.0,6.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,Match Report
+2,2019-08-24,Sat,Matchweek 3,Home,L 2–3,Norwich City,Chelsea,Y,LW,90.0,2.0,2.0,0.0,0.0,0.0,0.0,0.0,2.0,2.0,0.0,0.0,0.0,0.0,0.0,Match Report
+3,2019-08-31,Sat,Matchweek 4,Away,L 0–2,Norwich City,West Ham,Y,LW,77.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Match Report
+4,2019-09-14,Sat,Matchweek 5,Home,W 3–2,Norwich City,Manchester City,Y,LW,90.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Match Report
+5,2019-09-21,Sat,Matchweek 6,Away,L 0–2,Norwich City,Burnley,Y,"LW,CM",89.0,3.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Match Report
+6,2019-09-28,Sat,Matchweek 7,Away,L 0–2,Norwich City,Crystal Palace,Y,LW,80.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Match Report
+7,2019-10-05,Sat,Matchweek 8,Home,L 1–5,Norwich City,Aston Villa,Y,"LW,AM",79.0,6.0,4.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Match Report
+8,2019-10-19,Sat,Matchweek 9,Away,D 0–0,Norwich City,Bournemouth,Y,LM,80.0,2.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Match Report
+9,2019-10-27,Sun,Matchweek 10,Home,L 1–3,Norwich City,Manchester Utd,Y,LM,45.0,3.0,2.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Match Report
+10,2019-11-02,Sat,Matchweek 11,Away,L 0–2,Norwich City,Brighton,N,CM,7.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Match Report
+11,2019-11-08,Fri,Matchweek 12,Home,L 0–2,Norwich City,Watford,N,"RW,AM",29.0,4.0,3.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Match Report
+12,2019-11-23,Sat,Matchweek 13,Away,W 2–0,Norwich City,Everton,Y,RW,79.0,4.0,2.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Match Report
+13,2019-12-01,Sun,Matchweek 14,Home,D 2–2,Norwich City,Arsenal,Y,RW,82.0,4.0,3.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Match Report
+14,2019-12-04,Wed,Matchweek 15,Away,L 1–2,Norwich City,Southampton,Y,RW,82.0,2.0,2.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,Match Report
+15,2019-12-08,Sun,Matchweek 16,Home,L 1–2,Norwich City,Sheffield Utd,N,LW,19.0,2.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Match Report
+16,2019-12-14,Sat,Matchweek 17,Away,D 1–1,Norwich City,Leicester City,Y,LW,84.0,2.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Match Report
+17,2019-12-21,Sat,Matchweek 18,Home,L 1–2,Norwich City,Wolves,Y,LW,85.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,Match Report
+18,2019-12-26,Thu,Matchweek 19,Away,L 0–1,Norwich City,Aston Villa,Y,"LW,RW",90.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Match Report
+19,2019-12-28,Sat,Matchweek 20,Home,D 2–2,Norwich City,Tottenham,N,AM,5.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Match Report
+20,2020-01-01,Wed,Matchweek 21,Home,D 1–1,Norwich City,Crystal Palace,Y,LW,77.0,2.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Match Report
+21,2020-01-11,Sat,Matchweek 22,Away,L 0–4,Norwich City,Manchester Utd,Y,"LW,AM",90.0,3.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Match Report
+22,2020-01-18,Sat,Matchweek 23,Home,W 1–0,Norwich City,Bournemouth,Y,LW,90.0,4.0,2.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Match Report
+23,2020-01-22,Wed,Matchweek 24,Away,L 1–2,Norwich City,Tottenham,Y,LW,90.0,3.0,1.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Match Report
+24,2020-02-01,Sat,Matchweek 25,Away,D 0–0,Norwich City,Newcastle Utd,Y,LW,66.0,3.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Match Report
+25,2020-02-15,Sat,Matchweek 26,Home,L 0–1,Norwich City,Liverpool,Y,LW,90.0,2.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Match Report
+26,2020-02-23,Sun,Matchweek 27,Away,L 0–3,Norwich City,Wolves,Y,"LW,RW",83.0,2.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Match Report
+27,2020-02-28,Fri,Matchweek 28,Home,W 1–0,Norwich City,Leicester City,Y,LW,67.0,4.0,2.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Match Report
+28,2020-03-07,Sat,Matchweek 29,Away,L 0–1,Norwich City,Sheffield Utd,Y,LW,45.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Match Report
+29,2020-06-19,Fri,Matchweek 30,Home,L 0–3,Norwich City,Southampton,Y,LM,61.0,2.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Match Report
+30,2020-06-24,Wed,Matchweek 31,Home,L 0–1,Norwich City,Everton,N,RM,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Match Report
+31,2020-07-01,Wed,Matchweek 32,Away,L 0–4,Norwich City,Arsenal,Y,"LM,AM",74.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Match Report
+32,2020-07-04,Sat,Matchweek 33,Home,L 0–1,Norwich City,Brighton,N,LW,24.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Match Report
+34,2020-07-11,Sat,Matchweek 35,Home,L 0–4,Norwich City,West Ham,N,AM,22.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Match Report
+35,2020-07-14,Tue,Matchweek 36,Away,L 0–1,Norwich City,Chelsea,Y,RM,70.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Match Report
+36,2020-07-18,Sat,Matchweek 37,Home,L 0–2,Norwich City,Burnley,Y,"AM,RM",75.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Match Report
+37,2020-07-26,Sun,Matchweek 38,Away,L 0–5,Norwich City,Manchester City,Y,RW,89.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Match Report

@@ -1,0 +1,39 @@
+,Date,Day,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,Match Report
+0,2017-08-12,Sat,Matchweek 1,Away,W 2–0,Manchester City,Brighton,Y,CM,90,0,0,0,0,4,1,0,0,98,2,0,3,0.2,0.2,0.0,2,1,73,90,81.1,16,58,10,2,1,Match Report
+1,2017-08-21,Mon,Matchweek 2,Home,D 1–1,Manchester City,Everton,Y,"CM,DM",90,0,0,0,0,3,1,0,0,77,1,1,1,0.2,0.2,0.2,10,1,54,71,76.1,11,46,5,3,2,Match Report
+2,2017-08-26,Sat,Matchweek 3,Away,W 2–1,Manchester City,Bournemouth,Y,RM,90,0,0,0,0,0,0,0,0,107,2,1,0,0.0,0.0,0.3,7,0,83,101,82.2,23,70,7,1,1,Match Report
+3,2017-09-09,Sat,Matchweek 4,Home,W 5–0,Manchester City,Liverpool,Y,"CM,RW,LM",90,0,2,0,0,2,1,0,0,69,2,0,1,0.1,0.1,0.9,5,2,46,62,74.2,10,55,4,0,0,Match Report
+4,2017-09-16,Sat,Matchweek 5,Away,W 6–0,Manchester City,Watford,Y,RM,65,0,1,0,0,3,1,0,0,82,3,0,1,0.1,0.1,0.3,10,2,56,71,78.9,7,46,4,1,1,Match Report
+5,2017-09-23,Sat,Matchweek 6,Home,W 5–0,Manchester City,Crystal Palace,Y,RM,90,0,0,0,0,0,0,0,0,108,1,1,0,0.0,0.0,0.1,9,2,82,99,82.8,18,88,8,2,2,Match Report
+6,2017-09-30,Sat,Matchweek 7,Away,W 1–0,Manchester City,Chelsea,Y,"RM,CM",89,1,0,0,0,2,2,0,0,84,2,1,3,0.1,0.1,0.3,8,1,59,74,79.7,13,58,5,1,0,Match Report
+7,2017-10-14,Sat,Matchweek 8,Home,W 7–2,Manchester City,Stoke City,Y,RM,65,0,2,0,0,2,2,0,0,62,0,2,1,0.1,0.1,0.7,8,6,48,58,82.8,10,48,2,2,2,Match Report
+8,2017-10-21,Sat,Matchweek 9,Home,W 3–0,Manchester City,Burnley,Y,RM,79,0,1,0,0,2,2,0,0,78,0,0,1,0.6,0.6,0.4,7,2,62,73,84.9,15,54,8,5,4,Match Report
+9,2017-10-28,Sat,Matchweek 10,Away,W 3–2,Manchester City,West Brom,Y,RM,90,0,0,0,0,4,0,0,0,149,3,2,1,0.4,0.4,0.0,1,0,119,134,88.8,13,94,6,3,2,Match Report
+10,2017-11-05,Sun,Matchweek 11,Home,W 3–1,Manchester City,Arsenal,Y,"RM,RW",90,1,0,0,0,2,2,0,0,78,5,2,4,0.1,0.1,0.1,4,1,43,62,69.4,2,42,8,5,5,Match Report
+11,2017-11-18,Sat,Matchweek 12,Away,W 2–0,Manchester City,Leicester City,Y,RM,88,1,0,0,0,2,1,0,0,105,0,0,1,0.1,0.1,0.0,3,1,81,96,84.4,15,72,6,2,0,Match Report
+12,2017-11-26,Sun,Matchweek 13,Away,W 2–1,Manchester City,Huddersfield,Y,RM,90,0,0,0,0,0,0,0,0,91,4,0,1,0.0,0.0,0.0,1,0,58,83,69.9,9,52,4,0,0,Match Report
+13,2017-11-29,Wed,Matchweek 14,Home,W 2–1,Manchester City,Southampton,Y,RM,90,1,1,0,0,5,3,0,0,112,0,0,1,0.1,0.1,0.6,12,2,72,101,71.3,16,80,8,1,1,Match Report
+14,2017-12-03,Sun,Matchweek 15,Home,W 2–1,Manchester City,West Ham,Y,"CM,RM",90,0,1,0,0,3,2,1,0,129,1,0,0,0.2,0.2,0.6,9,1,102,120,85.0,15,96,6,2,1,Match Report
+15,2017-12-10,Sun,Matchweek 16,Away,W 2–1,Manchester City,Manchester Utd,Y,RM,90,0,0,0,0,2,1,0,0,98,2,2,2,0.1,0.1,0.1,1,0,68,88,77.3,10,61,5,2,2,Match Report
+16,2017-12-13,Wed,Matchweek 17,Away,W 4–0,Manchester City,Swansea City,Y,RM,76,1,0,0,0,3,2,0,0,81,0,0,0,0.1,0.1,0.1,6,0,56,73,76.7,4,58,4,4,4,Match Report
+17,2017-12-16,Sat,Matchweek 18,Home,W 4–1,Manchester City,Tottenham,Y,RM,90,1,0,0,0,2,2,0,0,68,6,1,2,0.1,0.1,0.3,8,0,37,53,69.8,9,37,6,4,3,Match Report
+18,2017-12-23,Sat,Matchweek 19,Home,W 4–0,Manchester City,Bournemouth,Y,RM,73,0,0,0,0,2,0,0,0,59,3,1,0,0.1,0.1,0.0,0,0,39,52,75.0,4,31,0,1,0,Match Report
+19,2017-12-27,Wed,Matchweek 20,Away,W 1–0,Manchester City,Newcastle Utd,Y,"AM,CM,RM",90,0,1,0,0,5,0,0,0,112,1,1,1,0.2,0.2,0.3,7,1,74,98,75.5,15,75,2,1,1,Match Report
+20,2017-12-31,Sun,Matchweek 21,Away,D 0–0,Manchester City,Crystal Palace,Y,"RM,LM",89,0,0,0,0,4,1,0,0,83,0,0,3,0.3,0.3,0.2,9,0,50,71,70.4,12,50,7,1,1,Match Report
+21,2018-01-02,Tue,Matchweek 22,Home,W 3–1,Manchester City,Watford,Y,RM,78,0,0,0,0,4,1,0,0,77,3,0,0,0.2,0.2,0.6,10,1,54,70,77.1,6,47,6,1,1,Match Report
+22,2018-01-14,Sun,Matchweek 23,Away,L 3–4,Manchester City,Liverpool,Y,RM,90,0,0,0,0,1,1,0,0,65,1,2,0,0.0,0.0,0.0,2,0,37,60,61.7,5,37,8,5,5,Match Report
+23,2018-01-20,Sat,Matchweek 24,Home,W 3–1,Manchester City,Newcastle Utd,Y,RM,90,0,1,0,0,4,2,0,0,111,4,0,2,0.2,0.2,0.4,7,1,73,95,76.8,13,64,6,2,1,Match Report
+24,2018-01-31,Wed,Matchweek 25,Home,W 3–0,Manchester City,West Brom,Y,RM,77,1,1,0,0,6,4,0,0,83,0,0,2,0.6,0.6,0.1,3,2,59,74,79.7,13,59,3,1,1,Match Report
+25,2018-02-03,Sat,Matchweek 26,Away,D 1–1,Manchester City,Burnley,Y,RM,90,0,0,0,0,3,1,0,0,96,0,0,1,0.1,0.1,0.1,9,1,72,90,80.0,12,60,2,0,0,Match Report
+26,2018-02-10,Sat,Matchweek 27,Home,W 5–1,Manchester City,Leicester City,Y,RM,90,0,3,0,0,2,1,0,0,104,1,0,1,0.1,0.1,1.6,9,3,75,96,78.1,12,63,5,3,2,Match Report
+27,2018-03-01,Thu,Matchweek 28,Away,W 3–0,Manchester City,Arsenal,Y,"RM,FW",90,0,0,0,0,1,0,0,0,82,1,5,3,0.0,0.0,0.6,4,1,53,68,77.9,6,51,3,4,2,Match Report
+28,2018-03-04,Sun,Matchweek 29,Home,W 1–0,Manchester City,Chelsea,Y,RM,90,0,0,0,0,1,0,0,0,89,1,0,1,0.0,0.0,0.2,5,0,67,82,81.7,10,53,5,4,4,Match Report
+29,2018-03-12,Mon,Matchweek 30,Away,W 2–0,Manchester City,Stoke City,Y,"RM,FW",90,0,0,0,0,1,0,0,0,109,2,0,1,0.0,0.0,0.5,9,0,79,101,78.2,12,66,6,3,2,Match Report
+30,2018-03-31,Sat,Matchweek 32,Away,W 3–1,Manchester City,Everton,Y,CM,76,0,1,0,0,1,0,0,0,148,3,0,1,0.0,0.0,0.5,6,1,128,142,90.1,11,93,4,3,2,Match Report
+31,2018-04-07,Sat,Matchweek 33,Home,L 2–3,Manchester City,Manchester Utd,N,"AM,RM",19,0,0,0,0,1,0,0,0,26,1,0,0,0.0,0.0,0.2,5,0,17,23,73.9,1,15,2,0,0,Match Report
+32,2018-04-14,Sat,Matchweek 34,Away,W 3–1,Manchester City,Tottenham,Y,RM,88,0,0,0,0,2,0,1,0,59,3,0,1,0.1,0.1,0.1,6,0,34,50,68.0,6,35,5,7,5,Match Report
+33,2018-04-22,Sun,Matchweek 35,Home,W 5–0,Manchester City,Swansea City,Y,RM,64,1,0,0,0,4,2,0,0,64,1,0,0,0.1,0.1,0.1,3,0,42,57,73.7,9,44,3,1,1,Match Report
+34,2018-04-29,Sun,Matchweek 36,Away,W 4–1,Manchester City,West Ham,Y,"RM,LM",90,0,0,0,0,5,2,0,0,142,2,2,3,0.2,0.2,0.0,3,0,102,125,81.6,10,89,4,3,1,Match Report
+35,2018-05-06,Sun,Matchweek 37,Home,D 0–0,Manchester City,Huddersfield,Y,RM,66,0,0,0,0,3,1,0,0,80,0,0,1,0.1,0.1,0.0,0,0,54,75,72.0,7,55,1,1,1,Match Report
+36,2018-05-09,Wed,Matchweek 31,Home,W 3–1,Manchester City,Brighton,N,"On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play",Match Report
+37,2018-05-13,Sun,Matchweek 38,Away,W 1–0,Manchester City,Southampton,Y,"RM,AM",90,0,1,0,0,2,0,0,0,83,1,1,1,0.1,0.1,0.3,7,1,43,70,61.4,8,48,5,6,2,Match Report

@@ -1,0 +1,39 @@
+,Date,Day,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,SCA,PassLive,PassDead,TO,Sh,Fld,Def,GCA,PassLive,PassDead,TO,Sh,Fld,Def,Match Report
+0,2018-08-10,Fri,Matchweek 1,Away,L 1–2,Leicester City,Manchester Utd,Y,"RW,RB",90,2,2,0,0,0,0,0,0,0,0,0,0,0,0,Match Report
+1,2018-08-18,Sat,Matchweek 2,Home,W 2–0,Leicester City,Wolves,Y,"RB,WB",90,1,1,0,0,0,0,0,1,1,0,0,0,0,0,Match Report
+2,2018-08-25,Sat,Matchweek 3,Away,W 2–1,Leicester City,Southampton,Y,RW,90,1,0,0,0,0,0,1,0,0,0,0,0,0,0,Match Report
+3,2018-09-01,Sat,Matchweek 4,Home,L 1–2,Leicester City,Liverpool,Y,"RB,RW",90,1,1,0,0,0,0,0,0,0,0,0,0,0,0,Match Report
+4,2018-09-15,Sat,Matchweek 5,Away,L 2–4,Leicester City,Bournemouth,Y,RB,90,5,4,0,0,0,1,0,1,0,0,0,0,1,0,Match Report
+5,2018-09-22,Sat,Matchweek 6,Home,W 3–1,Leicester City,Huddersfield,N,"On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play",Match Report
+6,2018-09-29,Sat,Matchweek 7,Away,W 2–0,Leicester City,Newcastle Utd,Y,RW,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Match Report
+7,2018-10-06,Sat,Matchweek 8,Home,L 1–2,Leicester City,Everton,Y,"RW,RB",85,2,1,0,1,0,0,0,1,0,0,1,0,0,0,Match Report
+8,2018-10-22,Mon,Matchweek 9,Away,L 1–3,Leicester City,Arsenal,Y,"WB,RB",68,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Match Report
+9,2018-10-27,Sat,Matchweek 10,Home,D 1–1,Leicester City,West Ham,N,"On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play",Match Report
+10,2018-11-03,Sat,Matchweek 11,Away,W 1–0,Leicester City,Cardiff City,Y,"RB,RW",90,2,0,0,0,1,0,1,0,0,0,0,0,0,0,Match Report
+11,2018-11-10,Sat,Matchweek 12,Home,D 0–0,Leicester City,Burnley,Y,RB,90,2,2,0,0,0,0,0,0,0,0,0,0,0,0,Match Report
+12,2018-11-24,Sat,Matchweek 13,Away,D 1–1,Leicester City,Brighton,Y,RB,90,3,1,1,0,0,1,0,0,0,0,0,0,0,0,Match Report
+13,2018-12-01,Sat,Matchweek 14,Home,W 2–0,Leicester City,Watford,Y,RB,90,1,1,0,0,0,0,0,0,0,0,0,0,0,0,Match Report
+14,2018-12-05,Wed,Matchweek 15,Away,D 1–1,Leicester City,Fulham,N,"On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play",Match Report
+15,2018-12-08,Sat,Matchweek 16,Home,L 0–2,Leicester City,Tottenham,Y,RB,90,2,1,0,0,0,1,0,0,0,0,0,0,0,0,Match Report
+16,2018-12-15,Sat,Matchweek 17,Away,L 0–1,Leicester City,Crystal Palace,Y,RB,90,1,1,0,0,0,0,0,0,0,0,0,0,0,0,Match Report
+17,2018-12-22,Sat,Matchweek 18,Away,W 1–0,Leicester City,Chelsea,Y,RB,90,3,2,0,0,1,0,0,1,1,0,0,0,0,0,Match Report
+18,2018-12-26,Wed,Matchweek 19,Home,W 2–1,Leicester City,Manchester City,Y,"RB,RM",90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Match Report
+19,2018-12-29,Sat,Matchweek 20,Home,L 0–1,Leicester City,Cardiff City,Y,RB,90,5,2,3,0,0,0,0,0,0,0,0,0,0,0,Match Report
+20,2019-01-01,Tue,Matchweek 21,Away,W 1–0,Leicester City,Everton,Y,LW,90,3,1,0,2,0,0,0,1,1,0,0,0,0,0,Match Report
+21,2019-01-12,Sat,Matchweek 22,Home,L 1–2,Leicester City,Southampton,Y,RB,90,5,4,0,1,0,0,0,2,1,0,1,0,0,0,Match Report
+22,2019-01-19,Sat,Matchweek 23,Away,L 3–4,Leicester City,Wolves,Y,"RW,RB",90,5,4,0,1,0,0,0,0,0,0,0,0,0,0,Match Report
+23,2019-01-30,Wed,Matchweek 24,Away,D 1–1,Leicester City,Liverpool,Y,RB,90,2,0,0,0,0,2,0,0,0,0,0,0,0,0,Match Report
+24,2019-02-03,Sun,Matchweek 25,Home,L 0–1,Leicester City,Manchester Utd,Y,RB,90,2,0,0,0,0,1,1,0,0,0,0,0,0,0,Match Report
+25,2019-02-10,Sun,Matchweek 26,Away,L 1–3,Leicester City,Tottenham,Y,RB,90,4,4,0,0,0,0,0,1,1,0,0,0,0,0,Match Report
+26,2019-02-23,Sat,Matchweek 27,Home,L 1–4,Leicester City,Crystal Palace,Y,RB,90,6,6,0,0,0,0,0,0,0,0,0,0,0,0,Match Report
+27,2019-02-26,Tue,Matchweek 28,Home,W 2–1,Leicester City,Brighton,Y,RB,90,1,1,0,0,0,0,0,1,1,0,0,0,0,0,Match Report
+28,2019-03-03,Sun,Matchweek 29,Away,L 1–2,Leicester City,Watford,Y,WB,90,2,2,0,0,0,0,0,0,0,0,0,0,0,0,Match Report
+29,2019-03-09,Sat,Matchweek 30,Home,W 3–1,Leicester City,Fulham,Y,RB,90,3,2,0,1,0,0,0,0,0,0,0,0,0,0,Match Report
+30,2019-03-16,Sat,Matchweek 31,Away,W 2–1,Leicester City,Burnley,Y,"RB,WB",90,1,1,0,0,0,0,0,1,1,0,0,0,0,0,Match Report
+31,2019-03-30,Sat,Matchweek 32,Home,W 2–0,Leicester City,Bournemouth,Y,RB,90,7,4,0,2,1,0,0,1,1,0,0,0,0,0,Match Report
+32,2019-04-06,Sat,Matchweek 33,Away,W 4–1,Leicester City,Huddersfield,Y,RB,90,4,3,1,0,0,0,0,1,1,0,0,0,0,0,Match Report
+33,2019-04-12,Fri,Matchweek 34,Home,L 0–1,Leicester City,Newcastle Utd,Y,"RB,WB",90,1,1,0,0,0,0,0,0,0,0,0,0,0,0,Match Report
+34,2019-04-20,Sat,Matchweek 35,Away,D 2–2,Leicester City,West Ham,Y,RB,90,2,2,0,0,0,0,0,0,0,0,0,0,0,0,Match Report
+35,2019-04-28,Sun,Matchweek 36,Home,W 3–0,Leicester City,Arsenal,Y,RB,90,5,2,0,2,1,0,0,2,1,0,1,0,0,0,Match Report
+36,2019-05-06,Mon,Matchweek 37,Away,L 0–1,Leicester City,Manchester City,Y,RB,90,2,0,0,1,1,0,0,0,0,0,0,0,0,0,Match Report
+37,2019-05-12,Sun,Matchweek 38,Home,D 0–0,Leicester City,Chelsea,Y,"RB,RM",90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Match Report

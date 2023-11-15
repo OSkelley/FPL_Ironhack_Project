@@ -1,0 +1,37 @@
+,Date,Day,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,SCA,PassLive,PassDead,TO,Sh,Fld,Def,GCA,PassLive,PassDead,TO,Sh,Fld,Def,Match Report
+0,2022-08-13,Sat,Matchweek 2,Home,D 0–0,Wolves,Fulham,N,LW,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Match Report
+1,2022-08-20,Sat,Matchweek 3,Away,L 0–1,Wolves,Tottenham,N,WB,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Match Report
+2,2022-08-28,Sun,Matchweek 4,Home,D 1–1,Wolves,Newcastle Utd,N,"On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play",Match Report
+3,2022-08-31,Wed,Matchweek 5,Away,D 0–0,Wolves,Bournemouth,N,LW,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Match Report
+4,2022-09-03,Sat,Matchweek 6,Home,W 1–0,Wolves,Southampton,N,RW,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Match Report
+6,2022-10-01,Sat,Matchweek 9,Away,L 0–2,Wolves,West Ham,N,AM,67,1,1,0,0,0,0,0,0,0,0,0,0,0,0,Match Report
+7,2022-10-08,Sat,Matchweek 10,Away,L 0–3,Wolves,Chelsea,Y,RW,71,1,1,0,0,0,0,0,0,0,0,0,0,0,0,Match Report
+8,2022-10-15,Sat,Matchweek 11,Home,W 1–0,Wolves,Nott'ham Forest,Y,RW,84,5,4,0,0,1,0,0,1,0,0,0,1,0,0,Match Report
+9,2022-10-18,Tue,Matchweek 12,Away,L 1–2,Wolves,Crystal Palace,Y,RW,57,3,2,0,0,0,1,0,0,0,0,0,0,0,0,Match Report
+10,2022-10-23,Sun,Matchweek 13,Home,L 0–4,Wolves,Leicester City,Y,RW,90,4,4,0,0,0,0,0,0,0,0,0,0,0,0,Match Report
+11,2022-10-29,Sat,Matchweek 14,Away,D 1–1,Wolves,Brentford,Y,RW,82,2,2,0,0,0,0,0,1,1,0,0,0,0,0,Match Report
+12,2022-11-05,Sat,Matchweek 15,Home,L 2–3,Wolves,Brighton,N,FW,23,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Match Report
+13,2022-11-12,Sat,Matchweek 16,Home,L 0–2,Wolves,Arsenal,Y,"FW,RW,AM",90,5,3,0,1,0,1,0,0,0,0,0,0,0,0,Match Report
+14,2022-12-26,Mon,Matchweek 17,Away,W 2–1,Wolves,Everton,N,"RW,AM",31,1,1,0,0,0,0,0,0,0,0,0,0,0,0,Match Report
+15,2022-12-31,Sat,Matchweek 18,Home,L 0–1,Wolves,Manchester Utd,N,RW,45,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Match Report
+16,2023-01-04,Wed,Matchweek 19,Away,D 1–1,Wolves,Aston Villa,N,LW,45,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Match Report
+17,2023-01-14,Sat,Matchweek 20,Home,W 1–0,Wolves,West Ham,N,"FW,RW",18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Match Report
+18,2023-01-22,Sun,Matchweek 21,Away,L 0–3,Wolves,Manchester City,Y,RW,45,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Match Report
+19,2023-02-04,Sat,Matchweek 22,Home,W 3–0,Wolves,Liverpool,N,RM,49,2,2,0,0,0,0,0,1,1,0,0,0,0,0,Match Report
+20,2023-02-11,Sat,Matchweek 23,Away,W 2–1,Wolves,Southampton,N,RW,45,3,3,0,0,0,0,0,0,0,0,0,0,0,0,Match Report
+21,2023-02-18,Sat,Matchweek 24,Home,L 0–1,Wolves,Bournemouth,Y,RW,76,6,5,0,1,0,0,0,0,0,0,0,0,0,0,Match Report
+22,2023-02-24,Fri,Matchweek 25,Away,D 1–1,Wolves,Fulham,N,"RW,FW",31,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Match Report
+23,2023-03-01,Wed,Matchweek 7,Away,L 0–2,Wolves,Liverpool,N,RW,45,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Match Report
+24,2023-03-04,Sat,Matchweek 26,Home,W 1–0,Wolves,Tottenham,N,FW,45,2,2,0,0,0,0,0,0,0,0,0,0,0,0,Match Report
+25,2023-03-12,Sun,Matchweek 27,Away,L 1–2,Wolves,Newcastle Utd,Y,RW,45,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Match Report
+26,2023-03-18,Sat,Matchweek 28,Home,L 2–4,Wolves,Leeds United,N,WB,34,3,3,0,0,0,0,0,0,0,0,0,0,0,0,Match Report
+27,2023-04-01,Sat,Matchweek 29,Away,D 1–1,Wolves,Nott'ham Forest,Y,RW,64,1,0,0,0,0,1,0,0,0,0,0,0,0,0,Match Report
+28,2023-04-08,Sat,Matchweek 30,Home,W 1–0,Wolves,Chelsea,N,"RW,RM,CM",17,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Match Report
+29,2023-04-15,Sat,Matchweek 31,Home,W 2–0,Wolves,Brentford,N,"CM,RM",18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Match Report
+30,2023-04-22,Sat,Matchweek 32,Away,L 1–2,Wolves,Leicester City,N,"On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play",Match Report
+31,2023-04-25,Tue,Matchweek 33,Home,W 2–0,Wolves,Crystal Palace,N,"RM,FW",12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Match Report
+32,2023-04-29,Sat,Matchweek 34,Away,L 0–6,Wolves,Brighton,N,RW,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Match Report
+33,2023-05-06,Sat,Matchweek 35,Home,W 1–0,Wolves,Aston Villa,N,AM,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Match Report
+34,2023-05-13,Sat,Matchweek 36,Away,L 0–2,Wolves,Manchester Utd,N,CM,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Match Report
+35,2023-05-20,Sat,Matchweek 37,Home,D 1–1,Wolves,Everton,Y,RM,87,4,3,0,0,1,0,0,1,0,0,0,1,0,0,Match Report
+36,2023-05-28,Sun,Matchweek 38,Away,L 0–5,Wolves,Arsenal,Y,RW,90,1,1,0,0,0,0,0,0,0,0,0,0,0,0,Match Report

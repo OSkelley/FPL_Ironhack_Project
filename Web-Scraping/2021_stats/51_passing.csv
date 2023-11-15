@@ -1,0 +1,29 @@
+,Date,Day,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Cmp,Att,Cmp%,TotDist,PrgDist,Cmp,Att,Cmp%,Cmp,Att,Cmp%,Cmp,Att,Cmp%,Ast,xAG,xA,KP,1/3,PPA,CrsPA,PrgP,Match Report
+0,2021-08-14,Sat,Matchweek 1,Away,L 2–3,Aston Villa,Watford,N,"CM,AM",45,21,25,84.0,294,41,14,16,87.5,7,7,100.0,0,1,0.0,0,0.0,0.0,1,0,0,0,3,Match Report
+1,2021-08-21,Sat,Matchweek 2,Home,W 2–0,Aston Villa,Newcastle Utd,Y,LM,90,20,25,80.0,443,121,7,8,87.5,8,10,80.0,4,5,80.0,0,0.0,0.0,0,7,0,0,6,Match Report
+3,2021-09-11,Sat,Matchweek 4,Away,L 0–3,Aston Villa,Chelsea,Y,CM,55,14,17,82.4,207,80,10,10,100.0,3,5,60.0,1,2,50.0,0,0.1,0.0,2,1,0,0,3,Match Report
+4,2021-09-18,Sat,Matchweek 5,Home,W 3–0,Aston Villa,Everton,Y,"CM,LM",90,28,31,90.3,422,152,16,16,100.0,8,8,100.0,2,2,100.0,0,0.1,0.0,1,5,3,1,7,Match Report
+5,2021-09-25,Sat,Matchweek 6,Away,W 1–0,Aston Villa,Manchester Utd,Y,CM,85,15,20,75.0,250,83,9,10,90.0,4,7,57.1,2,2,100.0,0,0.0,0.0,0,2,2,1,3,Match Report
+6,2021-10-03,Sun,Matchweek 7,Away,L 1–2,Aston Villa,Tottenham,Y,CM,68,9,13,69.2,216,84,1,1,100.0,6,8,75.0,2,3,66.7,0,0.0,0.0,0,0,0,0,2,Match Report
+7,2021-10-16,Sat,Matchweek 8,Home,L 2–3,Aston Villa,Wolves,N,CM,17,1,3,33.3,17,0,0,1,0.0,1,1,100.0,0,1,0.0,0,0.0,0.0,0,0,0,0,0,Match Report
+10,2021-11-05,Fri,Matchweek 11,Away,L 0–1,Aston Villa,Southampton,N,"CM,DM",28,11,17,64.7,158,78,4,5,80.0,5,7,71.4,0,2,0.0,0,0.0,0.0,1,3,0,0,4,Match Report
+11,2021-11-20,Sat,Matchweek 12,Home,W 2–0,Aston Villa,Brighton,Y,LM,83,28,33,84.8,442,81,12,16,75.0,13,14,92.9,1,1,100.0,0,0.0,0.0,0,3,0,0,3,Match Report
+13,2021-12-01,Wed,Matchweek 14,Home,L 1–2,Aston Villa,Manchester City,N,"On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play",Match Report
+14,2021-12-05,Sun,Matchweek 15,Home,W 2–1,Aston Villa,Leicester City,Y,RW,83,16,19,84.2,205,55,10,12,83.3,4,5,80.0,1,1,100.0,0,0.2,0.0,2,1,2,0,2,Match Report
+16,2021-12-14,Tue,Matchweek 17,Away,W 2–0,Aston Villa,Norwich City,Y,LM,90,48,57,84.2,714,231,27,32,84.4,18,18,100.0,2,3,66.7,0,0.0,0.0,2,4,1,0,9,Match Report
+17,2021-12-26,Sun,Matchweek 19,Home,L 1–3,Aston Villa,Chelsea,Y,"LM,DM",90,49,53,92.5,763,211,23,24,95.8,24,25,96.0,2,2,100.0,0,0.0,0.0,0,3,1,0,12,Match Report
+18,2022-01-02,Sun,Matchweek 21,Away,L 1–2,Aston Villa,Brentford,Y,LM,68,32,39,82.1,371,63,23,24,95.8,7,11,63.6,0,1,0.0,0,0.0,0.0,0,4,0,0,3,Match Report
+19,2022-01-15,Sat,Matchweek 22,Home,D 2–2,Aston Villa,Manchester Utd,Y,"LM,RM",90,40,46,87.0,626,171,19,22,86.4,19,20,95.0,1,1,100.0,1,0.7,0.6,1,5,1,0,5,Match Report
+20,2022-01-22,Sat,Matchweek 23,Away,W 1–0,Aston Villa,Everton,Y,LM,90,37,49,75.5,630,170,17,20,85.0,15,21,71.4,5,7,71.4,0,0.0,0.0,0,3,0,0,6,Match Report
+21,2022-02-09,Wed,Matchweek 24,Home,D 3–3,Aston Villa,Leeds United,Y,LM,88,25,30,83.3,382,87,15,18,83.3,9,9,100.0,1,1,100.0,0,0.0,0.0,0,3,0,0,4,Match Report
+22,2022-02-13,Sun,Matchweek 25,Away,L 0–1,Aston Villa,Newcastle Utd,Y,LM,90,30,39,76.9,398,104,16,19,84.2,12,15,80.0,0,2,0.0,0,0.0,0.0,1,5,0,0,2,Match Report
+23,2022-02-19,Sat,Matchweek 26,Home,L 0–1,Aston Villa,Watford,Y,"LM,DM",90,57,60,95.0,998,264,24,27,88.9,24,24,100.0,8,8,100.0,0,0.0,0.1,0,7,2,1,9,Match Report
+24,2022-02-26,Sat,Matchweek 27,Away,W 2–0,Aston Villa,Brighton,Y,LM,90,19,23,82.6,314,68,10,13,76.9,8,8,100.0,1,1,100.0,0,0.0,0.0,0,1,1,0,3,Match Report
+25,2022-03-05,Sat,Matchweek 28,Home,W 4–0,Aston Villa,Southampton,Y,LM,76,22,27,81.5,290,74,12,16,75.0,7,7,100.0,1,1,100.0,0,0.0,0.0,0,2,0,0,2,Match Report
+26,2022-03-10,Thu,Matchweek 20,Away,W 3–0,Aston Villa,Leeds United,Y,"LM,LW",90,29,34,85.3,443,79,17,19,89.5,10,11,90.9,2,2,100.0,0,0.1,0.2,2,4,1,0,4,Match Report
+27,2022-03-13,Sun,Matchweek 29,Away,L 1–2,Aston Villa,West Ham,Y,"LM,DM",90,49,54,90.7,679,171,31,35,88.6,13,13,100.0,3,4,75.0,0,0.2,0.5,3,9,2,0,8,Match Report
+30,2022-04-09,Sat,Matchweek 32,Home,L 0–4,Aston Villa,Tottenham,Y,LM,90,61,65,93.8,924,215,35,36,97.2,22,22,100.0,3,4,75.0,0,0.0,0.1,0,7,1,1,9,Match Report
+32,2022-04-30,Sat,Matchweek 35,Home,W 2–0,Aston Villa,Norwich City,Y,"LM,CM",90,41,50,82.0,490,143,28,32,87.5,7,10,70.0,2,2,100.0,0,0.2,0.1,2,3,0,0,5,Match Report
+34,2022-05-15,Sun,Matchweek 37,Home,D 1–1,Aston Villa,Crystal Palace,N,LM,25,16,19,84.2,215,44,8,10,80.0,6,6,100.0,1,1,100.0,0,0.0,0.0,1,0,0,0,1,Match Report
+35,2022-05-19,Thu,Matchweek 18,Home,D 1–1,Aston Villa,Burnley,Y,LM,71,37,41,90.2,503,134,23,24,95.8,9,9,100.0,1,1,100.0,0,0.0,0.0,0,2,0,0,3,Match Report
+36,2022-05-22,Sun,Matchweek 38,Away,L 2–3,Aston Villa,Manchester City,Y,LM,82,11,14,78.6,175,80,6,7,85.7,3,3,100.0,2,3,66.7,0,0.0,0.0,0,1,1,0,3,Match Report

@@ -1,0 +1,31 @@
+,Date,Day,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Cmp,Att,Cmp%,TotDist,PrgDist,Cmp,Att,Cmp%,Cmp,Att,Cmp%,Cmp,Att,Cmp%,Ast,xAG,xA,KP,1/3,PPA,CrsPA,PrgP,Match Report
+2,2021-08-28,Sat,Matchweek 3,Away,W 2–0,Everton,Brighton,N,"On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play",Match Report
+3,2021-09-13,Mon,Matchweek 4,Home,W 3–1,Everton,Burnley,N,"On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play",Match Report
+6,2021-10-02,Sat,Matchweek 7,Away,D 1–1,Everton,Manchester Utd,Y,LM,71,15,21,71.4,232,83,7,11,63.6,7,7,100.0,1,1,100.0,0,0.1,0.1,2,0,1,1,4,Match Report
+7,2021-10-17,Sun,Matchweek 8,Home,L 0–1,Everton,West Ham,N,LM,12,3,6,50.0,53,2,2,2,100.0,1,2,50.0,0,1,0.0,0,0.0,0.0,0,0,0,0,0,Match Report
+9,2021-11-01,Mon,Matchweek 10,Away,L 1–2,Everton,Wolves,N,"RW,RM",13,9,12,75.0,135,26,6,8,75.0,2,3,66.7,1,1,100.0,0,0.0,0.0,0,1,1,1,1,Match Report
+10,2021-11-07,Sun,Matchweek 11,Home,D 0–0,Everton,Tottenham,Y,RM,90,21,25,84.0,365,61,13,15,86.7,6,6,100.0,2,2,100.0,0,0.1,0.1,1,1,2,0,3,Match Report
+11,2021-11-21,Sun,Matchweek 12,Away,L 0–3,Everton,Manchester City,Y,"RM,LM",90,13,17,76.5,167,50,9,10,90.0,2,4,50.0,1,2,50.0,0,0.0,0.0,0,1,0,0,3,Match Report
+12,2021-11-28,Sun,Matchweek 13,Away,L 0–1,Everton,Brentford,Y,LM,90,33,42,78.6,388,85,27,30,90.0,6,7,85.7,0,3,0.0,0,0.0,0.0,0,2,1,0,3,Match Report
+14,2021-12-06,Mon,Matchweek 15,Home,W 2–1,Everton,Arsenal,Y,RM,86,10,23,43.5,131,30,6,11,54.5,4,7,57.1,0,2,0.0,0,0.0,0.0,0,0,0,0,0,Match Report
+15,2021-12-12,Sun,Matchweek 16,Away,L 1–3,Everton,Crystal Palace,N,RW,33,5,14,35.7,95,44,2,4,50.0,3,8,37.5,0,2,0.0,0,0.0,0.0,0,1,0,0,1,Match Report
+16,2021-12-16,Thu,Matchweek 17,Away,D 1–1,Everton,Chelsea,Y,LM,89,9,19,47.4,148,50,3,6,50.0,3,6,50.0,2,4,50.0,1,0.5,0.2,1,2,0,0,2,Match Report
+17,2022-01-02,Sun,Matchweek 21,Home,L 2–3,Everton,Brighton,Y,RM,90,22,34,64.7,328,75,8,10,80.0,9,15,60.0,2,5,40.0,0,0.0,0.2,1,0,1,1,0,Match Report
+18,2022-01-15,Sat,Matchweek 22,Away,L 1–2,Everton,Norwich City,Y,RM,90,25,36,69.4,385,116,12,17,70.6,12,13,92.3,1,3,33.3,0,0.1,0.1,1,0,1,0,3,Match Report
+19,2022-01-22,Sat,Matchweek 23,Home,L 0–1,Everton,Aston Villa,N,RM,35,12,18,66.7,286,120,3,3,100.0,2,5,40.0,5,7,71.4,0,0.9,0.4,4,1,2,2,3,Match Report
+20,2022-02-08,Tue,Matchweek 24,Away,L 1–3,Everton,Newcastle Utd,Y,AM,90,22,33,66.7,230,78,11,13,84.6,6,12,50.0,0,2,0.0,0,0.1,0.0,1,4,0,0,3,Match Report
+21,2022-02-12,Sat,Matchweek 25,Home,W 3–0,Everton,Leeds United,Y,"LM,LW",80,17,27,63.0,298,111,8,12,66.7,4,7,57.1,3,5,60.0,1,0.2,0.4,2,2,3,0,3,Match Report
+22,2022-02-19,Sat,Matchweek 26,Away,L 0–2,Everton,Southampton,Y,LM,74,13,25,52.0,167,51,6,11,54.5,3,9,33.3,1,1,100.0,0,0.0,0.0,1,0,0,0,0,Match Report
+23,2022-02-26,Sat,Matchweek 27,Home,L 0–1,Everton,Manchester City,Y,LW,76,10,16,62.5,127,56,5,6,83.3,3,4,75.0,0,2,0.0,0,0.0,0.0,0,0,0,0,2,Match Report
+24,2022-03-07,Mon,Matchweek 28,Away,L 0–5,Everton,Tottenham,Y,RW,90,33,42,78.6,458,83,20,22,90.9,9,12,75.0,2,4,50.0,0,0.1,0.0,2,0,0,0,1,Match Report
+25,2022-03-13,Sun,Matchweek 29,Home,L 0–1,Everton,Wolves,Y,"RW,LB",90,14,32,43.8,204,74,7,11,63.6,7,10,70.0,0,6,0.0,0,0.0,0.0,1,2,0,0,2,Match Report
+26,2022-03-17,Thu,Matchweek 20,Home,W 1–0,Everton,Newcastle Utd,Y,"AM,LM,CM",89,14,22,63.6,216,79,7,10,70.0,5,6,83.3,1,4,25.0,0,0.0,0.0,1,1,2,1,3,Match Report
+28,2022-04-06,Wed,Matchweek 19,Away,L 2–3,Everton,Burnley,Y,RW,72,16,32,50.0,205,58,8,11,72.7,4,8,50.0,1,7,14.3,0,0.1,0.1,2,0,1,0,2,Match Report
+29,2022-04-09,Sat,Matchweek 32,Home,W 1–0,Everton,Manchester Utd,Y,RW,90,8,19,42.1,179,71,1,4,25.0,4,7,57.1,2,6,33.3,0,0.1,0.1,2,2,0,0,1,Match Report
+30,2022-04-20,Wed,Matchweek 18,Home,D 1–1,Everton,Leicester City,Y,RW,90,20,37,54.1,310,136,12,18,66.7,6,9,66.7,2,6,33.3,0,1.0,0.7,4,0,1,0,1,Match Report
+31,2022-04-24,Sun,Matchweek 34,Away,L 0–2,Everton,Liverpool,Y,"LW,RW",90,7,11,63.6,78,14,6,7,85.7,1,1,100.0,0,2,0.0,0,0.0,0.0,0,0,0,0,0,Match Report
+32,2022-05-01,Sun,Matchweek 35,Home,W 1–0,Everton,Chelsea,Y,RM,90,14,23,60.9,186,65,9,12,75.0,5,5,100.0,0,6,0.0,0,0.0,0.0,0,1,1,1,1,Match Report
+33,2022-05-08,Sun,Matchweek 36,Away,W 2–1,Everton,Leicester City,Y,RM,90,23,28,82.1,313,39,14,16,87.5,6,9,66.7,1,1,100.0,0,0.2,0.2,2,1,1,0,2,Match Report
+34,2022-05-11,Wed,Matchweek 30,Away,D 0–0,Everton,Watford,Y,RM,90,26,40,65.0,355,57,11,12,91.7,12,17,70.6,0,4,0.0,0,0.0,0.1,0,1,2,1,2,Match Report
+35,2022-05-15,Sun,Matchweek 37,Home,L 2–3,Everton,Brentford,Y,"RM,RW",71,8,14,57.1,101,40,6,8,75.0,2,3,66.7,0,2,0.0,0,0.1,0.1,2,0,0,0,0,Match Report
+36,2022-05-19,Thu,Matchweek 33,Home,W 3–2,Everton,Crystal Palace,Y,"AM,RW",60,15,21,71.4,189,52,9,10,90.0,5,8,62.5,0,1,0.0,0,0.1,0.1,2,0,0,0,1,Match Report

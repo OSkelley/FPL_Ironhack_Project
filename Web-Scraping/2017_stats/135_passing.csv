@@ -1,0 +1,27 @@
+,Date,Day,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Cmp,Att,Cmp%,TotDist,PrgDist,Cmp,Att,Cmp%,Cmp,Att,Cmp%,Cmp,Att,Cmp%,Ast,xAG,xA,KP,1/3,PPA,CrsPA,PrgP,Match Report
+0,2017-08-12,Sat,Matchweek 1,Home,W 1–0,Everton,Stoke City,Y,GK,90,17,33,51.5,639,443,1,1,100.0,5,5,100.0,11,27,40.7,0,0.0,0.0,0,0,0,0,0,Match Report
+2,2017-08-27,Sun,Matchweek 3,Away,L 0–2,Everton,Chelsea,Y,GK,90,28,46,60.9,936,774,2,2,100.0,14,14,100.0,12,30,40.0,0,0.0,0.0,0,1,0,0,0,Match Report
+3,2017-09-09,Sat,Matchweek 4,Home,L 0–3,Everton,Tottenham,Y,GK,90,22,45,48.9,819,619,2,2,100.0,8,8,100.0,12,34,35.3,0,0.0,0.0,0,2,0,0,0,Match Report
+5,2017-09-23,Sat,Matchweek 6,Home,W 2–1,Everton,Bournemouth,Y,GK,90,19,33,57.6,706,646,5,5,100.0,6,6,100.0,8,22,36.4,0,0.0,0.0,1,3,0,0,0,Match Report
+6,2017-10-01,Sun,Matchweek 7,Home,L 0–1,Everton,Burnley,Y,GK,90,18,36,50.0,668,570,4,4,100.0,4,4,100.0,10,27,37.0,0,0.0,0.0,0,3,0,0,0,Match Report
+7,2017-10-15,Sun,Matchweek 8,Away,D 1–1,Everton,Brighton,Y,GK,90,23,35,65.7,864,695,2,2,100.0,10,10,100.0,11,23,47.8,0,0.0,0.0,0,3,0,0,0,Match Report
+8,2017-10-22,Sun,Matchweek 9,Home,L 2–5,Everton,Arsenal,Y,GK,90,18,39,46.2,991,892,2,2,100.0,3,4,75.0,13,33,39.4,0,0.0,0.0,0,4,0,0,0,Match Report
+10,2017-11-05,Sun,Matchweek 11,Home,W 3–2,Everton,Watford,Y,GK,90,19,39,48.7,1093,1033,1,1,100.0,2,2,100.0,16,36,44.4,0,0.0,0.0,1,2,1,0,0,Match Report
+14,2017-12-02,Sat,Matchweek 15,Home,W 2–0,Everton,Huddersfield,Y,GK,90,12,37,32.4,495,440,1,1,100.0,4,4,100.0,7,32,21.9,0,0.0,0.0,0,1,0,0,0,Match Report
+16,2017-12-13,Wed,Matchweek 17,Away,W 1–0,Everton,Newcastle Utd,Y,GK,90,13,33,39.4,581,497,1,1,100.0,2,3,66.7,10,28,35.7,0,0.0,0.0,0,2,0,0,0,Match Report
+17,2017-12-18,Mon,Matchweek 18,Home,W 3–1,Everton,Swansea City,Y,GK,90,17,28,60.7,762,641,2,2,100.0,4,4,100.0,11,22,50.0,0,0.0,0.0,0,2,1,0,0,Match Report
+18,2017-12-23,Sat,Matchweek 19,Home,D 0–0,Everton,Chelsea,Y,GK,90,24,41,58.5,1144,1064,2,2,100.0,6,6,100.0,16,33,48.5,0,0.0,0.0,0,4,0,0,0,Match Report
+19,2017-12-26,Tue,Matchweek 20,Away,D 0–0,Everton,West Brom,Y,GK,90,22,35,62.9,958,816,1,1,100.0,6,6,100.0,15,28,53.6,0,0.0,0.0,0,1,0,0,0,Match Report
+20,2017-12-30,Sat,Matchweek 21,Away,L 1–2,Everton,Bournemouth,Y,GK,90,31,49,63.3,1202,944,4,4,100.0,12,12,100.0,15,32,46.9,0,0.0,0.0,0,2,0,0,0,Match Report
+21,2018-01-01,Mon,Matchweek 22,Home,L 0–2,Everton,Manchester Utd,Y,GK,90,16,26,61.5,598,521,1,1,100.0,8,8,100.0,7,17,41.2,0,0.0,0.0,0,0,0,0,0,Match Report
+22,2018-01-13,Sat,Matchweek 23,Away,L 0–4,Everton,Tottenham,Y,GK,90,21,35,60.0,963,817,1,1,100.0,4,4,100.0,16,30,53.3,0,0.0,0.0,0,0,0,0,0,Match Report
+23,2018-01-20,Sat,Matchweek 24,Home,D 1–1,Everton,West Brom,Y,GK,90,18,38,47.4,602,533,3,3,100.0,8,8,100.0,7,27,25.9,0,0.0,0.0,0,1,0,0,0,Match Report
+24,2018-01-31,Wed,Matchweek 25,Home,W 2–1,Everton,Leicester City,Y,GK,90,17,32,53.1,542,489,2,2,100.0,9,9,100.0,6,21,28.6,0,0.0,0.0,0,1,0,0,0,Match Report
+25,2018-02-03,Sat,Matchweek 26,Away,L 1–5,Everton,Arsenal,Y,GK,90,17,23,73.9,453,340,4,4,100.0,9,9,100.0,4,10,40.0,0,0.0,0.0,0,1,0,0,0,Match Report
+26,2018-02-10,Sat,Matchweek 27,Home,W 3–1,Everton,Crystal Palace,Y,GK,90,18,29,62.1,577,478,3,3,100.0,7,7,100.0,8,19,42.1,0,0.0,0.0,0,0,0,0,0,Match Report
+27,2018-02-24,Sat,Matchweek 28,Away,L 0–1,Everton,Watford,Y,GK,90,7,24,29.2,210,178,1,2,50.0,3,3,100.0,3,18,16.7,0,0.0,0.0,0,1,0,0,0,Match Report
+29,2018-03-10,Sat,Matchweek 30,Home,W 2–0,Everton,Brighton,Y,GK,90,19,31,61.3,810,725,1,1,100.0,7,8,87.5,11,22,50.0,0,0.0,0.0,0,1,0,0,0,Match Report
+30,2018-03-17,Sat,Matchweek 31,Away,W 2–1,Everton,Stoke City,Y,GK,90,19,30,63.3,504,426,4,4,100.0,10,10,100.0,5,16,31.3,0,0.0,0.0,0,1,0,0,0,Match Report
+34,2018-04-23,Mon,Matchweek 35,Home,W 1–0,Everton,Newcastle Utd,Y,GK,90,24,37,64.9,786,690,1,1,100.0,16,16,100.0,7,19,36.8,0,0.0,0.0,0,1,0,0,0,Match Report
+35,2018-04-28,Sat,Matchweek 36,Away,W 2–0,Everton,Huddersfield,Y,GK,90,18,39,46.2,690,561,1,1,100.0,7,7,100.0,10,31,32.3,0,0.0,0.0,0,0,0,0,0,Match Report
+37,2018-05-13,Sun,Matchweek 38,Away,L 1–3,Everton,West Ham,Y,GK,90,15,28,53.6,526,449,2,2,100.0,6,6,100.0,7,20,35.0,0,0.0,0.0,0,0,0,0,0,Match Report

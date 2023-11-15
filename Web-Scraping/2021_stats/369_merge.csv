@@ -1,0 +1,6 @@
+,Date,Day,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att.1,Succ,PassLive,PassDead,TO,Fld,Def,PassLive.1,PassDead.1,TO.1,Sh.1,Fld.1,Def.1,TotDist,PrgDist,Cmp.1,Cmp%.1,Cmp.2,Att.2,Cmp%.2,Cmp.3,Att.3,Cmp%.3,xA,KP,1/3,PPA,CrsPA
+0,2021-08-15,Sun,Matchweek 1,Home,W 1–0,Tottenham,Manchester City,Y,LW,76,0,1,0,0,3,1,0,0,24,0,0,1,0.5,0.5,0.1,3,1,12,15,80.0,2,18,3,1,1,3,0,0,0,0,1,0,0,0,0,0,147,38,8,100.0,2,3,66.7,1,2,50.0,0.1,2,1,1,0
+1,2021-08-22,Sun,Matchweek 2,Away,W 1–0,Tottenham,Wolves,Y,LW,89,0,0,0,0,2,2,0,0,38,0,0,0,0.1,0.1,0.5,4,0,20,25,80.0,1,23,3,4,2,2,0,1,0,0,0,0,0,0,0,0,210,51,14,93.3,3,4,75.0,0,1,0.0,0.1,2,1,0,0
+2,2021-08-29,Sun,Matchweek 3,Home,W 1–0,Tottenham,Watford,Y,LW,67,0,0,0,0,2,0,0,0,36,1,1,2,0.2,0.2,0.0,3,1,21,25,84.0,3,21,4,2,1,1,0,0,2,0,0,0,0,0,1,0,238,55,10,90.9,6,8,75.0,0,1,0.0,0.1,0,1,2,0
+4,2021-10-30,Sat,Matchweek 10,Home,L 0–3,Tottenham,Manchester Utd,N,RW,37,0,0,0,0,0,0,0,0,16,0,0,0,0.0,0.0,0.0,1,0,12,14,85.7,2,11,2,0,0,1,0,0,0,0,0,0,0,0,0,0,165,32,9,90.0,2,2,100.0,1,1,100.0,0.1,0,0,1,0
+8,2022-01-23,Sun,Matchweek 23,Away,L 0–2,Tottenham,Chelsea,Y,"FW,LW,AM",90,0,0,0,0,2,1,0,0,26,0,0,0,0.3,0.3,0.0,1,0,10,13,76.9,2,18,3,4,3,1,0,0,0,0,0,0,0,0,0,0,163,43,7,87.5,2,2,100.0,1,1,100.0,0.0,0,2,0,0

@@ -1,0 +1,23 @@
+,Date,Day,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Cmp,Att,Cmp%,TotDist,PrgDist,Cmp,Att,Cmp%,Cmp,Att,Cmp%,Cmp,Att,Cmp%,Ast,xAG,xA,KP,1/3,PPA,CrsPA,PrgP,Match Report
+0,2022-08-20,Sat,Matchweek 3,Home,L 1–2,Leicester City,Southampton,Y,"LM,LW",75.0,17.0,26.0,65.4,228.0,20.0,13.0,14.0,92.9,2.0,8.0,25.0,2.0,4.0,50.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,Match Report
+1,2022-08-27,Sat,Matchweek 4,Away,L 1–2,Leicester City,Chelsea,Y,LM,90.0,21.0,30.0,70.0,251.0,76.0,16.0,20.0,80.0,2.0,4.0,50.0,1.0,3.0,33.3,0.0,0.0,0.0,0.0,2.0,1.0,0.0,2.0,Match Report
+2,2022-09-01,Thu,Matchweek 5,Home,L 0–1,Leicester City,Manchester Utd,Y,LM,90.0,20.0,28.0,71.4,228.0,88.0,11.0,13.0,84.6,6.0,9.0,66.7,0.0,1.0,0.0,0.0,0.0,0.1,0.0,1.0,2.0,0.0,4.0,Match Report
+5,2022-10-03,Mon,Matchweek 9,Home,W 4–0,Leicester City,Nott'ham Forest,Y,LM,90.0,17.0,26.0,65.4,233.0,88.0,11.0,16.0,68.8,4.0,7.0,57.1,1.0,1.0,100.0,0.0,0.2,0.1,3.0,2.0,2.0,0.0,2.0,Match Report
+6,2022-10-08,Sat,Matchweek 10,Away,L 1–2,Leicester City,Bournemouth,Y,"LM,WB",90.0,17.0,25.0,68.0,192.0,70.0,11.0,16.0,68.8,4.0,5.0,80.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,3.0,0.0,5.0,Match Report
+8,2022-10-20,Thu,Matchweek 12,Home,W 2–0,Leicester City,Leeds United,Y,LM,84.0,14.0,19.0,73.7,225.0,79.0,8.0,9.0,88.9,4.0,6.0,66.7,2.0,2.0,100.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,1.0,Match Report
+10,2022-10-29,Sat,Matchweek 14,Home,L 0–1,Leicester City,Manchester City,Y,LW,90.0,12.0,18.0,66.7,189.0,28.0,5.0,6.0,83.3,7.0,10.0,70.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,2.0,Match Report
+11,2022-11-05,Sat,Matchweek 15,Away,W 2–0,Leicester City,Everton,Y,LM,90.0,26.0,34.0,76.5,359.0,140.0,15.0,18.0,83.3,9.0,13.0,69.2,1.0,2.0,50.0,0.0,0.1,0.1,1.0,3.0,2.0,0.0,6.0,Match Report
+13,2022-12-26,Mon,Matchweek 17,Home,L 0–3,Leicester City,Newcastle Utd,Y,LW,70.0,9.0,15.0,60.0,106.0,42.0,6.0,8.0,75.0,2.0,3.0,66.7,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,Match Report
+14,2022-12-30,Fri,Matchweek 18,Away,L 1–2,Leicester City,Liverpool,Y,LW,90.0,12.0,15.0,80.0,186.0,54.0,8.0,9.0,88.9,3.0,4.0,75.0,1.0,2.0,50.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,1.0,Match Report
+15,2023-01-03,Tue,Matchweek 19,Home,L 0–1,Leicester City,Fulham,Y,LW,90.0,22.0,31.0,71.0,332.0,76.0,12.0,17.0,70.6,7.0,9.0,77.8,2.0,2.0,100.0,0.0,0.0,0.0,0.0,1.0,2.0,0.0,2.0,Match Report
+16,2023-01-14,Sat,Matchweek 20,Away,L 0–2,Leicester City,Nott'ham Forest,Y,LW,90.0,21.0,28.0,75.0,332.0,66.0,10.0,15.0,66.7,9.0,9.0,100.0,1.0,2.0,50.0,0.0,0.1,0.0,2.0,2.0,1.0,1.0,1.0,Match Report
+18,2023-02-04,Sat,Matchweek 22,Away,W 4–2,Leicester City,Aston Villa,Y,"LW,LM",90.0,13.0,20.0,65.0,157.0,71.0,11.0,15.0,73.3,1.0,1.0,100.0,1.0,1.0,100.0,1.0,0.5,0.3,2.0,1.0,2.0,1.0,3.0,Match Report
+19,2023-02-11,Sat,Matchweek 23,Home,W 4–1,Leicester City,Tottenham,Y,LW,90.0,23.0,30.0,76.7,310.0,73.0,17.0,21.0,81.0,5.0,6.0,83.3,1.0,1.0,100.0,0.0,0.2,0.2,1.0,0.0,1.0,1.0,1.0,Match Report
+20,2023-02-19,Sun,Matchweek 24,Away,L 0–3,Leicester City,Manchester Utd,Y,LW,90.0,21.0,30.0,70.0,305.0,62.0,13.0,16.0,81.3,7.0,12.0,58.3,1.0,2.0,50.0,0.0,0.1,0.1,1.0,1.0,1.0,0.0,5.0,Match Report
+21,2023-02-25,Sat,Matchweek 25,Home,L 0–1,Leicester City,Arsenal,Y,LW,90.0,14.0,26.0,53.8,209.0,82.0,8.0,15.0,53.3,6.0,6.0,100.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,2.0,Match Report
+22,2023-03-04,Sat,Matchweek 26,Away,L 0–1,Leicester City,Southampton,Y,LW,45.0,12.0,21.0,57.1,161.0,42.0,10.0,14.0,71.4,2.0,4.0,50.0,0.0,1.0,0.0,0.0,0.2,0.1,1.0,3.0,1.0,1.0,1.0,Match Report
+24,2023-03-18,Sat,Matchweek 28,Away,D 1–1,Leicester City,Brentford,Y,LW,90.0,19.0,29.0,65.5,310.0,82.0,9.0,11.0,81.8,10.0,12.0,83.3,0.0,1.0,0.0,0.0,0.2,0.0,1.0,2.0,0.0,0.0,3.0,Match Report
+26,2023-04-04,Tue,Matchweek 7,Home,L 1–2,Leicester City,Aston Villa,Y,LW,90.0,12.0,21.0,57.1,122.0,25.0,11.0,13.0,84.6,0.0,2.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,3.0,Match Report
+27,2023-04-08,Sat,Matchweek 30,Home,L 0–1,Leicester City,Bournemouth,Y,LW,71.0,14.0,21.0,66.7,245.0,47.0,7.0,10.0,70.0,6.0,9.0,66.7,1.0,2.0,50.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,4.0,Match Report
+30,2023-05-01,Mon,Matchweek 34,Home,D 2–2,Leicester City,Everton,Y,LW,87.0,24.0,34.0,70.6,332.0,67.0,15.0,20.0,75.0,7.0,10.0,70.0,1.0,1.0,100.0,0.0,0.8,0.1,2.0,2.0,1.0,0.0,4.0,Match Report
+34,2023-05-28,Sun,Matchweek 38,Home,W 2–1,Leicester City,West Ham,Y,LW,90.0,27.0,32.0,84.4,330.0,71.0,22.0,24.0,91.7,4.0,5.0,80.0,1.0,1.0,100.0,0.0,0.1,0.1,1.0,1.0,2.0,1.0,1.0,Match Report

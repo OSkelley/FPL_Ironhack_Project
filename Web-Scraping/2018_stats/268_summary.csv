@@ -1,0 +1,36 @@
+,Date,Day,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,Match Report
+0,2018-08-12,Sun,Matchweek 1,Away,W 2–0,Manchester City,Arsenal,Y,CB,90,0,0,0,0,2,1,0,0,71,0,2,0,0.5,0.5,0.0,2,0,55,60,91.7,4,52,0,0,0,Match Report
+1,2018-08-19,Sun,Matchweek 2,Home,W 6–1,Manchester City,Huddersfield,Y,CB,90,0,0,0,0,2,0,0,0,101,0,0,0,0.0,0.0,0.1,2,0,88,91,96.7,14,84,0,0,0,Match Report
+2,2018-08-25,Sat,Matchweek 3,Away,D 1–1,Manchester City,Wolves,Y,CB,90,1,0,0,0,1,1,0,0,106,0,0,1,0.4,0.4,0.0,0,0,93,101,92.1,12,86,4,0,0,Match Report
+3,2018-09-01,Sat,Matchweek 4,Home,W 2–1,Manchester City,Newcastle Utd,Y,CB,90,0,0,0,0,1,0,0,0,127,1,0,0,0.0,0.0,0.0,3,0,116,120,96.7,16,106,3,0,0,Match Report
+4,2018-09-15,Sat,Matchweek 5,Home,W 3–0,Manchester City,Fulham,Y,CB,90,0,0,0,0,1,0,0,0,102,1,0,0,0.0,0.0,0.1,2,0,92,97,94.8,8,84,1,0,0,Match Report
+5,2018-09-22,Sat,Matchweek 6,Away,W 5–0,Manchester City,Cardiff City,Y,CB,90,0,0,0,0,1,0,0,0,134,2,2,0,0.1,0.1,0.0,3,0,117,128,91.4,13,119,1,0,0,Match Report
+6,2018-09-29,Sat,Matchweek 7,Home,W 2–0,Manchester City,Brighton,Y,CB,90,0,0,0,0,1,0,0,0,99,0,3,2,0.1,0.1,0.0,2,0,79,88,89.8,9,73,8,1,0,Match Report
+7,2018-10-07,Sun,Matchweek 8,Away,D 0–0,Manchester City,Liverpool,Y,CB,90,0,0,0,0,0,0,0,0,71,1,3,0,0.0,0.0,0.0,0,0,52,62,83.9,2,45,0,0,0,Match Report
+8,2018-10-20,Sat,Matchweek 9,Home,W 5–0,Manchester City,Burnley,Y,CB,90,0,0,0,0,0,0,0,0,87,3,1,0,0.0,0.0,0.0,3,0,77,82,93.9,6,69,1,0,0,Match Report
+9,2018-10-29,Mon,Matchweek 10,Away,W 1–0,Manchester City,Tottenham,Y,CB,90,0,0,0,0,0,0,1,0,60,0,3,0,0.0,0.0,0.0,0,0,39,51,76.5,2,26,0,0,0,Match Report
+10,2018-11-04,Sun,Matchweek 11,Home,W 6–1,Manchester City,Southampton,Y,CB,90,0,0,0,0,0,0,0,0,103,0,0,0,0.0,0.0,0.0,0,0,92,101,91.1,9,85,2,0,0,Match Report
+11,2018-11-11,Sun,Matchweek 12,Home,W 3–1,Manchester City,Manchester Utd,Y,CB,90,0,0,0,0,1,0,0,0,97,1,2,0,0.0,0.0,0.0,0,0,89,90,98.9,9,82,0,0,0,Match Report
+12,2018-11-24,Sat,Matchweek 13,Away,W 4–0,Manchester City,West Ham,Y,CB,90,0,0,0,0,0,0,0,0,97,1,1,3,0.0,0.0,0.0,0,0,82,86,95.3,6,70,1,0,0,Match Report
+13,2018-12-01,Sat,Matchweek 14,Home,W 3–1,Manchester City,Bournemouth,Y,CB,90,0,0,0,0,0,0,0,0,123,1,0,0,0.0,0.0,0.1,2,0,104,116,89.7,9,95,1,0,0,Match Report
+15,2018-12-08,Sat,Matchweek 16,Away,L 0–2,Manchester City,Chelsea,Y,CB,90,0,0,0,0,1,1,0,0,110,0,0,0,0.0,0.0,0.0,0,0,96,105,91.4,6,101,0,0,0,Match Report
+16,2018-12-15,Sat,Matchweek 17,Home,W 3–1,Manchester City,Everton,Y,CB,90,0,0,0,0,2,0,0,0,97,2,0,1,0.2,0.2,0.1,2,0,79,90,87.8,12,79,2,0,0,Match Report
+17,2018-12-22,Sat,Matchweek 18,Home,L 2–3,Manchester City,Crystal Palace,Y,CB,90,0,0,0,0,3,0,0,0,113,2,0,1,0.4,0.4,0.1,3,0,97,105,92.4,15,90,11,1,1,Match Report
+18,2018-12-26,Wed,Matchweek 19,Away,L 1–2,Manchester City,Leicester City,Y,CB,90,0,0,0,0,0,0,0,0,82,1,1,1,0.0,0.0,0.0,2,1,66,74,89.2,13,60,4,0,0,Match Report
+19,2018-12-30,Sun,Matchweek 20,Away,W 3–1,Manchester City,Southampton,Y,CB,90,0,0,0,0,1,0,0,0,111,1,3,0,0.1,0.1,0.0,1,0,101,106,95.3,5,93,2,0,0,Match Report
+20,2019-01-03,Thu,Matchweek 21,Home,W 2–1,Manchester City,Liverpool,Y,LB,85,0,0,0,0,0,0,1,0,67,0,1,0,0.0,0.0,0.0,0,0,46,62,74.2,5,40,2,1,0,Match Report
+21,2019-01-14,Mon,Matchweek 22,Home,W 3–0,Manchester City,Wolves,Y,CB,90,0,0,0,0,0,0,0,0,80,2,1,0,0.0,0.0,0.0,1,1,73,75,97.3,7,50,0,1,0,Match Report
+22,2019-01-20,Sun,Matchweek 23,Away,W 3–0,Manchester City,Huddersfield,Y,CB,90,0,0,0,0,0,0,0,0,104,1,2,0,0.0,0.0,0.0,0,0,90,96,93.8,10,52,3,0,0,Match Report
+23,2019-01-29,Tue,Matchweek 24,Away,L 1–2,Manchester City,Newcastle Utd,Y,CB,90,0,0,0,0,0,0,1,0,126,3,2,1,0.0,0.0,0.0,1,0,108,118,91.5,14,96,5,1,1,Match Report
+24,2019-02-03,Sun,Matchweek 25,Home,W 3–1,Manchester City,Arsenal,Y,LB,90,0,1,0,0,0,0,0,0,100,2,2,1,0.0,0.0,0.3,2,1,82,90,91.1,13,71,4,0,0,Match Report
+25,2019-02-06,Wed,Matchweek 27,Away,W 2–0,Manchester City,Everton,Y,LB,90,1,0,0,0,2,1,0,0,92,4,1,0,0.3,0.3,0.0,1,0,64,74,86.5,4,56,1,0,0,Match Report
+26,2019-02-10,Sun,Matchweek 26,Home,W 6–0,Manchester City,Chelsea,Y,CB,90,0,0,0,0,0,0,0,0,103,1,0,3,0.0,0.0,0.0,0,0,91,97,93.8,4,85,0,0,0,Match Report
+28,2019-03-09,Sat,Matchweek 30,Home,W 3–1,Manchester City,Watford,N,"On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play",Match Report
+29,2019-03-30,Sat,Matchweek 32,Away,W 2–0,Manchester City,Fulham,Y,CB,90,0,0,0,0,1,0,0,0,89,1,1,0,0.1,0.1,0.0,0,0,76,81,93.8,3,54,3,0,0,Match Report
+30,2019-04-03,Wed,Matchweek 33,Home,W 2–0,Manchester City,Cardiff City,Y,CB,90,0,1,0,0,3,1,0,0,107,0,1,0,0.4,0.4,0.0,2,1,89,97,91.8,11,79,4,0,0,Match Report
+31,2019-04-14,Sun,Matchweek 34,Away,W 3–1,Manchester City,Crystal Palace,Y,CB,90,0,0,0,0,0,0,0,0,110,2,1,0,0.0,0.0,0.0,0,0,97,103,94.2,14,94,12,1,1,Match Report
+32,2019-04-20,Sat,Matchweek 35,Home,W 1–0,Manchester City,Tottenham,Y,CB,90,0,0,0,0,1,0,0,0,70,2,0,1,0.1,0.1,0.0,0,0,53,61,86.9,7,54,0,0,0,Match Report
+33,2019-04-24,Wed,Matchweek 31,Away,W 2–0,Manchester City,Manchester Utd,Y,CB,90,0,0,0,0,0,0,0,0,78,2,1,1,0.0,0.0,0.0,0,0,66,69,95.7,3,52,0,0,0,Match Report
+34,2019-04-28,Sun,Matchweek 36,Away,W 1–0,Manchester City,Burnley,Y,CB,90,0,0,0,0,1,1,0,0,86,3,3,0,0.1,0.1,0.0,0,0,63,76,82.9,9,60,3,0,0,Match Report
+35,2019-05-06,Mon,Matchweek 37,Home,W 1–0,Manchester City,Leicester City,Y,CB,90,0,1,0,0,0,0,0,0,96,2,1,0,0.0,0.0,0.1,4,1,86,90,95.6,12,67,10,0,0,Match Report
+36,2019-05-12,Sun,Matchweek 38,Away,W 4–1,Manchester City,Brighton,Y,CB,90,1,0,0,0,1,1,0,0,117,0,1,0,0.3,0.3,0.1,2,1,106,111,95.5,8,101,6,0,0,Match Report

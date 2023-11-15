@@ -1,0 +1,32 @@
+,Date,Day,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,SCA,PassLive,PassDead,TO,Sh,Fld,Def,GCA,PassLive,PassDead,TO,Sh,Fld,Def,Match Report
+0,2022-08-06,Sat,Matchweek 1,Home,W 2–1,Leeds United,Wolves,Y,AM,64.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Match Report
+1,2022-08-13,Sat,Matchweek 2,Away,D 2–2,Leeds United,Southampton,Y,"FW,AM",90.0,4.0,3.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Match Report
+2,2022-08-21,Sun,Matchweek 3,Home,W 3–0,Leeds United,Chelsea,Y*,FW,82.0,2.0,1.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,Match Report
+3,2022-08-27,Sat,Matchweek 4,Away,L 0–1,Leeds United,Brighton,Y*,FW,90.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Match Report
+4,2022-08-30,Tue,Matchweek 5,Home,D 1–1,Leeds United,Everton,Y*,FW,31.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Match Report
+6,2022-10-02,Sun,Matchweek 9,Home,D 0–0,Leeds United,Aston Villa,Y,FW,67.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Match Report
+7,2022-10-09,Sun,Matchweek 10,Away,L 1–2,Leeds United,Crystal Palace,Y,"AM,FW",90.0,4.0,3.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Match Report
+8,2022-10-16,Sun,Matchweek 11,Home,L 0–1,Leeds United,Arsenal,Y,FW,45.0,4.0,2.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Match Report
+9,2022-10-20,Thu,Matchweek 12,Away,L 0–2,Leeds United,Leicester City,N,"AM,FW",45.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Match Report
+10,2022-10-23,Sun,Matchweek 13,Home,L 2–3,Leeds United,Fulham,Y,FW,63.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Match Report
+11,2022-10-29,Sat,Matchweek 14,Away,W 2–1,Leeds United,Liverpool,Y,FW,51.0,3.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Match Report
+12,2022-11-05,Sat,Matchweek 15,Home,W 4–3,Leeds United,Bournemouth,Y,FW,80.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Match Report
+13,2022-11-12,Sat,Matchweek 16,Away,L 3–4,Leeds United,Tottenham,Y,FW,88.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Match Report
+14,2022-12-28,Wed,Matchweek 17,Home,L 1–3,Leeds United,Manchester City,Y,RW,71.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Match Report
+15,2022-12-31,Sat,Matchweek 18,Away,D 0–0,Leeds United,Newcastle Utd,Y,FW,81.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Match Report
+16,2023-01-04,Wed,Matchweek 19,Home,D 2–2,Leeds United,West Ham,Y,FW,90.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Match Report
+17,2023-01-13,Fri,Matchweek 20,Away,L 1–2,Leeds United,Aston Villa,Y,"FW,AM",90.0,4.0,3.0,0.0,1.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,Match Report
+18,2023-01-22,Sun,Matchweek 21,Home,D 0–0,Leeds United,Brentford,Y,FW,78.0,3.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Match Report
+20,2023-03-11,Sat,Matchweek 27,Home,D 2–2,Leeds United,Brighton,N,FW,25.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Match Report
+21,2023-03-18,Sat,Matchweek 28,Away,W 4–2,Leeds United,Wolves,N,FW,24.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Match Report
+22,2023-04-01,Sat,Matchweek 29,Away,L 1–4,Leeds United,Arsenal,N,RW,26.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Match Report
+23,2023-04-04,Tue,Matchweek 7,Home,W 2–1,Leeds United,Nott'ham Forest,N,"AM,FW",17.0,3.0,2.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Match Report
+24,2023-04-09,Sun,Matchweek 30,Home,L 1–5,Leeds United,Crystal Palace,N,AM,31.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Match Report
+25,2023-04-17,Mon,Matchweek 31,Home,L 1–6,Leeds United,Liverpool,Y*,FW,65.0,2.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Match Report
+26,2023-04-22,Sat,Matchweek 32,Away,L 1–2,Leeds United,Fulham,Y,FW,64.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Match Report
+27,2023-04-25,Tue,Matchweek 33,Home,D 1–1,Leeds United,Leicester City,Y,AM,67.0,2.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Match Report
+28,2023-04-30,Sun,Matchweek 34,Away,L 1–4,Leeds United,Bournemouth,N,FW,21.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Match Report
+29,2023-05-06,Sat,Matchweek 35,Away,L 1–2,Leeds United,Manchester City,N,"LW,CM",33.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Match Report
+30,2023-05-13,Sat,Matchweek 36,Home,D 2–2,Leeds United,Newcastle Utd,Y,RW,86.0,2.0,1.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,Match Report
+31,2023-05-21,Sun,Matchweek 37,Away,L 1–3,Leeds United,West Ham,Y,"FW,RW",90.0,3.0,2.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Match Report
+32,2023-05-28,Sun,Matchweek 38,Home,L 1–4,Leeds United,Tottenham,Y,FW,90.0,2.0,2.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,Match Report

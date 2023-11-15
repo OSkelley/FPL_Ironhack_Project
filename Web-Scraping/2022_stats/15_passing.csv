@@ -1,0 +1,38 @@
+,Date,Day,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Cmp,Att,Cmp%,TotDist,PrgDist,Cmp,Att,Cmp%,Cmp,Att,Cmp%,Cmp,Att,Cmp%,Ast,xAG,xA,KP,1/3,PPA,CrsPA,PrgP,Match Report
+0,2022-08-05,Fri,Matchweek 1,Away,W 2–0,Arsenal,Crystal Palace,Y,GK,90,24,32,75.0,732,527,7,8,87.5,8,8,100.0,9,16,56.3,0,0.0,0.0,0,2,1,0,0,Match Report
+1,2022-08-13,Sat,Matchweek 2,Home,W 4–2,Arsenal,Leicester City,Y,GK,90,17,26,65.4,586,504,4,4,100.0,7,7,100.0,6,15,40.0,0,0.0,0.0,0,2,0,0,0,Match Report
+2,2022-08-20,Sat,Matchweek 3,Away,W 3–0,Arsenal,Bournemouth,Y,GK,90,17,27,63.0,512,340,4,5,80.0,7,7,100.0,6,15,40.0,0,0.0,0.0,0,0,0,0,0,Match Report
+3,2022-08-27,Sat,Matchweek 4,Home,W 2–1,Arsenal,Fulham,Y,GK,90,21,30,70.0,480,321,7,8,87.5,11,12,91.7,3,10,30.0,0,0.0,0.0,0,1,0,0,0,Match Report
+4,2022-08-31,Wed,Matchweek 5,Home,W 2–1,Arsenal,Aston Villa,Y,GK,90,17,27,63.0,478,297,1,1,100.0,9,9,100.0,7,17,41.2,0,0.0,0.0,0,0,0,0,0,Match Report
+5,2022-09-04,Sun,Matchweek 6,Away,L 1–3,Arsenal,Manchester Utd,Y,GK,90,29,41,70.7,815,526,8,8,100.0,10,11,90.9,11,22,50.0,0,0.0,0.0,0,1,0,0,0,Match Report
+6,2022-09-18,Sun,Matchweek 8,Away,W 3–0,Arsenal,Brentford,Y,GK,90,13,26,50.0,352,248,4,4,100.0,5,5,100.0,4,17,23.5,0,0.0,0.0,0,1,0,0,0,Match Report
+7,2022-10-01,Sat,Matchweek 9,Home,W 3–1,Arsenal,Tottenham,Y,GK,90,16,21,76.2,547,343,2,2,100.0,6,6,100.0,8,12,66.7,0,0.0,0.0,0,2,0,0,1,Match Report
+8,2022-10-09,Sun,Matchweek 10,Home,W 3–2,Arsenal,Liverpool,Y,GK,90,13,26,50.0,486,390,3,3,100.0,3,3,100.0,7,20,35.0,0,0.0,0.0,0,2,0,0,1,Match Report
+9,2022-10-16,Sun,Matchweek 11,Away,W 1–0,Arsenal,Leeds United,Y,GK,90,30,44,68.2,742,520,5,5,100.0,19,19,100.0,6,20,30.0,0,0.0,0.0,0,0,0,0,0,Match Report
+10,2022-10-23,Sun,Matchweek 13,Away,D 1–1,Arsenal,Southampton,Y,GK,90,19,29,65.5,428,294,4,5,80.0,10,10,100.0,5,14,35.7,0,0.0,0.0,0,0,0,0,0,Match Report
+11,2022-10-30,Sun,Matchweek 14,Home,W 5–0,Arsenal,Nott'ham Forest,Y,GK,90,21,22,95.5,412,287,5,5,100.0,15,15,100.0,1,2,50.0,0,0.0,0.0,0,0,0,0,0,Match Report
+12,2022-11-06,Sun,Matchweek 15,Away,W 1–0,Arsenal,Chelsea,Y,GK,90,23,30,76.7,544,402,8,8,100.0,9,9,100.0,6,13,46.2,0,0.0,0.0,0,0,0,0,0,Match Report
+13,2022-11-12,Sat,Matchweek 16,Away,W 2–0,Arsenal,Wolves,Y,GK,90,21,27,77.8,434,291,8,8,100.0,9,9,100.0,4,10,40.0,0,0.0,0.0,0,0,0,0,0,Match Report
+14,2022-12-26,Mon,Matchweek 17,Home,W 3–1,Arsenal,West Ham,Y,GK,90,18,22,81.8,405,274,8,8,100.0,7,7,100.0,3,7,42.9,0,0.0,0.0,0,2,1,0,0,Match Report
+15,2022-12-31,Sat,Matchweek 18,Away,W 4–2,Arsenal,Brighton,Y,GK,90,14,37,37.8,446,361,1,1,100.0,8,8,100.0,5,28,17.9,0,0.0,0.0,0,0,0,0,0,Match Report
+16,2023-01-03,Tue,Matchweek 19,Home,D 0–0,Arsenal,Newcastle Utd,Y,GK,90,18,25,72.0,427,287,5,5,100.0,8,8,100.0,5,10,50.0,0,0.0,0.0,0,1,0,0,0,Match Report
+17,2023-01-15,Sun,Matchweek 20,Away,W 2–0,Arsenal,Tottenham,Y,GK,90,12,25,48.0,352,264,1,1,100.0,5,5,100.0,6,19,31.6,0,0.0,0.0,0,1,0,0,0,Match Report
+18,2023-01-22,Sun,Matchweek 21,Home,W 3–2,Arsenal,Manchester Utd,Y,GK,90,17,26,65.4,467,305,2,2,100.0,8,8,100.0,7,16,43.8,0,0.0,0.0,0,2,0,0,1,Match Report
+19,2023-02-04,Sat,Matchweek 22,Away,L 0–1,Arsenal,Everton,Y,GK,90,22,32,68.8,427,300,11,12,91.7,7,8,87.5,4,12,33.3,0,0.0,0.0,0,1,0,0,1,Match Report
+20,2023-02-11,Sat,Matchweek 23,Home,D 1–1,Arsenal,Brentford,Y,GK,90,21,31,67.7,430,331,8,8,100.0,8,8,100.0,5,15,33.3,0,0.0,0.0,0,0,0,0,1,Match Report
+21,2023-02-15,Wed,Matchweek 12,Home,L 1–3,Arsenal,Manchester City,Y,GK,90,31,40,77.5,771,424,4,4,100.0,20,20,100.0,7,16,43.8,0,0.0,0.0,0,1,0,0,0,Match Report
+22,2023-02-18,Sat,Matchweek 24,Away,W 4–2,Arsenal,Aston Villa,Y,GK,90,18,23,78.3,346,192,6,6,100.0,11,11,100.0,1,5,20.0,0,0.0,0.0,0,0,0,0,0,Match Report
+23,2023-02-25,Sat,Matchweek 25,Away,W 1–0,Arsenal,Leicester City,Y,GK,90,23,28,82.1,546,344,4,4,100.0,15,15,100.0,4,9,44.4,0,0.0,0.0,0,0,0,0,0,Match Report
+24,2023-03-01,Wed,Matchweek 7,Home,W 4–0,Arsenal,Everton,Y,GK,90,21,25,84.0,450,269,6,6,100.0,12,13,92.3,3,6,50.0,0,0.0,0.0,0,0,0,0,0,Match Report
+25,2023-03-04,Sat,Matchweek 26,Home,W 3–2,Arsenal,Bournemouth,Y,GK,90,14,16,87.5,295,178,3,3,100.0,10,11,90.9,1,2,50.0,0,0.0,0.0,0,0,0,0,2,Match Report
+26,2023-03-12,Sun,Matchweek 27,Away,W 3–0,Arsenal,Fulham,Y,GK,90,17,28,60.7,363,231,3,4,75.0,11,12,91.7,3,12,25.0,0,0.0,0.0,0,0,0,0,0,Match Report
+27,2023-03-19,Sun,Matchweek 28,Home,W 4–1,Arsenal,Crystal Palace,Y,GK,90,20,27,74.1,572,381,3,3,100.0,12,12,100.0,5,12,41.7,0,0.0,0.0,0,2,0,0,0,Match Report
+28,2023-04-01,Sat,Matchweek 29,Home,W 4–1,Arsenal,Leeds United,Y,GK,90,14,21,66.7,335,236,5,5,100.0,4,4,100.0,5,12,41.7,0,0.0,0.0,0,0,0,0,0,Match Report
+30,2023-04-16,Sun,Matchweek 31,Away,D 2–2,Arsenal,West Ham,Y,GK,90,38,42,90.5,894,532,3,3,100.0,28,28,100.0,7,11,63.6,0,0.0,0.0,0,0,0,0,0,Match Report
+31,2023-04-21,Fri,Matchweek 32,Home,D 3–3,Arsenal,Southampton,Y,GK,90,22,27,81.5,377,267,11,11,100.0,10,11,90.9,1,5,20.0,0,0.0,0.0,0,0,0,0,1,Match Report
+32,2023-04-26,Wed,Matchweek 33,Away,L 1–4,Arsenal,Manchester City,Y,GK,90,20,33,60.6,473,286,5,5,100.0,12,12,100.0,3,16,18.8,0,0.0,0.0,0,2,0,0,0,Match Report
+33,2023-05-02,Tue,Matchweek 34,Home,W 3–1,Arsenal,Chelsea,Y,GK,90,21,32,65.6,472,318,8,8,100.0,10,10,100.0,3,14,21.4,0,0.0,0.0,0,2,0,0,0,Match Report
+34,2023-05-07,Sun,Matchweek 35,Away,W 2–0,Arsenal,Newcastle Utd,Y,GK,90,18,34,52.9,532,424,5,5,100.0,7,7,100.0,6,22,27.3,0,0.0,0.0,0,1,0,0,0,Match Report
+35,2023-05-14,Sun,Matchweek 36,Home,L 0–3,Arsenal,Brighton,Y,GK,90,20,38,52.6,485,383,4,4,100.0,13,13,100.0,3,21,14.3,0,0.0,0.0,0,2,0,0,0,Match Report
+36,2023-05-20,Sat,Matchweek 37,Away,L 0–1,Arsenal,Nott'ham Forest,Y,GK,90,27,28,96.4,483,332,11,11,100.0,13,13,100.0,2,3,66.7,0,0.0,0.0,0,0,0,0,0,Match Report
+37,2023-05-28,Sun,Matchweek 38,Home,W 5–0,Arsenal,Wolves,Y,GK,90,21,31,67.7,499,388,3,3,100.0,13,13,100.0,5,15,33.3,0,0.0,0.0,0,1,0,0,0,Match Report

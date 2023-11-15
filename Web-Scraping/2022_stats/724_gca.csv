@@ -1,0 +1,19 @@
+,Date,Day,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,SCA,PassLive,PassDead,TO,Sh,Fld,Def,GCA,PassLive,PassDead,TO,Sh,Fld,Def,Match Report
+0,2023-02-03,Fri,Matchweek 22,Home,D 0–0,Chelsea,Fulham,Y,CM,90,2,2,0,0,0,0,0,0,0,0,0,0,0,0,Match Report
+1,2023-02-11,Sat,Matchweek 23,Away,D 1–1,Chelsea,West Ham,Y,DM,90,2,2,0,0,0,0,0,1,1,0,0,0,0,0,Match Report
+2,2023-02-18,Sat,Matchweek 24,Home,L 0–1,Chelsea,Southampton,Y,"DM,CM",90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Match Report
+3,2023-02-26,Sun,Matchweek 25,Away,L 0–2,Chelsea,Tottenham,Y,DM,90,1,1,0,0,0,0,0,0,0,0,0,0,0,0,Match Report
+4,2023-03-04,Sat,Matchweek 26,Home,W 1–0,Chelsea,Leeds United,Y,CM,83,2,2,0,0,0,0,0,0,0,0,0,0,0,0,Match Report
+5,2023-03-11,Sat,Matchweek 27,Away,W 3–1,Chelsea,Leicester City,Y,"CM,DM",90,3,3,0,0,0,0,0,1,1,0,0,0,0,0,Match Report
+6,2023-03-18,Sat,Matchweek 28,Home,D 2–2,Chelsea,Everton,Y,CM,90,7,5,0,0,1,1,0,1,1,0,0,0,0,0,Match Report
+7,2023-04-01,Sat,Matchweek 29,Home,L 0–2,Chelsea,Aston Villa,Y,CM,90,6,6,0,0,0,0,0,0,0,0,0,0,0,0,Match Report
+8,2023-04-04,Tue,Matchweek 8,Home,D 0–0,Chelsea,Liverpool,Y,CM,90,1,1,0,0,0,0,0,0,0,0,0,0,0,0,Match Report
+9,2023-04-08,Sat,Matchweek 30,Away,L 0–1,Chelsea,Wolves,Y,CM,90,6,4,2,0,0,0,0,0,0,0,0,0,0,0,Match Report
+10,2023-04-15,Sat,Matchweek 31,Home,L 1–2,Chelsea,Brighton,Y,DM,56,1,1,0,0,0,0,0,1,1,0,0,0,0,0,Match Report
+11,2023-04-26,Wed,Matchweek 33,Home,L 0–2,Chelsea,Brentford,Y,"CM,DM",78,4,2,1,0,1,0,0,0,0,0,0,0,0,0,Match Report
+12,2023-05-02,Tue,Matchweek 34,Away,L 1–3,Chelsea,Arsenal,Y,CM,70,2,2,0,0,0,0,0,1,1,0,0,0,0,0,Match Report
+13,2023-05-06,Sat,Matchweek 35,Away,W 3–1,Chelsea,Bournemouth,Y,CM,90,2,2,0,0,0,0,0,0,0,0,0,0,0,0,Match Report
+14,2023-05-13,Sat,Matchweek 36,Home,D 2–2,Chelsea,Nott'ham Forest,Y,CM,90,4,4,0,0,0,0,0,0,0,0,0,0,0,0,Match Report
+15,2023-05-21,Sun,Matchweek 37,Away,L 0–1,Chelsea,Manchester City,Y,CM,90,6,4,1,0,0,1,0,0,0,0,0,0,0,0,Match Report
+16,2023-05-25,Thu,Matchweek 32,Away,L 1–4,Chelsea,Manchester Utd,Y,"CM,DM",90,5,5,0,0,0,0,0,1,1,0,0,0,0,0,Match Report
+17,2023-05-28,Sun,Matchweek 38,Home,D 1–1,Chelsea,Newcastle Utd,Y,DM,90,5,3,2,0,0,0,0,0,0,0,0,0,0,0,Match Report

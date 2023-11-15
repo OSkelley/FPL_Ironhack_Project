@@ -1,0 +1,13 @@
+,Date,Day,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,Match Report
+0,2020-02-01,Sat,Matchweek 25,Home,D 0–0,Newcastle Utd,Norwich City,N,RB,37.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,21.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,15.0,18.0,83.3,1.0,13.0,1.0,0.0,0.0,Match Report
+1,2020-02-16,Sun,Matchweek 26,Away,L 0–4,Newcastle Utd,Arsenal,Y,RB,73.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,33.0,3.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,17.0,25.0,68.0,1.0,14.0,1.0,2.0,1.0,Match Report
+2,2020-02-22,Sat,Matchweek 27,Away,L 0–1,Newcastle Utd,Crystal Palace,Y,RB,89.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,56.0,1.0,0.0,1.0,0.0,0.0,0.1,2.0,0.0,37.0,50.0,74.0,1.0,32.0,2.0,3.0,1.0,Match Report
+4,2020-03-07,Sat,Matchweek 29,Away,W 1–0,Newcastle Utd,Southampton,N,RB,19.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,22.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,16.0,18.0,88.9,0.0,14.0,0.0,2.0,1.0,Match Report
+5,2020-06-21,Sun,Matchweek 30,Home,W 3–0,Newcastle Utd,Sheffield Utd,N,"FW,RW",6.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,2.0,100.0,0.0,1.0,0.0,0.0,0.0,Match Report
+6,2020-06-24,Wed,Matchweek 31,Home,D 1–1,Newcastle Utd,Aston Villa,N,"LM,FW",5.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,2.0,100.0,0.0,2.0,0.0,0.0,0.0,Match Report
+7,2020-07-01,Wed,Matchweek 32,Away,W 4–1,Newcastle Utd,Bournemouth,N,RW,29.0,1.0,0.0,0.0,0.0,2.0,1.0,0.0,0.0,12.0,1.0,1.0,0.0,0.3,0.3,0.0,1.0,0.0,5.0,8.0,62.5,0.0,5.0,1.0,1.0,1.0,Match Report
+8,2020-07-05,Sun,Matchweek 33,Home,D 2–2,Newcastle Utd,West Ham,N,RW,22.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,16.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,11.0,13.0,84.6,2.0,11.0,0.0,2.0,1.0,Match Report
+9,2020-07-08,Wed,Matchweek 34,Away,L 0–5,Newcastle Utd,Manchester City,Y,RM,65.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,23.0,1.0,1.0,0.0,0.0,0.0,0.1,4.0,0.0,14.0,16.0,87.5,1.0,12.0,2.0,1.0,1.0,Match Report
+11,2020-07-15,Wed,Matchweek 36,Home,L 1–3,Newcastle Utd,Tottenham,N,RB,36.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,17.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,15.0,15.0,100.0,1.0,12.0,0.0,0.0,0.0,Match Report
+12,2020-07-20,Mon,Matchweek 37,Away,D 0–0,Newcastle Utd,Brighton,N,CM,5.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,3.0,66.7,0.0,3.0,0.0,0.0,0.0,Match Report
+13,2020-07-26,Sun,Matchweek 38,Home,L 1–3,Newcastle Utd,Liverpool,Y,WB,90.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,35.0,3.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,21.0,27.0,77.8,0.0,23.0,0.0,2.0,2.0,Match Report

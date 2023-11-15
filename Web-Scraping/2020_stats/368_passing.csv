@@ -1,0 +1,32 @@
+,Date,Day,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Cmp,Att,Cmp%,TotDist,PrgDist,Cmp,Att,Cmp%,Cmp,Att,Cmp%,Cmp,Att,Cmp%,Ast,xAG,xA,KP,1/3,PPA,CrsPA,PrgP,Match Report
+0,2020-09-20,Sun,Matchweek 2,Home,L 2–5,Southampton,Tottenham,Y,RM,67,32,37,86.5,466,141,20,21,95.2,9,10,90.0,2,3,66.7,0,0.1,0.1,1,4,0,0,3,Match Report
+1,2020-09-26,Sat,Matchweek 3,Away,W 1–0,Southampton,Burnley,Y,RM,90,29,39,74.4,319,84,16,19,84.2,5,7,71.4,1,2,50.0,0,0.0,0.0,0,1,0,0,3,Match Report
+2,2020-10-04,Sun,Matchweek 4,Home,W 2–0,Southampton,West Brom,Y,RM,90,31,41,75.6,378,97,21,24,87.5,7,8,87.5,1,1,100.0,1,0.1,0.2,2,2,3,1,6,Match Report
+4,2020-10-25,Sun,Matchweek 6,Home,W 2–0,Southampton,Everton,Y,RM,85,35,45,77.8,476,116,18,22,81.8,13,14,92.9,1,1,100.0,0,0.1,0.0,2,4,0,0,3,Match Report
+5,2020-11-01,Sun,Matchweek 7,Away,W 4–3,Southampton,Aston Villa,Y,RM,90,20,25,80.0,242,91,14,14,100.0,5,7,71.4,0,1,0.0,1,0.0,0.0,1,1,0,0,4,Match Report
+6,2020-11-06,Fri,Matchweek 8,Home,W 2–0,Southampton,Newcastle Utd,Y,RM,90,28,40,70.0,381,88,17,23,73.9,9,13,69.2,1,1,100.0,0,0.0,0.0,1,2,0,0,0,Match Report
+7,2020-11-23,Mon,Matchweek 9,Away,D 1–1,Southampton,Wolves,Y,RM,89,32,38,84.2,483,107,20,21,95.2,9,9,100.0,3,3,100.0,0,0.1,0.1,1,1,2,1,2,Match Report
+8,2020-11-29,Sun,Matchweek 10,Home,L 2–3,Southampton,Manchester Utd,Y,RM,89,37,47,78.7,470,117,20,22,90.9,10,14,71.4,1,3,33.3,0,0.0,0.0,0,1,1,0,3,Match Report
+9,2020-12-07,Mon,Matchweek 11,Away,W 2–1,Southampton,Brighton,Y,RM,90,38,48,79.2,478,137,23,26,88.5,13,14,92.9,0,1,0.0,0,0.1,0.1,2,3,1,1,5,Match Report
+10,2020-12-13,Sun,Matchweek 12,Home,W 3–0,Southampton,Sheffield Utd,Y,RM,90,32,41,78.0,439,141,20,24,83.3,10,13,76.9,1,2,50.0,0,0.0,0.0,0,3,1,0,8,Match Report
+11,2020-12-16,Wed,Matchweek 13,Away,D 1–1,Southampton,Arsenal,Y,"RM,LM",62,19,31,61.3,270,91,12,16,75.0,6,8,75.0,1,1,100.0,0,0.0,0.0,1,0,1,0,3,Match Report
+12,2020-12-19,Sat,Matchweek 14,Home,L 0–1,Southampton,Manchester City,N,"On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play",Match Report
+13,2020-12-26,Sat,Matchweek 15,Away,D 0–0,Southampton,Fulham,Y,RM,89,23,31,74.2,310,105,13,16,81.3,7,10,70.0,1,2,50.0,0,0.0,0.0,0,2,0,0,5,Match Report
+15,2021-01-04,Mon,Matchweek 17,Home,W 1–0,Southampton,Liverpool,Y,"RM,LM",90,26,36,72.2,420,179,12,12,100.0,9,11,81.8,3,4,75.0,0,0.0,0.1,1,3,1,0,5,Match Report
+16,2021-01-16,Sat,Matchweek 19,Away,L 0–2,Southampton,Leicester City,Y,"RM,LM,CM",90,30,40,75.0,405,124,17,20,85.0,10,12,83.3,2,3,66.7,0,0.1,0.1,2,1,1,0,4,Match Report
+17,2021-01-26,Tue,Matchweek 20,Home,L 1–3,Southampton,Arsenal,Y,"LM,CM",90,44,50,88.0,644,182,27,29,93.1,16,19,84.2,1,1,100.0,0,0.1,0.0,3,5,0,0,6,Match Report
+18,2021-01-30,Sat,Matchweek 21,Home,L 0–1,Southampton,Aston Villa,Y,LM,90,31,38,81.6,571,206,9,12,75.0,17,19,89.5,4,5,80.0,0,0.1,0.1,2,2,3,0,8,Match Report
+21,2021-02-14,Sun,Matchweek 24,Home,L 1–2,Southampton,Wolves,Y,RM,68,18,24,75.0,301,108,8,11,72.7,7,9,77.8,2,2,100.0,1,0.3,0.1,1,3,2,1,3,Match Report
+23,2021-02-23,Tue,Matchweek 18,Away,L 0–3,Southampton,Leeds United,Y,"RM,CM",90,31,40,77.5,437,184,19,21,90.5,11,14,78.6,1,2,50.0,0,0.1,0.0,2,4,0,0,4,Match Report
+24,2021-03-01,Mon,Matchweek 26,Away,L 0–1,Southampton,Everton,Y,CM,90,57,67,85.1,843,234,34,39,87.2,23,25,92.0,0,1,0.0,0,0.2,0.0,1,4,1,0,7,Match Report
+25,2021-03-06,Sat,Matchweek 27,Away,W 2–0,Southampton,Sheffield Utd,Y,RM,90,26,36,72.2,420,173,14,16,87.5,8,12,66.7,3,5,60.0,1,0.2,0.1,4,1,3,0,9,Match Report
+26,2021-03-10,Wed,Matchweek 33,Away,L 2–5,Southampton,Manchester City,Y,RM,71,24,31,77.4,414,99,9,10,90.0,13,13,100.0,2,3,66.7,0,0.0,0.0,0,1,0,0,3,Match Report
+27,2021-03-14,Sun,Matchweek 28,Home,L 1–2,Southampton,Brighton,Y,RM,86,31,40,77.5,606,154,15,18,83.3,10,11,90.9,5,7,71.4,0,0.0,0.0,0,4,1,1,2,Match Report
+28,2021-04-04,Sun,Matchweek 30,Home,W 3–2,Southampton,Burnley,Y,RM,78,23,29,79.3,430,150,8,10,80.0,11,13,84.6,3,4,75.0,0,0.1,0.1,2,1,8,2,8,Match Report
+29,2021-04-12,Mon,Matchweek 31,Away,L 0–3,Southampton,West Brom,Y,LM,90,28,41,68.3,464,103,13,17,76.5,14,17,82.4,1,2,50.0,0,0.0,0.1,0,3,3,0,7,Match Report
+30,2021-04-21,Wed,Matchweek 29,Away,L 1–2,Southampton,Tottenham,Y,"CM,RM,FW",90,31,43,72.1,508,131,16,18,88.9,14,16,87.5,1,3,33.3,0,0.0,0.0,1,3,0,0,5,Match Report
+32,2021-05-08,Sat,Matchweek 35,Away,L 0–2,Southampton,Liverpool,Y,CM,90,47,58,81.0,688,152,28,31,90.3,15,15,100.0,2,5,40.0,0,0.0,0.0,0,3,1,0,5,Match Report
+33,2021-05-11,Tue,Matchweek 32,Home,W 3–1,Southampton,Crystal Palace,Y,CM,90,51,54,94.4,806,226,24,25,96.0,20,22,90.9,3,3,100.0,1,0.3,0.0,1,5,0,0,5,Match Report
+34,2021-05-15,Sat,Matchweek 36,Home,W 3–1,Southampton,Fulham,Y,CM,77,35,44,79.5,577,170,16,19,84.2,12,14,85.7,4,4,100.0,0,0.0,0.1,0,3,1,0,4,Match Report
+35,2021-05-18,Tue,Matchweek 37,Home,L 0–2,Southampton,Leeds United,Y,"CM,RM",90,39,48,81.3,544,165,27,33,81.8,11,11,100.0,1,2,50.0,0,0.1,0.1,2,3,2,0,5,Match Report
+36,2021-05-23,Sun,Matchweek 38,Away,L 0–3,Southampton,West Ham,Y,RM,90,45,52,86.5,596,152,25,29,86.2,17,18,94.4,0,1,0.0,0,0.4,0.1,2,5,2,0,6,Match Report

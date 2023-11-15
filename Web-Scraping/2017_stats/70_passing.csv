@@ -1,0 +1,38 @@
+,Date,Day,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Cmp,Att,Cmp%,TotDist,PrgDist,Cmp,Att,Cmp%,Cmp,Att,Cmp%,Cmp,Att,Cmp%,Ast,xAG,xA,KP,1/3,PPA,CrsPA,PrgP,Match Report
+0,2017-08-12,Sat,Matchweek 1,Home,L 0–2,Brighton,Manchester City,Y,FW,90,15,34,44.1,253,129,7,12,58.3,2,4,50.0,3,9,33.3,0,0.1,0.1,1,2,0,0,3,Match Report
+1,2017-08-19,Sat,Matchweek 2,Away,L 0–2,Brighton,Leicester City,Y,FW,61,17,26,65.4,202,38,12,13,92.3,3,8,37.5,0,2,0.0,0,0.0,0.0,0,1,0,0,2,Match Report
+2,2017-08-26,Sat,Matchweek 3,Away,D 0–0,Brighton,Watford,Y,FW,89,19,35,54.3,519,200,3,9,33.3,7,9,77.8,8,14,57.1,0,0.2,0.2,2,2,0,0,4,Match Report
+3,2017-09-09,Sat,Matchweek 4,Home,W 3–1,Brighton,West Brom,Y,FW,90,35,44,79.5,594,161,21,22,95.5,10,14,71.4,4,5,80.0,1,0.2,0.1,4,5,2,1,5,Match Report
+4,2017-09-15,Fri,Matchweek 5,Away,L 1–2,Brighton,Bournemouth,Y,FW,76,36,44,81.8,569,164,21,23,91.3,6,9,66.7,5,6,83.3,1,0.5,0.3,4,1,1,1,4,Match Report
+5,2017-09-24,Sun,Matchweek 6,Home,W 1–0,Brighton,Newcastle Utd,Y,FW,90,35,48,72.9,662,242,19,24,79.2,5,6,83.3,8,11,72.7,0,0.0,0.1,1,1,1,1,6,Match Report
+6,2017-10-01,Sun,Matchweek 7,Away,L 0–2,Brighton,Arsenal,Y,CM,90,36,50,72.0,550,206,18,20,90.0,10,15,66.7,4,11,36.4,0,0.2,0.1,3,3,1,1,6,Match Report
+7,2017-10-15,Sun,Matchweek 8,Home,D 1–1,Brighton,Everton,Y,FW,90,30,47,63.8,450,146,13,14,92.9,9,14,64.3,3,10,30.0,1,0.4,0.3,3,1,2,1,4,Match Report
+8,2017-10-20,Fri,Matchweek 9,Away,W 3–0,Brighton,West Ham,Y,FW,75,20,32,62.5,338,94,11,14,78.6,3,8,37.5,4,6,66.7,1,0.1,0.1,2,1,1,0,3,Match Report
+9,2017-10-29,Sun,Matchweek 10,Home,D 1–1,Brighton,Southampton,Y,FW,83,28,40,70.0,450,103,17,18,94.4,4,10,40.0,5,7,71.4,1,0.5,0.2,3,6,3,2,4,Match Report
+10,2017-11-04,Sat,Matchweek 11,Away,W 1–0,Brighton,Swansea City,Y,FW,84,16,29,55.2,210,69,10,13,76.9,4,6,66.7,1,8,12.5,0,0.0,0.0,0,1,0,0,4,Match Report
+11,2017-11-20,Mon,Matchweek 12,Home,D 2–2,Brighton,Stoke City,Y,FW,83,36,45,80.0,579,168,24,26,92.3,4,4,100.0,5,10,50.0,0,0.1,0.1,1,4,1,0,5,Match Report
+12,2017-11-25,Sat,Matchweek 13,Away,L 0–1,Brighton,Manchester Utd,Y,CM,87,40,48,83.3,705,158,20,22,90.9,13,17,76.5,5,6,83.3,0,0.2,0.3,3,5,1,0,5,Match Report
+13,2017-11-28,Tue,Matchweek 14,Home,D 0–0,Brighton,Crystal Palace,Y,FW,81,29,41,70.7,422,157,16,18,88.9,5,8,62.5,5,10,50.0,0,0.3,0.1,4,2,0,0,2,Match Report
+14,2017-12-02,Sat,Matchweek 15,Home,L 1–5,Brighton,Liverpool,Y,FW,90,39,50,78.0,701,110,12,15,80.0,21,23,91.3,4,10,40.0,0,0.0,0.0,0,1,0,0,2,Match Report
+15,2017-12-09,Sat,Matchweek 16,Away,L 0–2,Brighton,Huddersfield,Y,FW,62,15,23,65.2,193,39,9,10,90.0,5,7,71.4,0,2,0.0,0,0.0,0.0,0,2,1,0,1,Match Report
+17,2017-12-16,Sat,Matchweek 18,Home,D 0–0,Brighton,Burnley,Y,AM,74,31,48,64.6,494,163,19,21,90.5,8,12,66.7,3,10,30.0,0,0.4,0.2,2,1,1,0,10,Match Report
+18,2017-12-23,Sat,Matchweek 19,Home,W 1–0,Brighton,Watford,Y,FW,82,29,42,69.0,472,221,17,21,81.0,3,5,60.0,6,9,66.7,0,0.5,0.4,6,4,0,0,6,Match Report
+19,2017-12-26,Tue,Matchweek 20,Away,L 0–2,Brighton,Chelsea,N,CM,18,7,8,87.5,154,40,3,3,100.0,1,2,50.0,3,3,100.0,0,0.1,0.1,1,0,0,0,1,Match Report
+20,2017-12-30,Sat,Matchweek 21,Away,D 0–0,Brighton,Newcastle Utd,Y,FW,90,38,50,76.0,710,256,19,21,90.5,10,15,66.7,7,11,63.6,0,0.1,0.1,2,2,0,0,6,Match Report
+21,2018-01-01,Mon,Matchweek 22,Home,D 2–2,Brighton,Bournemouth,Y,FW,87,34,50,68.0,474,178,20,23,87.0,11,16,68.8,2,9,22.2,0,0.7,0.6,5,2,7,2,9,Match Report
+22,2018-01-13,Sat,Matchweek 23,Away,L 0–2,Brighton,West Brom,Y,FW,65,30,47,63.8,541,208,13,14,92.9,14,19,73.7,3,12,25.0,0,0.0,0.0,1,4,1,0,7,Match Report
+23,2018-01-20,Sat,Matchweek 24,Home,L 0–4,Brighton,Chelsea,Y,CM,67,20,34,58.8,332,105,7,7,100.0,10,13,76.9,2,10,20.0,0,0.3,0.4,2,1,2,2,3,Match Report
+24,2018-01-31,Wed,Matchweek 25,Away,D 1–1,Brighton,Southampton,Y,FW,82,19,29,65.5,296,91,6,9,66.7,10,12,83.3,0,3,0.0,0,0.1,0.1,2,1,0,0,3,Match Report
+25,2018-02-03,Sat,Matchweek 26,Home,W 3–1,Brighton,West Ham,Y,FW,82,28,48,58.3,399,113,13,17,76.5,8,13,61.5,3,7,42.9,1,0.6,0.2,4,2,2,0,7,Match Report
+26,2018-02-10,Sat,Matchweek 27,Away,D 1–1,Brighton,Stoke City,Y,FW,78,28,35,80.0,534,168,14,17,82.4,4,5,80.0,7,10,70.0,0,0.4,0.2,4,2,2,1,4,Match Report
+27,2018-02-24,Sat,Matchweek 28,Home,W 4–1,Brighton,Swansea City,Y,FW,89,37,49,75.5,503,200,24,27,88.9,8,13,61.5,2,5,40.0,1,0.5,0.3,3,3,2,0,6,Match Report
+28,2018-03-04,Sun,Matchweek 29,Home,W 2–1,Brighton,Arsenal,Y,FW,86,21,32,65.6,328,143,11,13,84.6,3,5,60.0,4,9,44.4,1,0.5,0.5,4,0,2,1,3,Match Report
+29,2018-03-10,Sat,Matchweek 30,Away,L 0–2,Brighton,Everton,Y,"FW,CM",90,30,41,73.2,607,200,13,17,76.5,9,11,81.8,6,10,60.0,0,0.0,0.0,1,3,0,0,5,Match Report
+30,2018-03-31,Sat,Matchweek 32,Home,L 0–2,Brighton,Leicester City,Y,CM,90,30,51,58.8,565,165,15,17,88.2,7,10,70.0,6,16,37.5,0,0.6,0.4,3,4,3,1,8,Match Report
+31,2018-04-07,Sat,Matchweek 33,Home,D 1–1,Brighton,Huddersfield,Y,FW,75,21,37,56.8,413,184,8,11,72.7,3,7,42.9,7,12,58.3,0,0.1,0.2,3,2,2,1,3,Match Report
+32,2018-04-14,Sat,Matchweek 34,Away,L 2–3,Brighton,Crystal Palace,Y,RM,70,26,37,70.3,546,217,12,12,100.0,5,6,83.3,7,14,50.0,0,0.1,0.1,1,4,0,0,1,Match Report
+33,2018-04-17,Tue,Matchweek 35,Home,D 1–1,Brighton,Tottenham,Y,FW,90,33,54,61.1,410,72,18,23,78.3,10,14,71.4,1,6,16.7,0,0.1,0.1,2,3,1,1,2,Match Report
+34,2018-04-28,Sat,Matchweek 36,Away,D 0–0,Brighton,Burnley,Y,FW,90,34,55,61.8,426,135,18,23,78.3,4,9,44.4,4,10,40.0,0,0.1,0.0,2,5,0,0,2,Match Report
+35,2018-05-04,Fri,Matchweek 37,Home,W 1–0,Brighton,Manchester Utd,Y,RM,83,21,36,58.3,289,116,12,14,85.7,5,10,50.0,2,7,28.6,0,0.1,0.0,3,2,0,0,5,Match Report
+36,2018-05-09,Wed,Matchweek 31,Away,L 1–3,Brighton,Manchester City,Y,FW,72,27,37,73.0,351,111,16,19,84.2,11,14,78.6,0,3,0.0,0,0.0,0.0,0,2,0,0,2,Match Report
+37,2018-05-13,Sun,Matchweek 38,Away,L 0–4,Brighton,Liverpool,N,AM,34,11,14,78.6,237,79,5,5,100.0,3,5,60.0,3,4,75.0,0,0.0,0.0,0,1,0,0,0,Match Report

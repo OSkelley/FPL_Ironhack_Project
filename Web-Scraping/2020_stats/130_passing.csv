@@ -1,0 +1,20 @@
+,Date,Day,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Cmp,Att,Cmp%,TotDist,PrgDist,Cmp,Att,Cmp%,Cmp,Att,Cmp%,Cmp,Att,Cmp%,Ast,xAG,xA,KP,1/3,PPA,CrsPA,PrgP,Match Report
+0,2020-09-12,Sat,Matchweek 1,Home,W 1–0,Crystal Palace,Southampton,Y,CM,90,15,32,46.9,322,159,2,6,33.3,11,15,73.3,1,7,14.3,0,0.4,0.0,1,2,0,0,3,Match Report
+1,2020-09-19,Sat,Matchweek 2,Away,W 3–1,Crystal Palace,Manchester Utd,Y,CM,90,16,23,69.6,208,55,7,9,77.8,7,8,87.5,0,1,0.0,0,0.0,0.0,0,1,0,0,0,Match Report
+2,2020-09-26,Sat,Matchweek 3,Home,L 1–2,Crystal Palace,Everton,Y,CM,87,41,52,78.8,682,236,19,22,86.4,20,22,90.9,2,6,33.3,0,0.1,0.1,1,7,1,0,11,Match Report
+3,2020-10-03,Sat,Matchweek 4,Away,L 0–4,Crystal Palace,Chelsea,Y,CM,71,24,29,82.8,420,109,11,13,84.6,11,14,78.6,2,2,100.0,0,0.1,0.0,2,2,0,0,4,Match Report
+4,2020-10-18,Sun,Matchweek 5,Home,D 1–1,Crystal Palace,Brighton,Y,"CM,DM",90,34,38,89.5,462,123,23,24,95.8,7,10,70.0,2,2,100.0,0,0.0,0.0,0,1,0,0,2,Match Report
+6,2020-10-30,Fri,Matchweek 7,Away,L 0–2,Crystal Palace,Wolves,N,"On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play",Match Report
+7,2020-11-07,Sat,Matchweek 8,Home,W 4–1,Crystal Palace,Leeds United,Y,CM,90,22,28,78.6,385,169,10,12,83.3,9,10,90.0,2,4,50.0,0,0.0,0.0,0,5,0,0,4,Match Report
+8,2020-11-23,Mon,Matchweek 9,Away,L 0–1,Crystal Palace,Burnley,Y,CM,90,45,59,76.3,686,175,23,28,82.1,21,26,80.8,0,2,0.0,0,0.1,0.0,2,1,0,0,5,Match Report
+9,2020-11-27,Fri,Matchweek 10,Home,L 0–2,Crystal Palace,Newcastle Utd,Y,CM,81,67,75,89.3,1130,349,31,34,91.2,29,32,90.6,5,6,83.3,0,0.1,0.1,2,7,1,0,9,Match Report
+10,2020-12-06,Sun,Matchweek 11,Away,W 5–1,Crystal Palace,West Brom,Y,CM,72,39,41,95.1,666,178,14,15,93.3,19,19,100.0,4,4,100.0,1,0.1,0.1,1,5,1,0,4,Match Report
+11,2020-12-13,Sun,Matchweek 12,Home,D 1–1,Crystal Palace,Tottenham,Y,CM,90,37,45,82.2,643,199,20,21,95.2,10,12,83.3,5,8,62.5,0,0.2,0.2,1,4,0,0,3,Match Report
+12,2020-12-16,Wed,Matchweek 13,Away,D 1–1,Crystal Palace,West Ham,Y,CM,90,41,47,87.2,657,236,23,25,92.0,15,16,93.8,3,4,75.0,0,0.0,0.0,0,3,1,0,9,Match Report
+13,2020-12-19,Sat,Matchweek 14,Home,L 0–7,Crystal Palace,Liverpool,Y,CM,74,39,50,78.0,632,162,19,23,82.6,13,14,92.9,5,6,83.3,0,0.0,0.0,0,4,0,0,4,Match Report
+14,2020-12-26,Sat,Matchweek 15,Away,L 0–3,Crystal Palace,Aston Villa,Y,CM,74,55,68,80.9,876,226,30,34,88.2,22,24,91.7,3,7,42.9,0,0.1,0.1,1,6,2,0,7,Match Report
+15,2020-12-28,Mon,Matchweek 16,Home,D 1–1,Crystal Palace,Leicester City,N,CM,17,3,6,50.0,60,12,0,1,0.0,3,4,75.0,0,1,0.0,0,0.0,0.0,0,0,0,0,0,Match Report
+16,2021-01-02,Sat,Matchweek 17,Home,W 2–0,Crystal Palace,Sheffield Utd,Y,CM,90,46,58,79.3,816,236,23,29,79.3,18,19,94.7,5,7,71.4,1,0.1,0.0,2,2,0,0,5,Match Report
+17,2021-01-14,Thu,Matchweek 18,Away,D 0–0,Crystal Palace,Arsenal,Y,CM,90,31,36,86.1,568,254,15,17,88.2,14,14,100.0,2,5,40.0,0,0.0,0.0,0,5,0,0,4,Match Report
+18,2021-01-17,Sun,Matchweek 19,Away,L 0–4,Crystal Palace,Manchester City,Y,"CM,DM",90,29,38,76.3,471,133,14,17,82.4,14,15,93.3,1,2,50.0,0,0.0,0.0,1,0,0,0,0,Match Report
+19,2021-01-26,Tue,Matchweek 20,Home,L 2–3,Crystal Palace,West Ham,Y,CM,90,59,70,84.3,1081,311,26,29,89.7,27,33,81.8,5,5,100.0,0,0.0,0.0,1,4,0,0,6,Match Report

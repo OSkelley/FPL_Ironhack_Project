@@ -1,0 +1,22 @@
+,Date,Day,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Cmp,Att,Cmp%,TotDist,PrgDist,Cmp,Att,Cmp%,Cmp,Att,Cmp%,Cmp,Att,Cmp%,Ast,xAG,xA,KP,1/3,PPA,CrsPA,PrgP,Match Report
+0,2021-08-14,Sat,Matchweek 1,Away,L 0–3,Crystal Palace,Chelsea,Y*,CM,90,39,45,86.7,650,172,23,25,92.0,12,13,92.3,4,6,66.7,0,0.1,0.1,2,2,2,1,3,Match Report
+1,2021-08-21,Sat,Matchweek 2,Home,D 0–0,Crystal Palace,Brentford,Y*,LM,90,25,37,67.6,400,169,13,13,100.0,12,16,75.0,0,5,0.0,0,0.0,0.0,0,1,2,0,7,Match Report
+2,2021-08-28,Sat,Matchweek 3,Away,D 2–2,Crystal Palace,West Ham,Y*,LM,87,48,55,87.3,821,115,22,24,91.7,23,24,95.8,3,4,75.0,0,0.0,0.0,0,2,0,0,5,Match Report
+3,2021-09-11,Sat,Matchweek 4,Home,W 3–0,Crystal Palace,Tottenham,Y*,LM,90,45,57,78.9,833,192,21,23,91.3,16,20,80.0,7,10,70.0,0,0.0,0.0,0,8,0,0,7,Match Report
+4,2021-09-18,Sat,Matchweek 5,Away,L 0–3,Crystal Palace,Liverpool,Y*,LM,64,20,24,83.3,355,43,7,7,100.0,8,10,80.0,3,5,60.0,0,0.0,0.1,1,0,1,0,3,Match Report
+5,2021-09-27,Mon,Matchweek 6,Home,D 1–1,Crystal Palace,Brighton,Y,LM,90,57,62,91.9,1093,263,17,20,85.0,27,28,96.4,8,9,88.9,0,0.0,0.0,1,8,2,1,4,Match Report
+6,2021-10-03,Sun,Matchweek 7,Home,D 2–2,Crystal Palace,Leicester City,Y,LM,90,48,67,71.6,722,172,23,26,88.5,21,25,84.0,2,8,25.0,0,0.1,0.1,1,7,3,1,7,Match Report
+7,2021-10-18,Mon,Matchweek 8,Away,D 2–2,Crystal Palace,Arsenal,Y,"DM,CM",90,54,59,91.5,921,210,26,27,96.3,24,25,96.0,4,4,100.0,0,0.1,0.0,1,6,0,0,5,Match Report
+8,2021-10-23,Sat,Matchweek 9,Home,D 1–1,Crystal Palace,Newcastle Utd,Y,"LM,DM,CM",90,61,78,78.2,1042,299,25,28,89.3,28,32,87.5,6,14,42.9,0,0.4,0.1,1,11,2,0,10,Match Report
+9,2021-10-30,Sat,Matchweek 10,Away,W 2–0,Crystal Palace,Manchester City,Y*,LM,90,34,37,91.9,471,133,14,15,93.3,11,11,100.0,2,3,66.7,0,0.0,0.0,1,0,1,0,1,Match Report
+10,2021-11-06,Sat,Matchweek 11,Home,W 2–0,Crystal Palace,Wolves,Y*,LM,79,45,58,77.6,724,167,23,27,85.2,20,22,90.9,2,6,33.3,1,0.3,0.1,1,3,1,0,4,Match Report
+12,2022-02-09,Wed,Matchweek 24,Away,D 1–1,Crystal Palace,Norwich City,N,"On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play",Match Report
+13,2022-02-12,Sat,Matchweek 25,Away,D 0–0,Crystal Palace,Brentford,N,CM,25,13,18,72.2,215,45,5,7,71.4,5,5,100.0,1,4,25.0,0,0.0,0.0,0,1,0,0,2,Match Report
+14,2022-02-19,Sat,Matchweek 26,Home,L 0–1,Crystal Palace,Chelsea,Y*,DM,89,37,42,88.1,612,111,14,15,93.3,20,20,100.0,2,5,40.0,0,0.0,0.0,0,5,0,0,4,Match Report
+15,2022-02-23,Wed,Matchweek 18,Away,W 4–1,Crystal Palace,Watford,N,LM,11,16,17,94.1,292,85,6,6,100.0,8,8,100.0,1,1,100.0,1,0.1,0.0,1,1,0,0,0,Match Report
+16,2022-02-26,Sat,Matchweek 27,Home,D 1–1,Crystal Palace,Burnley,Y,"LM,CM",90,58,66,87.9,952,208,33,37,89.2,17,18,94.4,7,9,77.8,0,0.1,0.1,1,2,2,0,4,Match Report
+18,2022-04-04,Mon,Matchweek 31,Home,W 3–0,Crystal Palace,Arsenal,N,LM,22,2,3,66.7,40,23,1,1,100.0,1,1,100.0,0,1,0.0,0,0.0,0.0,0,0,0,0,1,Match Report
+19,2022-04-10,Sun,Matchweek 32,Away,L 1–2,Crystal Palace,Leicester City,N,DM,33,25,30,83.3,447,99,11,13,84.6,14,16,87.5,0,1,0.0,0,0.0,0.0,0,1,0,0,3,Match Report
+20,2022-04-20,Wed,Matchweek 30,Away,L 0–1,Crystal Palace,Newcastle Utd,N,DM,31,42,53,79.2,653,131,26,27,96.3,14,16,87.5,2,8,25.0,0,0.1,0.1,3,0,2,1,5,Match Report
+21,2022-04-25,Mon,Matchweek 34,Home,D 0–0,Crystal Palace,Leeds United,Y*,CM,90,44,56,78.6,810,219,17,21,81.0,24,29,82.8,3,3,100.0,0,0.0,0.0,0,1,0,0,2,Match Report
+22,2022-04-30,Sat,Matchweek 35,Away,W 2–1,Crystal Palace,Southampton,Y*,CM,90,57,73,78.1,926,285,29,34,85.3,23,25,92.0,4,8,50.0,1,0.1,0.1,2,5,1,0,7,Match Report

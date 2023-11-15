@@ -1,0 +1,24 @@
+,Date,Day,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,Match Report
+0,2020-09-19,Sat,Matchweek 2,Home,L 1–3,Manchester Utd,Crystal Palace,Y,FW,90,0,0,0,0,1,0,0,0,43,0,0,1,0.0,0.0,0.0,1,0,26,33,78.8,5,23,1,3,0,Match Report
+1,2020-09-26,Sat,Matchweek 3,Away,W 3–2,Manchester Utd,Brighton,Y,FW,89,0,0,0,0,1,0,0,0,31,0,0,0,0.1,0.1,0.0,0,0,19,23,82.6,1,21,3,3,2,Match Report
+2,2020-10-04,Sun,Matchweek 4,Home,L 1–6,Manchester Utd,Tottenham,Y,FW,27,0,0,0,0,0,0,0,1,14,0,0,1,0.0,0.0,0.0,1,1,8,11,72.7,1,13,3,0,0,Match Report
+4,2020-11-07,Sat,Matchweek 8,Away,W 3–1,Manchester Utd,Everton,Y,FW,81,0,0,0,0,1,0,0,0,25,0,0,1,0.1,0.1,0.0,0,0,17,19,89.5,1,15,1,0,0,Match Report
+5,2020-11-21,Sat,Matchweek 9,Home,W 1–0,Manchester Utd,West Brom,Y,"FW,LW",90,0,0,0,0,4,2,0,0,53,0,0,0,0.6,0.6,0.1,6,0,30,39,76.9,1,35,7,9,6,Match Report
+7,2020-12-05,Sat,Matchweek 11,Away,W 3–1,Manchester Utd,West Ham,Y,"LW,FW",61,0,0,0,0,2,1,0,0,33,0,0,2,0.1,0.1,0.0,2,0,18,22,81.8,0,20,1,2,0,Match Report
+8,2020-12-12,Sat,Matchweek 12,Home,D 0–0,Manchester Utd,Manchester City,N,FW,17,0,0,0,0,0,0,0,0,6,1,0,0,0.0,0.0,0.0,1,0,4,5,80.0,1,6,0,0,0,Match Report
+9,2020-12-17,Thu,Matchweek 13,Away,W 3–2,Manchester Utd,Sheffield Utd,Y,FW,89,1,1,0,0,5,3,0,0,37,0,0,0,1.1,1.1,0.5,4,2,23,25,92.0,3,29,3,3,1,Match Report
+10,2020-12-20,Sun,Matchweek 14,Home,W 6–2,Manchester Utd,Leeds United,Y,"FW,LW",90,0,2,0,0,4,1,0,0,44,0,0,1,0.6,0.6,0.9,9,4,26,33,78.8,5,33,1,8,7,Match Report
+11,2020-12-26,Sat,Matchweek 15,Away,D 2–2,Manchester Utd,Leicester City,Y,FW,74,0,0,0,0,2,1,0,0,20,0,0,0,0.1,0.1,0.1,1,0,6,11,54.5,1,12,1,3,2,Match Report
+12,2020-12-29,Tue,Matchweek 16,Home,W 1–0,Manchester Utd,Wolves,N,LW,27,0,0,0,0,1,0,0,0,18,0,0,0,0.1,0.1,0.0,0,0,11,12,91.7,1,16,2,4,3,Match Report
+13,2021-01-01,Fri,Matchweek 17,Home,W 2–1,Manchester Utd,Aston Villa,Y,FW,90,1,0,0,0,3,3,0,0,30,0,0,0,0.4,0.4,0.0,3,0,17,21,81.0,3,24,5,2,1,Match Report
+14,2021-01-12,Tue,Matchweek 1,Away,W 1–0,Manchester Utd,Burnley,Y,LW,89,0,0,0,0,5,2,0,0,51,0,0,2,0.6,0.6,0.0,3,0,33,38,86.8,5,30,4,0,0,Match Report
+15,2021-01-17,Sun,Matchweek 19,Away,D 0–0,Manchester Utd,Liverpool,Y,LW,60,0,0,0,0,0,0,0,0,21,0,0,0,0.0,0.0,0.1,1,0,15,18,83.3,3,15,2,7,6,Match Report
+16,2021-01-20,Wed,Matchweek 18,Away,W 2–1,Manchester Utd,Fulham,Y,LW,84,0,0,0,0,3,1,0,0,50,0,0,2,0.4,0.4,0.0,1,0,28,35,80.0,4,39,5,2,1,Match Report
+17,2021-01-27,Wed,Matchweek 20,Home,L 1–2,Manchester Utd,Sheffield Utd,Y,"FW,LW",90,0,0,0,0,1,1,0,0,50,0,0,0,0.1,0.1,0.0,5,0,38,42,90.5,3,33,3,4,1,Match Report
+18,2021-01-30,Sat,Matchweek 21,Away,D 0–0,Manchester Utd,Arsenal,N,LW,54,0,0,0,0,1,0,0,0,28,0,0,2,0.1,0.1,0.1,2,0,16,20,80.0,1,15,0,1,0,Match Report
+19,2021-02-02,Tue,Matchweek 22,Home,W 9–0,Manchester Utd,Southampton,N,FW,45,2,0,0,0,5,2,0,0,17,0,0,0,1.4,1.4,0.0,2,1,9,11,81.8,0,9,1,1,0,Match Report
+20,2021-02-06,Sat,Matchweek 23,Home,D 3–3,Manchester Utd,Everton,N,"On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play",Match Report
+21,2021-02-14,Sun,Matchweek 24,Away,D 1–1,Manchester Utd,West Brom,Y,LW,65,0,0,0,0,0,0,0,0,38,1,0,3,0.0,0.0,0.0,0,0,25,29,86.2,2,19,0,0,0,Match Report
+22,2021-02-21,Sun,Matchweek 25,Home,W 3–1,Manchester Utd,Newcastle Utd,Y,FW,69,0,0,0,0,1,1,0,0,29,0,0,0,0.1,0.1,0.0,2,0,19,23,82.6,1,21,2,2,2,Match Report
+23,2021-02-28,Sun,Matchweek 26,Away,D 0–0,Manchester Utd,Chelsea,N,FW,12,0,0,0,0,0,0,0,0,5,0,0,1,0.0,0.0,0.0,0,0,1,1,100.0,0,4,0,1,0,Match Report
+25,2021-03-07,Sun,Matchweek 27,Away,W 2–0,Manchester Utd,Manchester City,Y,FW,87,0,0,0,0,3,2,0,0,32,0,1,1,0.7,0.7,0.1,4,1,20,21,95.2,4,22,3,4,3,Match Report

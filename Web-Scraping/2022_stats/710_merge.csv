@@ -1,0 +1,6 @@
+,Date,Day,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att.1,Succ,PassLive,PassDead,TO,Fld,Def,PassLive.1,PassDead.1,TO.1,Sh.1,Fld.1,Def.1,TotDist,PrgDist,Cmp.1,Cmp%.1,Cmp.2,Att.2,Cmp%.2,Cmp.3,Att.3,Cmp%.3,xA,KP,1/3,PPA,CrsPA
+11,2023-05-02,Tue,Matchweek 34,Home,W 3–1,Arsenal,Chelsea,Y,CB,90,0,0,0,0,0,0,0,0,71,1,3,2,0.0,0.0,0.0,0,0,53,57,93.0,1,41,0,0,0,0,0,0,0,0,0,0,0,0,0,0,975,252,13,92.9,32,33,97.0,5,6,83.3,0.0,0,1,0,0
+12,2023-05-07,Sun,Matchweek 35,Away,W 2–0,Arsenal,Newcastle Utd,Y,CB,90,0,0,0,0,0,0,0,0,39,2,1,1,0.0,0.0,0.0,0,0,25,29,86.2,0,21,0,0,0,0,0,0,0,0,0,0,0,0,0,0,446,128,7,100.0,17,17,100.0,1,4,25.0,0.0,0,0,0,0
+13,2023-05-14,Sun,Matchweek 36,Home,L 0–3,Arsenal,Brighton,Y,CB,90,0,0,0,0,0,0,0,0,56,1,2,1,0.0,0.0,0.0,0,0,41,48,85.4,4,36,0,0,0,0,0,0,0,0,0,0,0,0,0,0,732,240,15,83.3,25,27,92.6,1,3,33.3,0.0,0,1,0,0
+14,2023-05-20,Sat,Matchweek 37,Away,L 0–1,Arsenal,Nott'ham Forest,Y,LB,62,0,0,0,0,0,0,0,0,46,0,0,0,0.0,0.0,0.0,0,0,32,42,76.2,1,25,0,0,0,0,0,0,0,0,0,0,0,0,0,0,451,96,17,81.0,14,15,93.3,0,1,0.0,0.0,0,2,0,0
+15,2023-05-28,Sun,Matchweek 38,Home,W 5–0,Arsenal,Wolves,Y,LB,79,1,0,0,0,1,1,0,0,28,2,0,1,0.1,0.1,0.0,1,0,20,22,90.9,0,13,0,1,1,1,0,0,0,0,0,0,0,0,0,0,326,161,7,100.0,13,13,100.0,0,1,0.0,0.0,1,2,0,0

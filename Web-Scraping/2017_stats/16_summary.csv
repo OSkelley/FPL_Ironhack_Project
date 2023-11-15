@@ -1,0 +1,28 @@
+,Date,Day,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,Match Report
+0,2017-08-11,Fri,Matchweek 1,Home,W 4–3,Arsenal,Leicester City,Y,"AM,RM",90,0,0,0,0,3,0,0,0,95,1,0,1,0.1,0.1,0.6,10,0,70,86,81.4,6,69,3,2,2,Match Report
+1,2017-08-19,Sat,Matchweek 2,Away,L 0–1,Arsenal,Stoke City,Y,AM,90,0,0,0,0,2,0,0,0,106,0,0,0,0.1,0.1,0.5,11,0,94,103,91.3,15,84,7,4,3,Match Report
+2,2017-08-27,Sun,Matchweek 3,Away,L 0–4,Arsenal,Liverpool,Y,AM,90,0,0,0,0,2,0,1,0,63,1,2,0,0.1,0.1,0.2,3,0,41,56,73.2,7,53,2,0,0,Match Report
+3,2017-09-09,Sat,Matchweek 4,Home,W 3–0,Arsenal,Bournemouth,Y,AM,90,0,0,0,0,2,1,0,0,66,1,1,1,0.2,0.2,0.5,5,0,45,59,76.3,5,37,2,1,1,Match Report
+5,2017-09-25,Mon,Matchweek 6,Home,W 2–0,Arsenal,West Brom,N,AM,8,0,0,0,0,0,0,0,0,13,0,1,0,0.0,0.0,0.0,1,0,11,11,100.0,0,11,0,0,0,Match Report
+7,2017-10-14,Sat,Matchweek 8,Away,L 1–2,Arsenal,Watford,N,AM,30,0,0,0,0,1,1,0,0,17,0,1,0,0.3,0.3,0.3,2,0,8,12,66.7,3,12,3,0,0,Match Report
+8,2017-10-22,Sun,Matchweek 9,Away,W 5–2,Arsenal,Everton,Y,AM,81,1,1,0,0,1,1,0,0,64,1,0,1,0.3,0.3,1.0,8,1,49,57,86.0,5,44,3,0,0,Match Report
+9,2017-10-28,Sat,Matchweek 10,Home,W 2–1,Arsenal,Swansea City,Y,AM,90,0,1,0,0,1,0,0,0,86,2,0,0,0.1,0.1,0.2,8,1,66,80,82.5,11,65,4,2,2,Match Report
+10,2017-11-05,Sun,Matchweek 11,Away,L 1–3,Arsenal,Manchester City,Y,AM,90,0,0,0,0,1,0,1,0,56,2,1,0,0.0,0.0,0.0,1,0,38,51,74.5,7,39,1,1,0,Match Report
+11,2017-11-18,Sat,Matchweek 12,Home,W 2–0,Arsenal,Tottenham,Y,AM,83,0,1,0,0,0,0,0,0,49,2,0,0,0.0,0.0,0.6,5,1,28,40,70.0,4,31,2,2,0,Match Report
+13,2017-11-29,Wed,Matchweek 14,Home,W 5–0,Arsenal,Huddersfield,Y,AM,90,1,2,0,0,2,1,0,0,111,0,1,0,0.5,0.5,0.6,8,2,86,104,82.7,17,50,2,3,1,Match Report
+14,2017-12-02,Sat,Matchweek 15,Home,L 1–3,Arsenal,Manchester Utd,Y,"AM,CM",90,0,0,0,0,3,1,0,0,123,0,0,0,0.2,0.2,0.3,10,0,98,118,83.1,27,97,13,4,2,Match Report
+15,2017-12-10,Sun,Matchweek 16,Away,D 1–1,Arsenal,Southampton,Y,AM,90,0,0,0,0,1,0,0,0,107,1,1,1,0.0,0.0,0.0,3,1,83,100,83.0,16,88,9,2,2,Match Report
+16,2017-12-13,Wed,Matchweek 17,Away,D 0–0,Arsenal,West Ham,Y,LM,90,0,0,0,0,2,0,0,0,117,0,0,0,0.1,0.1,0.1,8,0,98,112,87.5,21,90,8,2,2,Match Report
+17,2017-12-16,Sat,Matchweek 18,Home,W 1–0,Arsenal,Newcastle Utd,Y,"RM,LW",90,1,0,0,0,2,2,0,0,123,2,0,1,0.1,0.1,0.4,11,0,100,116,86.2,13,96,9,4,3,Match Report
+18,2017-12-22,Fri,Matchweek 19,Home,D 3–3,Arsenal,Liverpool,Y,AM,90,1,0,0,0,3,1,0,0,77,1,1,0,0.6,0.6,0.0,2,1,51,67,76.1,12,62,7,0,0,Match Report
+19,2017-12-28,Thu,Matchweek 20,Away,W 3–2,Arsenal,Crystal Palace,Y,AM,90,0,0,0,0,2,1,0,0,86,3,1,0,0.5,0.5,0.2,6,0,65,77,84.4,9,48,3,2,2,Match Report
+21,2018-01-03,Wed,Matchweek 22,Home,D 2–2,Arsenal,Chelsea,Y,AM,90,0,0,0,0,1,0,1,0,101,0,1,2,0.0,0.0,0.2,9,1,78,93,83.9,18,61,14,3,2,Match Report
+23,2018-01-20,Sat,Matchweek 24,Home,W 4–1,Arsenal,Crystal Palace,Y,RM,71,0,1,0,0,1,0,0,0,65,0,0,2,0.0,0.0,0.5,6,2,48,58,82.8,9,36,4,2,2,Match Report
+24,2018-01-30,Tue,Matchweek 25,Away,L 1–3,Arsenal,Swansea City,Y,"RW,LM,LW",90,0,1,0,0,1,1,1,0,130,1,0,0,0.1,0.1,0.9,4,1,118,126,93.7,22,108,6,1,1,Match Report
+25,2018-02-03,Sat,Matchweek 26,Home,W 5–1,Arsenal,Everton,Y,AM,90,0,0,0,0,1,0,0,0,79,0,0,0,0.1,0.1,0.4,8,2,63,73,86.3,7,58,4,3,2,Match Report
+26,2018-02-10,Sat,Matchweek 27,Away,L 0–1,Arsenal,Tottenham,Y,"RW,LM",90,0,0,0,0,1,0,0,0,61,1,1,1,0.1,0.1,0.1,3,0,41,53,77.4,7,46,5,3,2,Match Report
+27,2018-03-01,Thu,Matchweek 28,Home,L 0–3,Arsenal,Manchester City,Y,AM,90,0,0,0,0,1,0,0,0,70,0,0,0,0.1,0.1,0.1,3,0,47,63,74.6,6,51,1,0,0,Match Report
+28,2018-03-04,Sun,Matchweek 29,Away,L 1–2,Arsenal,Brighton,Y,AM,90,0,0,0,0,3,1,0,0,84,0,0,1,0.1,0.1,0.0,6,0,65,78,83.3,14,72,11,2,2,Match Report
+29,2018-03-11,Sun,Matchweek 30,Home,W 3–0,Arsenal,Watford,Y,"AM,RW",90,0,1,0,0,1,1,0,0,69,1,0,0,0.6,0.6,0.4,5,1,49,62,79.0,6,49,5,5,3,Match Report
+30,2018-04-01,Sun,Matchweek 32,Home,W 3–0,Arsenal,Stoke City,Y,"RW,AM",90,0,0,0,0,1,1,0,0,83,0,0,0,0.0,0.0,0.7,15,3,64,78,82.1,10,69,8,3,2,Match Report
+31,2018-04-08,Sun,Matchweek 33,Home,W 3–2,Arsenal,Southampton,N,"On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play",Match Report

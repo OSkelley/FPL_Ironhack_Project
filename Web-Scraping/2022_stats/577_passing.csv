@@ -1,0 +1,26 @@
+,Date,Day,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Cmp,Att,Cmp%,TotDist,PrgDist,Cmp,Att,Cmp%,Cmp,Att,Cmp%,Cmp,Att,Cmp%,Ast,xAG,xA,KP,1/3,PPA,CrsPA,PrgP,Match Report
+3,2022-08-30,Tue,Matchweek 5,Away,D 1–1,Everton,Leeds United,Y,CM,90,18,30,60.0,249,63,10,16,62.5,7,11,63.6,0,1,0.0,0,0.0,0.0,0,0,0,0,0,Match Report
+4,2022-09-03,Sat,Matchweek 6,Home,D 0–0,Everton,Liverpool,Y,CM,90,23,26,88.5,337,96,14,14,100.0,5,7,71.4,2,3,66.7,0,0.1,0.0,1,1,0,0,1,Match Report
+5,2022-09-18,Sun,Matchweek 8,Home,W 1–0,Everton,West Ham,Y,"RM,CM",90,28,36,77.8,451,65,15,16,93.8,11,16,68.8,2,3,66.7,0,0.0,0.0,0,4,1,0,2,Match Report
+6,2022-10-01,Sat,Matchweek 9,Away,W 2–1,Everton,Southampton,Y,RM,73,19,24,79.2,337,101,12,15,80.0,4,5,80.0,3,4,75.0,1,0.6,0.3,1,5,0,0,3,Match Report
+7,2022-10-09,Sun,Matchweek 10,Home,L 1–2,Everton,Manchester Utd,Y,"LM,CM",90,25,34,73.5,388,68,14,16,87.5,9,11,81.8,2,6,33.3,0,0.0,0.0,0,5,0,0,2,Match Report
+8,2022-10-15,Sat,Matchweek 11,Away,L 0–2,Everton,Tottenham,Y,CM,90,20,27,74.1,308,38,13,18,72.2,6,7,85.7,1,2,50.0,0,0.0,0.0,1,2,0,0,1,Match Report
+9,2022-10-19,Wed,Matchweek 12,Away,L 0–1,Everton,Newcastle Utd,Y,LM,90,28,36,77.8,455,110,15,17,88.2,11,12,91.7,2,5,40.0,0,0.0,0.0,0,3,2,0,5,Match Report
+10,2022-10-22,Sat,Matchweek 13,Home,W 3–0,Everton,Crystal Palace,Y,DM,77,32,35,91.4,582,125,16,16,100.0,13,14,92.9,3,5,60.0,0,0.1,0.0,1,2,0,0,2,Match Report
+11,2022-10-29,Sat,Matchweek 14,Away,D 0–0,Everton,Fulham,Y,DM,90,35,39,89.7,686,240,13,15,86.7,18,20,90.0,4,4,100.0,0,0.0,0.0,0,4,1,0,6,Match Report
+13,2022-11-12,Sat,Matchweek 16,Away,L 0–3,Everton,Bournemouth,Y,LM,74,19,22,86.4,371,105,10,12,83.3,5,5,100.0,4,4,100.0,0,0.0,0.0,1,2,1,0,3,Match Report
+14,2022-12-26,Mon,Matchweek 17,Home,L 1–2,Everton,Wolves,Y,CM,90,51,54,94.4,889,114,22,23,95.7,26,26,100.0,3,3,100.0,0,0.0,0.0,0,4,0,0,2,Match Report
+15,2022-12-31,Sat,Matchweek 18,Away,D 1–1,Everton,Manchester City,Y,CM,90,20,24,83.3,347,94,11,13,84.6,5,6,83.3,2,3,66.7,0,0.0,0.0,0,2,0,0,2,Match Report
+17,2023-01-14,Sat,Matchweek 20,Home,L 1–2,Everton,Southampton,Y,CM,90,37,41,90.2,639,95,16,17,94.1,17,18,94.4,4,6,66.7,0,0.0,0.0,0,3,0,0,4,Match Report
+18,2023-01-21,Sat,Matchweek 21,Away,L 0–2,Everton,West Ham,Y,CM,90,90,95,94.7,1395,377,47,47,100.0,40,42,95.2,3,4,75.0,0,0.0,0.0,1,13,0,0,8,Match Report
+19,2023-02-04,Sat,Matchweek 22,Home,W 1–0,Everton,Arsenal,Y,CM,90,24,31,77.4,373,76,12,15,80.0,5,7,71.4,4,5,80.0,0,0.7,0.4,2,1,0,0,1,Match Report
+20,2023-02-13,Mon,Matchweek 23,Away,L 0–2,Everton,Liverpool,Y,CM,77,16,24,66.7,272,56,6,9,66.7,10,13,76.9,0,1,0.0,0,0.0,0.0,0,0,0,0,0,Match Report
+21,2023-02-18,Sat,Matchweek 24,Home,W 1–0,Everton,Leeds United,Y,CM,73,22,27,81.5,311,33,15,16,93.8,5,5,100.0,1,2,50.0,0,0.0,0.0,1,0,1,0,2,Match Report
+24,2023-03-05,Sun,Matchweek 26,Away,D 2–2,Everton,Nott'ham Forest,Y,CM,90,13,19,68.4,175,54,8,11,72.7,4,5,80.0,1,1,100.0,0,0.1,0.0,1,0,0,0,2,Match Report
+26,2023-03-18,Sat,Matchweek 28,Away,D 2–2,Everton,Chelsea,Y,CM,90,26,31,83.9,400,137,13,14,92.9,10,10,100.0,2,3,66.7,0,0.0,0.0,1,3,1,0,5,Match Report
+27,2023-04-03,Mon,Matchweek 29,Home,D 1–1,Everton,Tottenham,Y,CM,82,41,47,87.2,684,123,21,22,95.5,12,14,85.7,5,7,71.4,0,0.2,0.1,2,4,1,0,2,Match Report
+31,2023-05-01,Mon,Matchweek 34,Away,D 2–2,Everton,Leicester City,N,"On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play",Match Report
+32,2023-05-08,Mon,Matchweek 35,Away,W 5–1,Everton,Brighton,N,DM,4,3,3,100.0,64,45,1,1,100.0,1,1,100.0,1,1,100.0,1,0.1,0.1,1,1,0,0,1,Match Report
+33,2023-05-14,Sun,Matchweek 36,Home,L 0–3,Everton,Manchester City,N,"CM,DM",35,27,30,90.0,531,98,11,12,91.7,13,13,100.0,3,4,75.0,0,0.0,0.0,0,2,0,0,4,Match Report
+34,2023-05-20,Sat,Matchweek 37,Away,D 1–1,Everton,Wolves,Y,"CM,LW",81,22,28,78.6,395,67,8,12,66.7,8,8,100.0,4,5,80.0,0,0.1,0.0,1,0,0,0,4,Match Report
+35,2023-05-28,Sun,Matchweek 38,Home,W 1–0,Everton,Bournemouth,Y,AM,90,23,29,79.3,437,185,8,13,61.5,10,10,100.0,4,4,100.0,0,0.2,0.0,2,6,1,0,8,Match Report

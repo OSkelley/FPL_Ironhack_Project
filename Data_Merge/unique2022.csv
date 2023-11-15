@@ -1,0 +1,779 @@
+,first_name,second_name,id,unique
+0,Granit,Xhaka,3,6003
+1,Mohamed,Elneny,4,6004
+2,Rob,Holding,5,6005
+3,Thomas,Partey,6,6006
+4,Martin,Ødegaard,7,6007
+5,Kieran,Tierney,8,6008
+6,Nicolas,Pépé,9,6009
+7,Benjamin,White,10,6010
+8,Eddie,Nketiah,11,6011
+9,Emile,Smith Rowe,12,6012
+10,Bukayo,Saka,13,6013
+11,Takehiro,Tomiyasu,14,6014
+12,Aaron,Ramsdale,15,6015
+13,Gabriel,dos Santos Magalhães,16,6016
+14,Nuno,Varela Tavares,17,6017
+15,Gabriel,Martinelli Silva,19,6019
+16,Pablo,Marí Villar,20,6020
+17,Lucas,Torreira di Pascua,22,6022
+18,Reiss,Nelson,23,6023
+19,Matt,Turner,24,6024
+20,Fábio,Ferreira Vieira,25,6025
+21,William,Saliba,26,6026
+22,Marcus,Oliveira Alencar,27,6027
+23,Gabriel,Fernando de Jesus,28,6028
+24,Leandro,Trossard,111,6111
+25,Jorge Luiz,Frello Filho,130,6130
+26,Oleksandr,Zinchenko,313,6313
+27,Matthew,Smith,607,6607
+28,Ethan,Nwaneri,630,6630
+29,Lino,Sousa,631,6631
+30,Karl,Hein,655,6655
+31,Amario,Cozier-Duberry,668,6668
+32,Nathan,Butler-Oyedeji,685,6685
+33,Jakub,Kiwior,710,6710
+34,Reuell,Walters,751,6751
+35,Mauro,Bandeira,767,6767
+36,Philippe,Coutinho Correia,29,6029
+37,Emiliano,Martínez Romero,31,6031
+38,Calum,Chambers,32,6032
+39,Lucas,Digne,33,6033
+40,Bertrand,Traoré,34,6034
+41,Robin,Olsen,35,6035
+42,Morgan,Sanson,36,6036
+43,John,McGinn,37,6037
+44,Kortney,Hause,38,6038
+45,Tyrone,Mings,39,6039
+46,Ollie,Watkins,40,6040
+47,Marvelous,Nakamba,41,6041
+48,Emiliano,Buendía Stati,42,6042
+49,Matty,Cash,43,6043
+50,Ezri,Konsa Ngoyo,44,6044
+51,Leon,Bailey,45,6045
+52,Douglas Luiz,Soares de Paulo,46,6046
+53,Jacob,Ramsey,47,6047
+54,Tim,Iroegbunam,49,6049
+55,Diego Carlos,Santos Silva,50,6050
+56,Anwar,El Ghazi,51,6051
+57,Keinan,Davis,52,6052
+58,Boubacar,Kamara,53,6053
+59,Cameron,Archer,54,6054
+60,Jaden,Philogene-Bidace,55,6055
+61,Frédéric,Guilbert,56,6056
+62,Leander,Dendoncker,479,6479
+63,Ludwig,Augustinsson,525,6525
+64,Kaine,Kesler Hayden,537,6537
+65,Ashley,Young,538,6538
+66,Lamare,Bogarde,638,6638
+67,Filip,Marschall,670,6670
+68,Kadan,Young,672,6672
+69,Alexandre,Moreno Lopera,694,6694
+70,Viljami,Sinisalo,707,6707
+71,Jhon,Durán,711,6711
+72,Sil,Swinkels,744,6744
+73,Oliwier,Zych,745,6745
+74,James,Wright,753,6753
+75,Sebastian,Revan,754,6754
+76,Travis,Patterson,755,6755
+77,Tommi,O'Reilly,761,6761
+78,Adam,Smith,57,6057
+79,Junior,Stanislas,58,6058
+80,Ryan,Fredericks,59,6059
+81,David,Brooks,60,6060
+82,Jamal,Lowe,61,6061
+83,Kieffer,Moore,62,6062
+84,Emiliano,Marcondes,63,6063
+85,Jefferson,Lerma Solís,64,6064
+86,Jack,Stacey,65,6065
+87,Dominic,Solanke,66,6066
+88,Lewis,Cook,67,6067
+89,Ben,Pearson,68,6068
+90,Ryan,Christie,69,6069
+91,Philip,Billing,70,6070
+92,Chris,Mepham,71,6071
+93,Mark,Travers,72,6072
+94,Lloyd,Kelly,73,6073
+95,Siriki,Dembélé,74,6074
+96,Jaidon,Anthony,75,6075
+97,Jordan,Zemura,76,6076
+98,Will,Dennis,77,6077
+99,Jack,Stephens,404,6404
+100,Joe,Rothwell,505,6505
+101,Marcus,Tavernier,535,6535
+102,James,Hill,539,6539
+103,Darren,Randolph,571,6571
+104,Norberto,Murara Neto,574,6574
+105,Marcos,Senesi,576,6576
+106,Christian,Saydee,597,6597
+107,Owen,Bevan,598,6598
+108,Cameron,Plain,649,6649
+109,Daniel,Adu-Adjei,695,6695
+110,Michael,Dacosta Gonzalez,696,6696
+111,Dominic,Sadi,697,6697
+112,Dango,Ouattara,705,6705
+113,Euan,Pollock,706,6706
+114,Antoine,Semenyo,714,6714
+115,Matías,Viña,718,6718
+116,Illia,Zabarnyi,722,6722
+117,Hamed,Traorè,723,6723
+118,Ben,Greenwood,737,6737
+119,Max,Kinsey-Wellings,738,6738
+120,Pontus,Jansson,78,6078
+121,Christian,Nørgaard,79,6079
+122,Ivan,Toney,80,6080
+123,David,Raya Martin,81,6081
+124,Sergi,Canós Tenés,82,6082
+125,Josh,Dasilva,83,6083
+126,Kristoffer,Ajer,84,6084
+127,Rico,Henry,85,6085
+128,Vitaly,Janelt,86,6086
+129,Saman,Ghoddos,87,6087
+130,Mathias,Jensen,88,6088
+131,Yoane,Wissa,89,6089
+132,Mads,Roerslev Rasmussen,90,6090
+133,Mads,Bech Sørensen,91,6091
+134,Ethan,Pinnock,92,6092
+135,Frank,Onyeka,93,6093
+136,Shandon,Baptiste,94,6094
+137,Bryan,Mbeumo,95,6095
+138,Charlie,Goode,96,6096
+139,Marcus,Forss,97,6097
+140,Dominic,Thompson,98,6098
+141,Mads,Bidstrup,99,6099
+142,Ellery,Balcombe,100,6100
+143,Aaron,Hickey,510,6510
+144,Keane,Lewis-Potter,515,6515
+145,Thomas,Strakosha,517,6517
+146,Ben,Mee,526,6526
+147,Fin,Stevens,540,6540
+148,Halil,Dervişoğlu,541,6541
+149,Mikkel,Damsgaard,580,6580
+150,Mathias,Jorgensen,595,6595
+151,Ryan,Trevitt,632,6632
+152,Matthew,Cox,633,6633
+153,Tristan,Crama,646,6646
+154,Yegor,Yarmolyuk,650,6650
+155,Kevin,Schade,688,6688
+156,Michael,Olakigbe,752,6752
+157,Adam,Lallana,101,6101
+158,Jason,Steele,102,6102
+159,Danny,Welbeck,103,6103
+160,Pascal,Groß,104,6104
+161,Lewis,Dunk,106,6106
+162,Solly,March,107,6107
+163,Adam,Webster,108,6108
+164,Joël,Veltman,109,6109
+165,Robert,Sánchez,113,6113
+166,Tariq,Lamptey,114,6114
+167,Steven,Alzate,115,6115
+168,Alexis,Mac Allister,116,6116
+169,Jakub,Moder,117,6117
+170,Enock,Mwepu,118,6118
+171,Jeremy,Sarmiento Morante,119,6119
+172,Moisés,Caicedo Corozo,120,6120
+173,Taylor,Richards,121,6121
+174,Haydon,Roberts,122,6122
+175,Deniz,Undav,123,6123
+176,Kaoru,Mitoma,124,6124
+177,Julio,Enciso,125,6125
+178,Kacper,Kozłowski,126,6126
+179,Billy,Gilmour,149,6149
+180,Kjell,Scherpen,542,6542
+181,Matt,Clarke,543,6543
+182,Jan Paul,van Hecke,544,6544
+183,Levi,Colwill,559,6559
+184,Pervis,Estupiñán,586,6586
+185,Evan,Ferguson,596,6596
+186,Ed,Turns,640,6640
+187,Andrew,Moran,651,6651
+188,James,Furlong,652,6652
+189,Jack,Hinshelwood,677,6677
+190,Facundo,Buonanotte,679,6679
+191,Yasin,Ayari,719,6719
+192,Odeluga,Offiah,736,6736
+193,Tom,McGill,756,6756
+194,Cameron,Peupion,762,6762
+195,Imari,Samuels,765,6765
+196,Carney,Chukwuemeka,48,6048
+197,Marc,Cucurella Saseta,112,6112
+198,César,Azpilicueta,127,6127
+199,Thiago,Emiliano da Silva,128,6128
+200,Marcos,Alonso,129,6129
+201,Ross,Barkley,131,6131
+202,Mateo,Kovacic,132,6132
+203,Kepa,Arrizabalaga,133,6133
+204,N'Golo,Kanté,134,6134
+205,Hakim,Ziyech,135,6135
+206,Ruben,Loftus-Cheek,136,6136
+207,Timo,Werner,137,6137
+208,Robert Kenedy,Nunes do Nascimento,138,6138
+209,Ben,Chilwell,139,6139
+210,Christian,Pulisic,140,6140
+211,Trevoh,Chalobah,141,6141
+212,Mason,Mount,142,6142
+213,Malang,Sarr,143,6143
+214,Callum,Hudson-Odoi,144,6144
+215,Kai,Havertz,145,6145
+216,Reece,James,146,6146
+217,Edouard,Mendy,147,6147
+218,Conor,Gallagher,148,6148
+219,Armando,Broja,150,6150
+220,Ethan,Ampadu,151,6151
+221,Wesley,Fofana,272,6272
+222,Raheem,Sterling,304,6304
+223,Kalidou,Koulibaly,520,6520
+224,Harvey,Vale,606,6606
+225,Denis,Zakaria,616,6616
+226,Pierre-Emerick,Aubameyang,617,6617
+227,Marcus,Bettinelli,635,6635
+228,Omari,Hutchinson,653,6653
+229,Lewis,Hall,661,6661
+230,Bashir,Humphreys,673,6673
+231,David Datro,Fofana,684,6684
+232,Benoît,Badiashile,689,6689
+233,João,Félix Sequeira,690,6690
+234,Mykhailo,Mudryk,699,6699
+235,Andrey,Nascimento dos Santos,702,6702
+236,Noni,Madueke,708,6708
+237,Enzo,Fernández,724,6724
+238,Ethan,Wady,771,6771
+239,Alfie,Gilchrist,775,6775
+240,Albert,Sambi Lokonga,18,6018
+241,Vicente,Guaita,152,6152
+242,James,Tomkins,153,6153
+243,James,McArthur,154,6154
+244,Christian,Benteke,155,6155
+245,Joel,Ward,156,6156
+246,Nathaniel,Clyne,157,6157
+247,Luka,Milivojevic,158,6158
+248,Jordan,Ayew,159,6159
+249,Wilfried,Zaha,160,6160
+250,Jeffrey,Schlupp,161,6161
+251,Will,Hughes,163,6163
+252,Jairo,Riedewald,164,6164
+253,Joachim,Andersen,165,6165
+254,Odsonne,Edouard,166,6166
+255,Marc,Guéhi,167,6167
+256,Jean-Philippe,Mateta,168,6168
+257,Eberechi,Eze,169,6169
+258,Tyrick,Mitchell,170,6170
+259,Michael,Olise,171,6171
+260,Jesurun,Rak-Sakyi,172,6172
+261,Malcolm,Ebiowei,173,6173
+262,Nathan,Ferguson,174,6174
+263,Sam,Johnstone,175,6175
+264,Remi,Matthews,495,6495
+265,Luke,Plange,496,6496
+266,Cheick,Doucouré,514,6514
+267,Chris,Richards,530,6530
+268,Joseph,Whitworth,590,6590
+269,Kaden,Rodney,601,6601
+270,Killian,Phillips,604,6604
+271,John-Kymani,Gordon,634,6634
+272,Kofi,Balmer,642,6642
+273,Owen,Goodman,644,6644
+274,Jack,Wells-Morrison,654,6654
+275,David,Ozoh,676,6676
+276,Naouirou,Ahamada,725,6725
+277,Tayo,Adaramola,766,6766
+278,Neal,Maupay,110,6110
+279,Asmir,Begović,176,6176
+280,Salomón,Rondón,177,6177
+281,Seamus,Coleman,178,6178
+282,Andros,Townsend,179,6179
+283,Michael,Keane,180,6180
+284,Dele,Alli,181,6181
+285,Jordan,Pickford,182,6182
+286,Allan,Marques Loureiro,183,6183
+287,André,Tavares Gomes,184,6184
+288,Abdoulaye,Doucouré,185,6185
+289,Alex,Iwobi,186,6186
+290,Jean-Philippe,Gbamin,187,6187
+291,Yerry,Mina,188,6188
+292,Demarai,Gray,189,6189
+293,Tom,Davies,190,6190
+294,Dominic,Calvert-Lewin,191,6191
+295,Mason,Holgate,192,6192
+296,Ben,Godfrey,193,6193
+297,Vitalii,Mykolenko,194,6194
+298,Jarrad,Branthwaite,196,6196
+299,Nathan,Patterson,197,6197
+300,Niels,Nkounkou,198,6198
+301,James,Tarkowski,199,6199
+302,Conor,Coady,475,6475
+303,Rúben,Nascimento Vinagre,531,6531
+304,Dwight,McNeil,534,6534
+305,Stanley,Mills,560,6560
+306,Lewis,Warrington,561,6561
+307,James,Garner,570,6570
+308,Amadou,Onana,577,6577
+309,Reece,Welch,605,6605
+310,Idrissa,Gueye,611,6611
+311,Eldin,Jakupovic,627,6627
+312,Kyle,John,637,6637
+313,Thomas,Cannon,662,6662
+314,Isaac,Price,678,6678
+315,Ellis,Simms,686,6686
+316,Ishé,Samuels-Smith,757,6757
+317,Andy,Lonergan,760,6760
+318,Sean,McAllister,768,6768
+319,Cédric,Alves Soares,1,6001
+320,Bernd,Leno,2,6002
+321,Shane,Duffy,105,6105
+322,Tom,Cairney,200,6200
+323,Tim,Ream,201,6201
+324,Anthony,Knockaert,202,6202
+325,Nathaniel,Chalobah,203,6203
+326,Neeskens,Kebano,204,6204
+327,Bobby,De Cordova-Reid,205,6205
+328,Joe,Bryan,206,6206
+329,Paulo,Gazzaniga Farias,207,6207
+330,Terence,Kongolo,208,6208
+331,Tosin,Adarabioyo,209,6209
+332,Aleksandar,Mitrović,210,6210
+333,Harrison,Reed,211,6211
+334,Harry,Wilson,212,6212
+335,Marek,Rodák,213,6213
+336,Ivan,Neves Abreu Cavaleiro,214,6214
+337,Kenny,Tete,215,6215
+338,Josh,Onomah,216,6216
+339,Antonee,Robinson,217,6217
+340,Rodrigo,Muniz Carvalho,218,6218
+341,Jay,Stansfield,219,6219
+342,João,Palhinha Gonçalves,220,6220
+343,Daniel,James,231,6231
+344,Andreas,Hoelgebaum Pereira,346,6346
+345,Issa,Diop,470,6470
+346,Tyrese,Francois,521,6521
+347,Kevin,Mbabu,532,6532
+348,Luke,Harris,546,6546
+349,Manor,Solomon,562,6562
+350,Terry,Ablade,591,6591
+351,Layvin,Kurzawa,613,6613
+352,Willian,Borges da Silva,614,6614
+353,Carlos Vinícius,Alves Morais,618,6618
+354,Stefan,Parkes,636,6636
+355,Martial,Godo,641,6641
+356,Kristian,Sekularac,667,6667
+357,Sasa,Lukic,726,6726
+358,George,Wickens,747,6747
+359,Charlie,Robinson,750,6750
+360,Matthew,Dibley-Dias,763,6763
+361,Kasper,Schmeichel,248,6248
+362,Jonny,Evans,249,6249
+363,Ryan,Bertrand,250,6250
+364,Marc,Albrighton,251,6251
+365,Nampalys,Mendy,252,6252
+366,Jannik,Vestergaard,253,6253
+367,Danny,Ward,254,6254
+368,Jamie,Vardy,255,6255
+369,Ricardo,Barbosa Pereira,256,6256
+370,Daniel,Amartey,257,6257
+371,Timothy,Castagne,258,6258
+372,Youri,Tielemans,259,6259
+373,Ayoze,Pérez,260,6260
+374,James,Maddison,261,6261
+375,Kelechi,Iheanacho,262,6262
+376,Hamza,Choudhury,263,6263
+377,Harvey,Barnes,264,6264
+378,Wilfred,Ndidi,265,6265
+379,Kiernan,Dewsbury-Hall,266,6266
+380,Çaglar,Söyüncü,267,6267
+381,James,Justin,268,6268
+382,Boubakary,Soumaré,269,6269
+383,Luke,Thomas,270,6270
+384,Patson,Daka,271,6271
+385,Lewis,Brunt,273,6273
+386,Daniel,Iversen,548,6548
+387,Dennis,Praet,549,6549
+388,Alex,Smithies,581,6581
+389,Wout,Faes,612,6612
+390,Sammy,Braybrooke,639,6639
+391,Joe,Wormleighton,645,6645
+392,Kasey,McAteer,687,6687
+393,Victor,Kristiansen,709,6709
+394,Mateus,Cardoso Lemos Martins,715,6715
+395,Harry,Souttar,727,6727
+396,Wanya,Marçal-Madivadua,735,6735
+397,Liam,Cooper,221,6221
+398,Luke,Ayling,222,6222
+399,Mateusz,Klich,223,6223
+400,Adam,Forshaw,224,6224
+401,Rodrigo,Moreno,225,6225
+402,Stuart,Dallas,226,6226
+403,Patrick,Bamford,227,6227
+404,Diego,Llorente,228,6228
+405,Tyler,Roberts,229,6229
+406,Robin,Koch,230,6230
+407,Raphael,Dias Belloli,232,6232
+408,Jack,Harrison,233,6233
+409,Jamie,Shackleton,234,6234
+410,Pascal,Struijk,235,6235
+411,Kristoffer,Klaesson,236,6236
+412,Sam,Greenwood,237,6237
+413,Illan,Meslier,238,6238
+414,Junior,Firpo Adames,239,6239
+415,Crysencio,Summerville,240,6240
+416,Lewis,Bate,241,6241
+417,Joe,Gelhardt,242,6242
+418,Leo Fuhr,Hjelde,243,6243
+419,Rasmus,Kristensen,244,6244
+420,Marc,Roca Junqué,245,6245
+421,Brenden,Aaronson,246,6246
+422,Darko,Gyabi,247,6247
+423,Tyler,Adams,506,6506
+424,Luis,Sinisterra Lucumí,508,6508
+425,Cody,Drameh,547,6547
+426,Archie,Gray,565,6565
+427,Joel,Robles,578,6578
+428,Wilfried,Gnonto,619,6619
+429,Mateo Joseph,Fernández,659,6659
+430,Sonny,Perkins,663,6663
+431,Maximilian,Wöber,691,6691
+432,Georginio,Rutter,700,6700
+433,Weston,McKennie,720,6720
+434,Jeremiah,Chilokoa-Mullen,742,6742
+435,Diogo,Pinheiro Monteiro,743,6743
+436,James,Milner,274,6274
+437,Jordan,Henderson,275,6275
+438,Joel,Matip,276,6276
+439,Thiago,Alcántara do Nascimento,277,6277
+440,Alex,Oxlade-Chamberlain,278,6278
+441,Roberto,Firmino,279,6279
+442,Virgil,van Dijk,280,6280
+443,Alisson,Ramses Becker,281,6281
+444,Fabio Henrique,Tavares,282,6282
+445,Mohamed,Salah,283,6283
+446,Andrew,Robertson,284,6284
+447,Trent,Alexander-Arnold,285,6285
+448,Joseph,Gomez,286,6286
+449,Naby,Keita,287,6287
+450,Diogo,Teixeira da Silva,288,6288
+451,Caoimhin,Kelleher,289,6289
+452,Ibrahima,Konaté,290,6290
+453,Curtis,Jones,291,6291
+454,Konstantinos,Tsimikas,292,6292
+455,Luis,Díaz,293,6293
+456,Harvey,Elliott,294,6294
+457,Fábio,Freitas Gouveia Carvalho,296,6296
+458,Darwin,Núñez Ribeiro,297,6297
+459,Calvin,Ramsay,298,6298
+460,Adrián,San Miguel del Castillo,497,6497
+461,Rhys,Williams,498,6498
+462,Ben,Davies,499,6499
+463,Sepp,van den Berg,500,6500
+464,Nathaniel,Phillips,501,6501
+465,Luke,Chambers,563,6563
+466,Stefan,Bajcetic,564,6564
+467,Bobby,Clark,584,6584
+468,Harvey,Davies,592,6592
+469,Arthur Henrique,Ramos de Oliveira Melo,620,6620
+470,Ben,Doak,665,6665
+471,Cody,Gakpo,680,6680
+472,Kyle,Walker,299,6299
+473,Ilkay,Gündogan,300,6300
+474,Kevin,De Bruyne,301,6301
+475,John,Stones,302,6302
+476,Riyad,Mahrez,303,6303
+477,Jack,Grealish,305,6305
+478,João,Cancelo,306,6306
+479,Ederson,Santana de Moraes,307,6307
+480,Nathan,Aké,308,6308
+481,Aymeric,Laporte,309,6309
+482,Zack,Steffen,310,6310
+483,Bernardo,Veiga de Carvalho e Silva,311,6311
+484,Rúben,Gato Alves Dias,312,6312
+485,Phil,Foden,314,6314
+486,Rodrigo,Hernandez,315,6315
+487,Cole,Palmer,316,6316
+488,James,McAtee,317,6317
+489,Erling,Haaland,318,6318
+490,Julián,Álvarez,319,6319
+491,Luke,Mbete-Tabu,320,6320
+492,Josh,Wilson-Esbrand,322,6322
+493,Liam,Delap,323,6323
+494,Stefan,Ortega Moreno,324,6324
+495,Kalvin,Phillips,325,6325
+496,Scott,Carson,502,6502
+497,Rico,Lewis,573,6573
+498,Sergio,Gómez,587,6587
+499,Claudio,Gomes,599,6599
+500,Ben,Knight,600,6600
+501,Manuel,Akanji,610,6610
+502,Máximo,Perrone,712,6712
+503,Alex,Robertson,772,6772
+504,Shea,Charles,773,6773
+505,Nico,O'Reilly,774,6774
+506,Jack,Butland,162,6162
+507,Cristiano Ronaldo,dos Santos Aveiro,326,6326
+508,David,De Gea Quintana,327,6327
+509,Phil,Jones,328,6328
+510,Raphaël,Varane,329,6329
+511,Harry,Maguire,330,6330
+512,Frederico,Rodrigues de Paula Santos,331,6331
+513,Luke,Shaw,332,6332
+514,Bruno,Borges Fernandes,333,6333
+515,Alex,Telles,334,6334
+516,Marcus,Rashford,335,6335
+517,Donny,van de Beek,336,6336
+518,Victor,Lindelöf,337,6337
+519,Scott,McTominay,338,6338
+520,Eric,Bailly,339,6339
+521,Jadon,Sancho,340,6340
+522,Aaron,Wan-Bissaka,341,6341
+523,Diogo,Dalot Teixeira,342,6342
+524,Brandon,Williams,343,6343
+525,Anthony,Elanga,344,6344
+526,Anthony,Martial,345,6345
+527,Facundo,Pellistri Rebollo,347,6347
+528,Tom,Heaton,348,6348
+529,Tyrell,Malacia,504,6504
+530,Christian,Eriksen,519,6519
+531,Lisandro,Martínez,533,6533
+532,Amad,Diallo,550,6550
+533,Zidane,Iqbal,551,6551
+534,Alejandro,Garnacho,569,6569
+535,Carlos Henrique,Casimiro,593,6593
+536,Antony Matheus,dos Santos,609,6609
+537,Matej,Kovár,615,6615
+538,Kobbie,Mainoo,643,6643
+539,Nathan,Bishop,656,6656
+540,Shola,Shoretire,660,6660
+541,Rhys,Bennett,674,6674
+542,Wout,Weghorst,701,6701
+543,Marcel,Sabitzer,728,6728
+544,Marc,Jurado Gomez,759,6759
+545,Anthony,Gordon,195,6195
+546,Matt,Ritchie,350,6350
+547,Federico,Fernández,351,6351
+548,Ciaran,Clark,352,6352
+549,Karl,Darlow,353,6353
+550,Martin,Dubravka,355,6355
+551,Callum,Wilson,356,6356
+552,Kieran,Trippier,357,6357
+553,Dan,Burn,358,6358
+554,Ryan,Fraser,359,6359
+555,Jamaal,Lascelles,360,6360
+556,Dwight,Gayle,361,6361
+557,Paul,Dummett,362,6362
+558,Javier,Manquillo Gaitán,363,6363
+559,Emil,Krafth,364,6364
+560,Jacob,Murphy,365,6365
+561,Fabian,Schär,366,6366
+562,Matt,Targett,367,6367
+563,Allan,Saint-Maximin,368,6368
+564,Miguel,Almirón Rejala,369,6369
+565,Sean,Longstaff,370,6370
+566,Joelinton Cássio,Apolinário de Lira,371,6371
+567,Jamal,Lewis,372,6372
+568,Joe,Willock,373,6373
+569,Bruno,Guimarães Rodriguez Moura,374,6374
+570,Jeff,Hendrick,375,6375
+571,Nick,Pope,376,6376
+572,Sven,Botman,377,6377
+573,Elliot,Anderson,552,6552
+574,Harrison,Ashby,555,6555
+575,Alexander,Isak,594,6594
+576,Loris,Karius,626,6626
+577,Garang,Kuol,683,6683
+578,Lewis,Miley,741,6741
+579,Mark,Gillespie,776,6776
+580,Neco,Williams,295,6295
+581,Jonjo,Shelvey,349,6349
+582,Chris,Wood,354,6354
+583,Harry,Arter,378,6378
+584,Steve,Cook,379,6379
+585,Lyle,Taylor,380,6380
+586,Jack,Colback,381,6381
+587,Brice,Samba,382,6382
+588,Carlos,Ribeiro Dias,383,6383
+589,Joe,Lolley,384,6384
+590,Scott,McKenna,385,6385
+591,Mohamed,Dräger,386,6386
+592,Ryan,Yates,387,6387
+593,Joe,Worrall,388,6388
+594,Jonathan,Panzo,389,6389
+595,Xande,Nascimento da Costa Silva,390,6390
+596,Sam,Surridge,391,6391
+597,Richie,Laryea,392,6392
+598,Loïc,Mbe Soh,393,6393
+599,Brennan,Johnson,394,6394
+600,Alex,Mighten,395,6395
+601,Braian,Ojeda Rodríguez,396,6396
+602,Taiwo,Awoniyi,397,6397
+603,Dean,Henderson,398,6398
+604,Giulian,Biancone,399,6399
+605,Willy,Boly,474,6474
+606,Morgan,Gibbs-White,493,6493
+607,Moussa,Niakhaté,507,6507
+608,Omar,Richards,511,6511
+609,Wayne,Hennessey,518,6518
+610,Harry,Toffolo,523,6523
+611,Lewis,O'Brien,524,6524
+612,Jesse,Lingard,527,6527
+613,Orel,Mangala,536,6536
+614,Oliver,Hammond,553,6553
+615,Remo,Freuler,582,6582
+616,Cheikhou,Kouyaté,583,6583
+617,Emmanuel,Dennis,585,6585
+618,Renan Augusto,Lodi dos Santos,602,6602
+619,Loïc,Badé,621,6621
+620,Serge,Aurier,628,6628
+621,Dale,Taylor,666,6666
+622,Jordan,Smith,675,6675
+623,Gustavo Henrique,Furtado Scarpa,681,6681
+624,Danilo,dos Santos de Oliveira,703,6703
+625,Keylor,Navas,729,6729
+626,Felipe Augusto,de Almeida Monteiro,730,6730
+627,André,Ayew,734,6734
+628,George,Shelvey,749,6749
+629,Ainsley,Maitland-Niles,21,6021
+630,Roméo,Lavia,321,6321
+631,Theo,Walcott,400,6400
+632,Alex,McCarthy,401,6401
+633,Oriol,Romeu Vidal,402,6402
+634,Nathan,Redmond,403,6403
+635,Stuart,Armstrong,405,6405
+636,Mohamed,Elyounoussi,406,6406
+637,James,Ward-Prowse,407,6407
+638,Adam,Armstrong,408,6408
+639,Kyle,Walker-Peters,409,6409
+640,Jan,Bednarek,410,6410
+641,Che,Adams,411,6411
+642,Nathan,Tella,412,6412
+643,Lyanco,Silveira Neves Vojnovic,413,6413
+644,Yan,Valery,414,6414
+645,Will,Smallbone,415,6415
+646,Ibrahima,Diallo,416,6416
+647,Romain,Perraud,417,6417
+648,Moussa,Djenepo,418,6418
+649,Tino,Livramento,419,6419
+650,Mohammed,Salisu,420,6420
+651,Mateusz,Lis,421,6421
+652,Gavin,Bazunu,422,6422
+653,Armel,Bella-Kotchap,423,6423
+654,Willy,Caballero,424,6424
+655,Joe,Ayodele-Aribo,512,6512
+656,Sékou,Mara,528,6528
+657,Juan,Larios López,622,6622
+658,Duje,Caleta-Car,623,6623
+659,Samuel,Edozie,624,6624
+660,Lewis,Payne,647,6647
+661,Ryan,Finnigan,648,6648
+662,Jimmy,Morgan,671,6671
+663,Mislav,Orsic,692,6692
+664,Carlos,Alcaraz,693,6693
+665,James,Bree,716,6716
+666,Kamaldeen,Sulemana,731,6731
+667,Paul,Onuachu,732,6732
+668,Kamari,Doyle,769,6769
+669,Dominic,Ballard,770,6770
+670,Samuel,Amo-Ameyaw,778,6778
+671,Hugo,Lloris,425,6425
+672,Fraser,Forster,426,6426
+673,Harry,Kane,427,6427
+674,Son,Heung-min,428,6428
+675,Matt,Doherty,429,6429
+676,Eric,Dier,430,6430
+677,Lucas,Rodrigues Moura da Silva,431,6431
+678,Ben,Davies,432,6432
+679,Pierre-Emile,Højbjerg,433,6433
+680,Harry,Winks,434,6434
+681,Davinson,Sánchez,435,6435
+682,Ryan,Sessegnon,436,6436
+683,Steven,Bergwijn,437,6437
+684,Sergio,Reguilón,438,6438
+685,Japhet,Tanganga,439,6439
+686,Rodrigo,Bentancur,440,6440
+687,Oliver,Skipp,441,6441
+688,Joe,Rodon,442,6442
+689,Cristian,Romero,443,6443
+690,Yves,Bissouma,444,6444
+691,Emerson,Leite de Souza Junior,445,6445
+692,Dejan,Kulusevski,446,6446
+693,Dane,Scarlett,447,6447
+694,Ivan,Perišić,448,6448
+695,Harvey,White,449,6449
+696,Pape Matar,Sarr,450,6450
+697,Brandon,Austin,451,6451
+698,Alfie,Devine,452,6452
+699,Troy,Parrott,453,6453
+700,Richarlison,de Andrade,454,6454
+701,Clément,Lenglet,513,6513
+702,Djed,Spence,522,6522
+703,Bryan,Gil Salvatierra,554,6554
+704,Arnaut,Danjuma,713,6713
+705,Pedro,Porro,733,6733
+706,Romaine,Mundle,748,6748
+707,George,Abbott,758,6758
+708,Matthew,Craig,764,6764
+709,Yago,de Santiago Alonso,777,6777
+710,Danny,Ings,30,6030
+711,Lukasz,Fabianski,455,6455
+712,Angelo,Ogbonna,456,6456
+713,Aaron,Cresswell,457,6457
+714,Michail,Antonio,458,6458
+715,Manuel,Lanzini,460,6460
+716,Kurt,Zouma,461,6461
+717,Arthur,Masuaku,462,6462
+718,Vladimir,Coufal,463,6463
+719,Saïd,Benrahma,464,6464
+720,Jarrod,Bowen,465,6465
+721,Nikola,Vlasic,466,6466
+722,Declan,Rice,467,6467
+723,Tomas,Soucek,468,6468
+724,Pablo,Fornals Malla,469,6469
+725,Ben,Johnson,471,6471
+726,Nayef,Aguerd,472,6472
+727,Alphonse,Areola,473,6473
+728,Flynn,Downes,509,6509
+729,Gianluca,Scamacca,529,6529
+730,Emerson,Palmieri dos Santos,545,6545
+731,Conor,Coventry,556,6556
+732,Armstrong,Oko-Flex,572,6572
+733,Maxwel,Cornet,575,6575
+734,Thilo,Kehrer,588,6588
+735,Lucas,Tolentino Coelho de Lima,603,6603
+736,Divin,Mubama,669,6669
+737,Joseph,Anang,739,6739
+738,Krisztián,Hegyi,740,6740
+739,Kaelan,Casey,746,6746
+740,Craig,Dawson,459,6459
+741,Raúl,Jiménez,476,6476
+742,Jonathan,Castro Otto,477,6477
+743,José,Malheiro de Sá,478,6478
+744,Rúben,da Silva Neves,480,6480
+745,Hwang,Hee-chan,481,6481
+746,Nélson,Cabral Semedo,482,6482
+747,Daniel,Castelo Podence,483,6483
+748,Max,Kilman,484,6484
+749,Luke,Cundle,485,6485
+750,Pedro,Lomba Neto,486,6486
+751,Rayan,Aït-Nouri,487,6487
+752,Fabio,Silva,488,6488
+753,Toti António,Gomes,489,6489
+754,Francisco Jorge,Tomás Oliveira,490,6490
+755,Adama,Traoré Diarra,491,6491
+756,Matija,Šarkić,492,6492
+757,Yerson,Mosquera Valdelamar,494,6494
+758,João Filipe Iria,Santos Moutinho,503,6503
+759,Nathan,Collins,516,6516
+760,Jackson,Smith,557,6557
+761,Hugo,Bueno López,558,6558
+762,Joseph,Hodge,566,6566
+763,Connor,Ronan,567,6567
+764,Chem,Campbell,568,6568
+765,Gonçalo Manuel,Ganchinho Guedes,579,6579
+766,Matheus Luiz,Nunes,589,6589
+767,Sasa,Kalajdzic,608,6608
+768,Diego,Da Silva Costa,625,6625
+769,Boubacar,Traoré,629,6629
+770,Nathan,Fraser,657,6657
+771,Harvey,Griffiths,658,6658
+772,Dexter,Lembikisa,664,6664
+773,Matheus,Santos Carneiro Da Cunha,682,6682
+774,Mario,Lemina,698,6698
+775,Pablo,Sarabia,704,6704
+776,Daniel,Bentley,717,6717
+777,João Victor,Gomes da Silva,721,6721

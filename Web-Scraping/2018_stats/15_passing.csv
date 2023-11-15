@@ -1,0 +1,29 @@
+,Date,Day,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Cmp,Att,Cmp%,TotDist,PrgDist,Cmp,Att,Cmp%,Cmp,Att,Cmp%,Cmp,Att,Cmp%,Ast,xAG,xA,KP,1/3,PPA,CrsPA,PrgP,Match Report
+0,2018-08-12,Sun,Matchweek 1,Home,L 0–2,Arsenal,Manchester City,N,"On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play",Match Report
+1,2018-08-18,Sat,Matchweek 2,Away,L 2–3,Arsenal,Chelsea,Y,LW,74,11,19,57.9,156,25,6,7,85.7,5,5,100.0,0,3,0.0,0,0.8,0.4,2,0,0,0,1,Match Report
+5,2018-09-29,Sat,Matchweek 7,Home,W 2–0,Arsenal,Watford,N,"RW,LW",28,12,18,66.7,135,45,8,8,100.0,4,6,66.7,0,3,0.0,0,0.0,0.0,0,1,1,0,3,Match Report
+6,2018-10-07,Sun,Matchweek 8,Away,W 5–1,Arsenal,Fulham,Y,LM,66,17,26,65.4,312,86,7,9,77.8,7,10,70.0,3,5,60.0,0,0.0,0.1,0,1,3,0,6,Match Report
+7,2018-10-22,Mon,Matchweek 9,Home,W 3–1,Arsenal,Leicester City,Y,"LW,RW,LM",90,40,50,80.0,554,128,26,29,89.7,13,19,68.4,1,1,100.0,0,0.2,0.4,2,2,3,0,5,Match Report
+8,2018-10-28,Sun,Matchweek 10,Away,D 2–2,Arsenal,Crystal Palace,Y,"RW,RM",90,24,35,68.6,331,53,13,16,81.3,10,16,62.5,0,1,0.0,0,0.0,0.0,0,0,2,0,3,Match Report
+9,2018-11-03,Sat,Matchweek 11,Home,D 1–1,Arsenal,Liverpool,N,"LB,LW,RW",23,18,24,75.0,365,123,8,9,88.9,7,9,77.8,3,5,60.0,1,0.1,0.2,1,1,3,1,5,Match Report
+10,2018-11-11,Sun,Matchweek 12,Home,D 1–1,Arsenal,Wolves,Y,RW,45,29,36,80.6,470,71,16,17,94.1,12,17,70.6,1,1,100.0,0,0.0,0.1,0,1,3,0,5,Match Report
+11,2018-11-25,Sun,Matchweek 13,Away,W 2–1,Arsenal,Bournemouth,Y,AM,81,32,46,69.6,424,136,21,25,84.0,8,11,72.7,2,4,50.0,0,0.1,0.1,1,3,6,0,10,Match Report
+12,2018-12-02,Sun,Matchweek 14,Home,W 4–2,Arsenal,Tottenham,Y,LW,45,14,18,77.8,227,116,6,6,100.0,4,4,100.0,2,5,40.0,0,0.0,0.0,0,4,1,0,3,Match Report
+13,2018-12-05,Wed,Matchweek 15,Away,D 2–2,Arsenal,Manchester Utd,Y,AM,64,28,39,71.8,478,88,12,14,85.7,13,16,81.3,2,5,40.0,0,0.0,0.0,0,1,2,0,5,Match Report
+14,2018-12-08,Sat,Matchweek 16,Home,W 1–0,Arsenal,Huddersfield,N,LW,45,13,21,61.9,160,34,10,13,76.9,3,4,75.0,0,1,0.0,0,0.0,0.0,1,0,0,0,2,Match Report
+15,2018-12-16,Sun,Matchweek 17,Away,L 2–3,Arsenal,Southampton,Y,"LW,AM",69,29,37,78.4,407,119,20,22,90.9,7,10,70.0,2,4,50.0,0,0.0,0.0,0,2,1,0,4,Match Report
+16,2018-12-22,Sat,Matchweek 18,Home,W 3–1,Arsenal,Burnley,N,AM,13,2,3,66.7,47,23,1,1,100.0,0,1,0.0,1,1,100.0,0,0.1,0.0,1,1,0,0,1,Match Report
+17,2018-12-26,Wed,Matchweek 19,Away,D 1–1,Arsenal,Brighton,N,"AM,LW",45,18,23,78.3,284,45,9,10,90.0,7,9,77.8,1,2,50.0,0,0.0,0.0,0,2,0,0,3,Match Report
+18,2018-12-29,Sat,Matchweek 20,Away,L 1–5,Arsenal,Liverpool,Y,LW,90,34,42,81.0,565,118,15,17,88.2,13,15,86.7,4,7,57.1,1,0.7,0.6,2,4,2,0,5,Match Report
+19,2019-01-01,Tue,Matchweek 21,Home,W 4–1,Arsenal,Fulham,Y,"AM,LW",82,28,39,71.8,424,112,18,22,81.8,6,9,66.7,3,5,60.0,1,1.4,0.6,3,1,3,1,2,Match Report
+20,2019-01-12,Sat,Matchweek 22,Away,L 0–1,Arsenal,West Ham,Y,"AM,LW",90,33,45,73.3,444,159,20,24,83.3,12,13,92.3,0,1,0.0,0,0.2,0.0,2,3,1,0,9,Match Report
+22,2019-01-29,Tue,Matchweek 24,Home,W 2–1,Arsenal,Cardiff City,N,LW,45,20,24,83.3,263,91,10,11,90.9,9,11,81.8,0,1,0.0,0,0.1,0.1,1,0,4,0,6,Match Report
+23,2019-02-03,Sun,Matchweek 25,Away,L 1–3,Arsenal,Manchester City,Y,RM,65,15,19,78.9,146,36,11,13,84.6,2,2,100.0,0,1,0.0,0,0.0,0.0,0,1,0,0,2,Match Report
+24,2019-02-09,Sat,Matchweek 26,Away,W 2–1,Arsenal,Huddersfield,Y,LW,87,22,36,61.1,333,140,8,11,72.7,13,19,68.4,0,1,0.0,0,0.1,0.2,1,2,4,1,5,Match Report
+25,2019-02-24,Sun,Matchweek 27,Home,W 2–0,Arsenal,Southampton,Y,LW,74,36,46,78.3,465,171,21,25,84.0,10,11,90.9,2,5,40.0,0,0.1,0.1,3,1,6,1,8,Match Report
+27,2019-03-02,Sat,Matchweek 29,Away,D 1–1,Arsenal,Tottenham,Y,LW,90,22,33,66.7,315,106,11,15,73.3,5,7,71.4,2,2,100.0,0,0.7,0.6,2,3,0,0,4,Match Report
+31,2019-04-15,Mon,Matchweek 34,Away,W 1–0,Arsenal,Watford,Y,"LW,WB",90,58,67,86.6,869,289,29,32,90.6,26,28,92.9,2,3,66.7,0,1.0,0.8,7,4,8,2,13,Match Report
+32,2019-04-21,Sun,Matchweek 35,Home,L 2–3,Arsenal,Crystal Palace,N,LW,45,26,40,65.0,330,105,19,23,82.6,4,8,50.0,1,3,33.3,0,0.0,0.0,0,4,0,0,6,Match Report
+33,2019-04-24,Wed,Matchweek 31,Away,L 1–3,Arsenal,Wolves,Y,"LW,RW",70,39,49,79.6,612,74,22,27,81.5,16,17,94.1,1,2,50.0,0,0.0,0.1,0,2,1,0,2,Match Report
+35,2019-05-05,Sun,Matchweek 37,Home,D 1–1,Arsenal,Brighton,N,WB,14,6,16,37.5,104,11,3,5,60.0,3,6,50.0,0,2,0.0,0,0.1,0.0,1,0,1,0,1,Match Report
+36,2019-05-12,Sun,Matchweek 38,Away,W 3–1,Arsenal,Burnley,Y,LW,90,42,55,76.4,683,232,26,28,92.9,11,14,78.6,4,7,57.1,2,0.6,0.6,5,5,3,0,11,Match Report

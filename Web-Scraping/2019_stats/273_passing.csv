@@ -1,0 +1,32 @@
+,Date,Day,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Cmp,Att,Cmp%,TotDist,PrgDist,Cmp,Att,Cmp%,Cmp,Att,Cmp%,Cmp,Att,Cmp%,Ast,xAG,xA,KP,1/3,PPA,CrsPA,PrgP,Match Report
+0,2019-08-09,Fri,Matchweek 1,Away,L 1–4,Norwich City,Liverpool,Y,CB,90,35,43,81.4,695,297,16,16,100.0,14,17,82.4,5,9,55.6,0,0.0,0.0,0,1,0,0,0,Match Report
+1,2019-08-17,Sat,Matchweek 2,Home,W 3–1,Norwich City,Newcastle Utd,Y,CB,90,51,54,94.4,954,343,23,24,95.8,21,22,95.5,7,8,87.5,0,0.0,0.0,0,1,0,0,2,Match Report
+2,2019-08-24,Sat,Matchweek 3,Home,L 2–3,Norwich City,Chelsea,Y,CB,90,56,64,87.5,1034,226,21,23,91.3,30,31,96.8,5,8,62.5,0,0.0,0.0,0,1,0,0,1,Match Report
+3,2019-08-31,Sat,Matchweek 4,Away,L 0–2,Norwich City,West Ham,Y,CB,90,61,64,95.3,1006,358,31,32,96.9,21,22,95.5,7,8,87.5,0,0.0,0.0,0,2,0,0,2,Match Report
+4,2019-09-14,Sat,Matchweek 5,Home,W 3–2,Norwich City,Manchester City,Y,CB,90,29,35,82.9,574,163,12,12,100.0,11,14,78.6,6,8,75.0,0,0.0,0.0,0,0,0,0,1,Match Report
+5,2019-09-21,Sat,Matchweek 6,Away,L 0–2,Norwich City,Burnley,Y,CB,90,53,57,93.0,944,289,30,32,93.8,18,18,100.0,5,6,83.3,0,0.0,0.0,0,1,0,0,2,Match Report
+6,2019-09-28,Sat,Matchweek 7,Away,L 0–2,Norwich City,Crystal Palace,Y*,CB,90,71,78,91.0,996,495,44,45,97.8,17,19,89.5,5,7,71.4,0,0.0,0.1,0,8,1,0,6,Match Report
+7,2019-10-05,Sat,Matchweek 8,Home,L 1–5,Norwich City,Aston Villa,Y*,CB,90,43,46,93.5,701,340,23,25,92.0,19,19,100.0,1,2,50.0,0,0.0,0.0,0,1,0,0,0,Match Report
+8,2019-10-19,Sat,Matchweek 9,Away,D 0–0,Norwich City,Bournemouth,Y,CB,49,26,28,92.9,475,144,9,9,100.0,16,16,100.0,1,2,50.0,0,0.0,0.0,0,0,0,0,0,Match Report
+9,2019-10-27,Sun,Matchweek 10,Home,L 1–3,Norwich City,Manchester Utd,Y,CB,90,51,56,91.1,989,338,18,18,100.0,27,30,90.0,6,8,75.0,0,0.0,0.0,0,1,0,0,3,Match Report
+10,2019-11-02,Sat,Matchweek 11,Away,L 0–2,Norwich City,Brighton,Y,CB,90,43,46,93.5,742,290,23,23,100.0,17,18,94.4,2,3,66.7,0,0.0,0.0,0,3,0,0,1,Match Report
+11,2019-11-08,Fri,Matchweek 12,Home,L 0–2,Norwich City,Watford,Y,CB,90,95,99,96.0,1760,578,44,45,97.8,41,41,100.0,9,11,81.8,0,0.0,0.0,0,4,0,0,9,Match Report
+12,2019-11-23,Sat,Matchweek 13,Away,W 2–0,Norwich City,Everton,Y,CB,90,19,20,95.0,415,159,8,8,100.0,6,6,100.0,5,6,83.3,0,0.0,0.0,0,2,0,0,1,Match Report
+13,2019-12-01,Sun,Matchweek 14,Home,D 2–2,Norwich City,Arsenal,Y,CB,90,32,38,84.2,657,253,7,8,87.5,22,24,91.7,3,4,75.0,0,0.0,0.0,0,1,0,0,1,Match Report
+14,2019-12-04,Wed,Matchweek 15,Away,L 1–2,Norwich City,Southampton,Y,CB,90,74,82,90.2,1466,361,22,23,95.7,42,45,93.3,9,11,81.8,0,0.0,0.0,0,4,0,0,1,Match Report
+15,2019-12-08,Sun,Matchweek 16,Home,L 1–2,Norwich City,Sheffield Utd,Y,CB,90,47,67,70.1,827,196,18,25,72.0,29,36,80.6,0,4,0.0,0,0.0,0.0,0,1,0,0,1,Match Report
+16,2019-12-14,Sat,Matchweek 17,Away,D 1–1,Norwich City,Leicester City,Y,CB,90,35,44,79.5,745,347,14,14,100.0,11,15,73.3,9,14,64.3,0,0.0,0.2,0,3,0,0,0,Match Report
+18,2020-01-18,Sat,Matchweek 23,Home,W 1–0,Norwich City,Bournemouth,Y,CB,75,70,74,94.6,1403,473,16,16,100.0,49,52,94.2,5,6,83.3,0,0.0,0.0,0,2,0,0,5,Match Report
+20,2020-02-15,Sat,Matchweek 26,Home,L 0–1,Norwich City,Liverpool,N,"On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play",Match Report
+21,2020-02-23,Sun,Matchweek 27,Away,L 0–3,Norwich City,Wolves,Y,CB,90,65,76,85.5,1118,350,31,32,96.9,28,32,87.5,5,10,50.0,0,0.0,0.0,0,3,0,0,7,Match Report
+22,2020-02-28,Fri,Matchweek 28,Home,W 1–0,Norwich City,Leicester City,Y,CB,90,34,35,97.1,723,228,15,15,100.0,12,13,92.3,7,7,100.0,0,0.0,0.0,0,2,0,0,4,Match Report
+23,2020-03-07,Sat,Matchweek 29,Away,L 0–1,Norwich City,Sheffield Utd,Y,CB,90,62,73,84.9,1181,313,21,22,95.5,32,37,86.5,8,12,66.7,0,0.0,0.0,0,1,0,0,3,Match Report
+24,2020-06-19,Fri,Matchweek 30,Home,L 0–3,Norwich City,Southampton,Y,CB,90,38,53,71.7,730,116,11,15,73.3,24,27,88.9,3,10,30.0,0,0.0,0.0,0,0,0,0,0,Match Report
+25,2020-06-24,Wed,Matchweek 31,Home,L 0–1,Norwich City,Everton,Y,CB,90,34,41,82.9,668,199,10,10,100.0,20,22,90.9,4,9,44.4,0,0.0,0.0,0,2,0,0,2,Match Report
+26,2020-07-01,Wed,Matchweek 32,Away,L 0–4,Norwich City,Arsenal,Y,CB,90,57,65,87.7,1056,233,18,22,81.8,34,35,97.1,5,8,62.5,0,0.0,0.0,1,3,0,0,3,Match Report
+27,2020-07-04,Sat,Matchweek 33,Home,L 0–1,Norwich City,Brighton,Y,CB,90,65,72,90.3,1309,481,18,19,94.7,39,40,97.5,6,10,60.0,0,0.1,0.0,2,5,1,0,6,Match Report
+28,2020-07-07,Tue,Matchweek 34,Away,L 1–2,Norwich City,Watford,Y,CB,90,55,63,87.3,1118,385,17,19,89.5,32,34,94.1,6,8,75.0,0,0.0,0.0,0,4,0,0,5,Match Report
+29,2020-07-11,Sat,Matchweek 35,Home,L 0–4,Norwich City,West Ham,Y,CB,90,79,88,89.8,1575,576,27,29,93.1,42,45,93.3,10,14,71.4,0,0.0,0.0,0,6,0,0,9,Match Report
+30,2020-07-14,Tue,Matchweek 36,Away,L 0–1,Norwich City,Chelsea,Y,CB,90,42,50,84.0,786,227,12,15,80.0,26,27,96.3,3,7,42.9,0,0.0,0.0,0,2,0,0,1,Match Report
+31,2020-07-18,Sat,Matchweek 37,Home,L 0–2,Norwich City,Burnley,Y,CB,90,28,36,77.8,467,87,11,11,100.0,16,19,84.2,1,5,20.0,0,0.0,0.0,0,0,0,0,0,Match Report
+32,2020-07-26,Sun,Matchweek 38,Away,L 0–5,Norwich City,Manchester City,Y,CB,90,20,28,71.4,400,40,7,7,100.0,10,10,100.0,3,9,33.3,0,0.0,0.0,0,0,0,0,0,Match Report
